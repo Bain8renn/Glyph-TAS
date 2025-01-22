@@ -17,7 +17,7 @@
 #play, Memories2, 37
 
 
-console load BeefyUncleTorre/map/1 
+console load BeefyUncleTorre/map/1
    1
 
 #lvl_crane-01
@@ -27,26 +27,28 @@ console load BeefyUncleTorre/map/1
  190
    8,R,J
   14,U,X
-  12,R
+   9,R
+   1
+   1,R
+   1
    2,R,J
-   3,R,K,G
+   1,R,K,G
+   1,R,J,G
    3,R
   15,R,D,X
-   2,R,D
-  33,D
-   3,L,D
-   6,L,D
+  31,D
+  13,L,D
    7,L,D,X
    1,L,J
    7,L
    1,L,J
   14,L,D,X
-   4,L,J
+   5,L,J
    1,L
    1,L,J
-   1,L
   14,U,X
-   5,L,J
+   3,L,J
+   2,L
    1,L,K,G
    9,L
    7,L,J
@@ -120,58 +122,69 @@ console load BeefyUncleTorre/map/1
   29,R,J
    1,R
    1
-   6,L,J
-   1,L
-  10,R,X
-  17,R,J
-   2,J
-  15,U,Z
-  29,L,J
-   3,L,K,G
-   1,L
+   6,R,J
+   1,R
+  11,R,X
+   6,R,J
+   3,R
+   4
+  13,L,J
+   1,K,G
+  15,U,X
+  31,L,J
+   6,L,K
+   2,K
+   1,R
    1,L,J,G
-   7,L
-   6,L,J
-   1,J
-   1,R,J
-   1,L,K,G
   15,U,X
-  30,L,J
-   1
-  12,L,J
-  12,K,G
+  31,L,J
+  12,L,K
   12,J,G
-   1,L,J
+   1,L,K,G
+  10,K
+   1,R,K
+   1,L,J,G
   15,U,X
-  29,L,J
-   2,L
+  31,L,J
    4,X
    6,L,J
    7,L
    5,L,J
-   1,K,G
-   2
-  15,U,X
-   4,L,J
-   2,R,J
-  10,L,J
-   1,K,G
-   7,L
+   1,J
+   1,R,J
+   1,L,K,G
+  14,U,X
    3,L,J
+   2,R,J
+  11,L,J
+   1,L,K,G
+   1,R
+   6,L
+   8,L,J
   15,U,X
    1
   12,R,J,G
   12,R,K,G
-  12,R,J,G
-   2,K,G
+   8,R,J,G
+   1,K,G
    1,L,K
   12,R,J,G
-   4,R
-   3
-   1,R,J
-   3,J
-   7,K,G
-   5,L,K
+   7,R
+## Tying strat but messes with cycles
+#   2,R,J
+#   1,R,K,G
+#  12,R,J,G
+#   1,K,G
+#   5,R,Z
+#   1,R,J
+#   6,R
+#   2,R,D
+#  15,R,J
+#  19,U,X
+##
+   4,R,J
+   5,K,G
+   7,L,K
   10,R,Z
   17,L,J
   15,U,X
@@ -190,7 +203,7 @@ console load BeefyUncleTorre/map/1
    1,R,J
    2,J
   40
- 
+
 #lvl_peace-000
    1,R
   14,R,X
@@ -208,135 +221,141 @@ console load BeefyUncleTorre/map/1
   13,R,U,X
    1,J,G
    9
-   3,L,J
-  16,U,X
-   8,R,J,G
+   2,L,J
+   1,R,J
+
+  17,U,X
+  30,R,J
    1,R
-   1,R,J,G
-   4
+   3,R,K
    2,R
-   1,L
-   1,L,J
-   1,J
-   1,L,J
-   1,J
-   4,L,K
-   7,L,J
-   3,L
-  10,R,Z
-  34,L,J
-  30,L,U,K,X
-   1,L,J,G
-   3,J
-   3,R,J
+   1
+   2,R
+   1
    1,R
-   1,L,K,G
-   4,R,K
-   8,L,K
+  14,L,D,X
+#  29,L,J
+#***
+#  24,L,U,X
+#   1,J,G
+
+
+
+  30,L,J
+  27,L,U,X
+   1,K,G
+   1,R,K
    1,L,J,G
-   5,L,K,G
-   7,L
-  10,L,K
+   4,L,K,G
+   2,R,K
+   1,L,K
+   2,K
+   1,L,K
+   1,L,J,G
+   1,L,K,G
+   2,L
+   1
+   4,L
+   4,L,J
+  10,L,K,G
    1,J
-  10,R,J
+   2,K,G
+   8,R,K
   15,U,X
-   7,R,J
-   7,L,J
+   4,R,J
+  10,J
   40
 
-#lvl_peace-01
-   2
-   1,L
-   1
+   5,R
    1,R,J,G
    1,R,K,G
-   1,R,J,G
-  10,R
-  18,R,J
+   1,R
+   1
+   7,R
+   1,R,J
+  17,R,D,J
    1,K,G
    1,L,K
-  10,R,J,G
-  12,L,K
+   1,R,J,G
+   1,L,J
+   7,J
+   3,L,J
+  10,L,K
   10,R,X
    1,R,J
    4,J
-   2,R,J
-  21,R,D
-   1,D
-   8,R,D
-   4,D,X
-   9,R,X
-   2,R,J
-   9,R,D,X
+   1,R,J
+  30,R,D
+  14,R,Z
+   1,R,J
+  10,R,D,X
   40
 
 #lvl_peace-02
-   2,R,D,X
+   1,R,D,X
    1,R,J
-   4,R
+   3,R
+   1,R,J
+   3,R
+  14,R,J
+   1,K,G
    1,R,K
+   1,L,K
+   1,R,J,G
+   3,R,K,G
+   1,K
+  19,R,K
+   1,R
+   1,R,J
    2,R
-  13,R,J
-   1,R,K,G
-   2,L,K
-   1,R,K
-   1
-   5,J,G
-  19,R,J
   15,R,U,X
-  32,R
+  29,R
   15,U,X
-   4,R
-  15,R,X
+  15,R,C
   16,R,D
-   5,R,Z
+   5,Z
    2,R,J
    1,R
   40
- 
-#lvl_peace-03
+
    1,L,J
-  29,L,D
-  39,L,K
-   9,U,X
-  13,R,J
-  30,R,D
-  16,R,D
-   8,D
+  28,L,D
+  41,L,J
+   7,U,X
+  14,R,J
+   9,R
+   2,R,J
+  42,R,D
+   1,D
   40
 
-#lvl_peace-04
-  11,R,D
+   8,D
+   3,R,D
   10,L,D,X
    1,L,J
-  30,R,D
-   7,R
+  37,R,D
    6,U,X
-  35,R,J
-   2,J
-   1,R,J
-   1,J
-   1,L,K
+  36,R,J
+   2
+   1,L,D,J
    5,L
-   4
-   4,R
-   1
-   4,R
-  15,R,D,X
-   1,R
-   5,R,D
-   1,R
-   1,R,D
-   1,J,G
+   6
    7,R
-  12,R,X
-   3,R,J
-  12,R,U,X
+  19,R,D,X
+   2,R
+   2,R,D
+   1,R,J,G
+   7,R
+   4,Z
+   6,R,J
+   3
+   4,R,J,G
+   3,J
   40
 
-#lvl_peace-05
-   4,R
-   8,U,Z
+   1,J
+   2,R,J
+  11,U,Z
   34,R,J
    5,R
   15,R,Z
@@ -368,7 +387,7 @@ console load BeefyUncleTorre/map/1
    8,R,K,G
   40
 
-#lvl_peace-06
+#lvl_peace-06 (0)
    1,L,J
    9,L
    1,R,J
@@ -522,8 +541,7 @@ console load BeefyUncleTorre/map/1
    5,L,D
   11,L
   16,L,G
-   1,L
-   1,L
+   2,L
    1,L,G
    1,L
    1,L,G
@@ -537,7 +555,7 @@ console load BeefyUncleTorre/map/1
   14,L,D
   40
 
-#lvl_peace-06
+#lvl_peace-06 (1)
    2,L,D
    5,L
   15,L,D,X
@@ -645,7 +663,7 @@ console load BeefyUncleTorre/map/1
    5,R
    1,J
   40
- 
+
 #lvl_heat-00-02
    1,J
    2
@@ -770,8 +788,7 @@ console load BeefyUncleTorre/map/1
    1,G
    2
    1,G
-   2
-   6
+   8
    1,G
    3
    1,G
@@ -828,8 +845,7 @@ console load BeefyUncleTorre/map/1
    5
   10,R,Z
    4,L,J
-   1,L
-   1,L
+   2,L
   11,L,X
    1,R,J
   10,L,J
@@ -846,8 +862,7 @@ console load BeefyUncleTorre/map/1
    7,R,J,G
    1,L,J
    2,R,J
-   1,R
-   7,R
+   8,R
    1,G
    3
    2,G
@@ -1352,10 +1367,8 @@ EndStunPause
   21,L
    1,G
    1,J
-   4,R
-   1,R
-   3,R,J
-   5,R,J
+   5,R
+   8,R,J
    9,L,Z
    1,L,K,G
    1,L
@@ -1426,7 +1439,7 @@ EndStunPause
    1,L,J
    7,L
   40
- 
+
 #lvl_cold-03
    1,L,J
   14,L,D,X
@@ -1491,8 +1504,7 @@ EndStunPause
    4,L
    1,L,J
    5
-   6,D
-   2,D
+   8,D
    3,L,D
   14,L
   18,U,X
@@ -1503,8 +1515,7 @@ EndStunPause
   12,L,X
    1,G
    1,L,J,G
-   2,L
-   8,L
+  10,L
    1,L,J
    5,L
   11,R,D,X
@@ -1911,7 +1922,7 @@ EndStunPause
    1,L,D
    1,L,J
   40
- 
+
 #fall-05a
    4,L,J
   15,L,D,X
@@ -1960,8 +1971,7 @@ EndStunPause
    7,L
   55
    1,J
-  43
-  40
+  83
 
 #lvl_fall-14
   12,L,D
@@ -1991,8 +2001,7 @@ EndStunPause
 ##
   71,U
    1,X
-  19,R
-   6,R
+  25,R
    1,R,J
   15,D,C
    8,R,D
@@ -2121,8 +2130,7 @@ EndStunPause
    1
    1,L
   15,U,X
-   1
-  40
+  41
 
 #fall-11a
    1,L,J
@@ -2193,8 +2201,7 @@ EndStunPause
   15,R,U,X
    8,R
    8,J,G
-   7
-   3
+  10
    6,L
    4
   15,R,D,X
@@ -2457,8 +2464,7 @@ EndStunPause
   15,L
   11,L,J,G
   24,L
-   1,L,J
-   3,L,J
+   4,L,J
   13,K,G
   16,U,X
   19,R,J
@@ -2552,15 +2558,14 @@ EndStunPause
   55,G
   51
    1,D
-   1
-   1
+   2
    6,D
   60,G
    8,L,J
   14,R,K
   40
- 
-#lvl_memory-14
+
+#lvl_memory-14 (0)
   11,R
 #lightning cycle
    1
@@ -2600,7 +2605,7 @@ EndStunPause
   10,L,Z
   40
 
-#lvl_memory-14
+#lvl_memory-14 (1)
    1,L,D,X
    1,L,J
    7,L
@@ -2657,8 +2662,7 @@ EndStunPause
    1,L,J
    6,L
   15,U,X
-  15,L,J
-   1,L,J
+  16,L,J
    1
   15,L,D,X
    1,D
@@ -2870,8 +2874,7 @@ EndStunPause
   10,R,K
   12,R
   15,R,X
-  18,R,D
-   2,R,D
+  20,R,D
    2
    1,R
    1,R,D
@@ -2883,8 +2886,7 @@ EndStunPause
    8,R,K,G
    7
    4,R,J
-   1
-  11
+  12
    2,K
    4,L,D,J
    3,R,D,J
@@ -2917,8 +2919,7 @@ EndStunPause
    1,R
    1,R,D,J
    5,L,D,J
-   2,L
-   5,L
+   7,L
    2,R,D,J
    8,L,J
    8,L
@@ -3106,8 +3107,7 @@ EndStunPause
    3,R
    2,R,D
   15,L,X
-   4
-  12
+  16
   15,R,D,C
   14,L,D,X
    1,R,J
@@ -3128,8 +3128,7 @@ EndStunPause
   15,L,X
   14,L
   16,L,D
-  12,R,D
-   7,R,D
+  19,R,D
    4,D
    5,R,D
   15,R,X
@@ -3143,8 +3142,7 @@ EndStunPause
   15,R
    1
    3,D
-  12,L,D
-   4,L,D
+  16,L,D
   15,L,D,X
    1,L,D
    1,D
@@ -3320,12 +3318,10 @@ EndStunPause
    2,J
    1,L,K,G
    9,L,J,G
-   3,L
-   1,L
+   4,L
    1,R,K
   11,J
-   5
-   1
+   6
    1,J
   10
   12,R,Z
@@ -3475,4 +3471,5 @@ EndStunPause
    1,R
  163,L
    1
-ChapterTime: 7:05.238(25014)
+
+ChapterTime: 7:04.983(24999)
