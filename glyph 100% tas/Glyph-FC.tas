@@ -1,10 +1,14 @@
 console load BeefyUncleTorre/map/1
    1
-  40
 
-
+#Start
 #lvl_crane-01
- 150
+ 190
+
+#peace-21/cold-06 spinner cycle
+   0
+#
+
    8,R,J
   14,U,X
   12,R
@@ -41,59 +45,49 @@ console load BeefyUncleTorre/map/1
    2
    1,L
    2
-  14,R,D,X
+   8,R,D,X
+
+#lvl_memory-00
+   6,R,D,X
    1,R,J
   15,R,D,X
    2,R,J
   15,R,D,X
    7,R
-   9,R,J
-   6,R
-  14,R,U,X
-   1,R,J,G
-   7,R
-   6,R,J
-  15,U,Z
-   1
-   2,J,G
-   1,R
-   5
-   1,R
+  13,R,J
+  24,R,U,X
+   1,J
    1,R,J
-  11,L,J
-   1,R,K,G
-   1,L,K
-   7,R,K
-   1,J,G
-   4,R,J
-   1,L,J
+   1,J
   15,U,X
-   2,R,J
-   1,R,K,G
-  12,R,J,G
-   3,R,K,G
-   7,R
-   1,R,J
-  10,J
-   1,R,J
+   1
+   3,K,G
+   2,R,K
+   7,R,J,G
    1,K,G
-   1,R,K
-   1,L,K
+   2,L,K
+   2,R,K
+  11,R,J,G
+   7,R
+   1,R,D,J
+   1
   15,U,X
    1
    3,R,J
    1,R,K,G
-  12,R,J,G
-   1,R,K,G
-   3,L,K
-   3,R,K
-   1,R,J,G
-   3,R
-   1
-   3,R
-   2,R,J
-  15,U,X
+  11,R,J,G
    1,R
+   3,R,K,G
+   7,R
+   1,R,J
+  11,J
+   1,L,J
+   1,R,K,G
+  15,U,X
+  29,R,J
+   2,R
+   3,R,J
+  15,U,X
    3,R,J
    1,R,K,G
   12,R,J,G
@@ -101,87 +95,63 @@ console load BeefyUncleTorre/map/1
    7,R
    4,R,J
    8,J
-   2,K,G
-   7,J,G
-   1,R,J
-   1,J
-   1,R,J
-   1,L,J
-  15,U,X
-   1
-   2,R,J
-   1,R
    1,R,K,G
-  11,R,J,G
+   3,K
+   1,L,K
+   1,R,J,G
+  15,U,X
+   1
+  29,R,J
    1,R
-   3,R,K,G
-   7,R
-   1,R,J
-   6,J
-   8,R,X
-   7,R,J
-   8,R
-   1,J
-  13,L,J
-   1,K,G
-   1,L,K
-  15,U,X
+   1
+   6,L,J
    1,L
-   3,L,J
-   1,L,K,G
-  12,L,J,G
-   1,L,K,G
-   3,R,K
-   4,L,K
-   7,L
-   2,L,J
-   8,J
-   1,L,J
-  15,U,X
+  10,R,X
+  17,R,J
+   2,J
+  15,U,Z
+  29,L,J
+   3,L,K,G
    1,L
-   3,L,J
-   1,L,K,G
-  10,L,J,G
-   2,L
-   8,L,K,G
-   7,L
-   1,L,J
-  11,J
-   5,K,G
-   1,L,K
-   1,R,K
-  15,U,X
-   1,L
-  26,L,J
-   2,L
-   1,L,J
-   1,L,K,G
-   4,R,K
-   2,K
-   1,R,K
-   4,K
    1,L,J,G
+   7,L
+   6,L,J
+   1,J
+   1,R,J
    1,L,K,G
-   2,L
-   1
-   4,L
-  13,L,J
-   6,U,X
-  19,L,J
-  12,K
-   1,J,G
-   8,L,J
-   4,L
-   3
-   1,L,J
-   9,R,J
   15,U,X
+  30,L,J
    1
-  12,J,G
+  12,L,J
   12,K,G
   12,J,G
-   8,K,G
-   7,R
+   1,L,J
+  15,U,X
+  29,L,J
+   2,L
+   4,X
+   6,L,J
+   7,L
+   5,L,J
+   1,K,G
+   2
+  15,U,X
+   4,L,J
+   2,R,J
+  10,L,J
+   1,K,G
+   7,L
+   3,L,J
+  15,U,X
+   1
+  12,R,J,G
+  12,R,K,G
+  12,R,J,G
+   2,K,G
+   1,L,K
+  12,R,J,G
+   4,R
+   3
    1,R,J
    3,J
    7,K,G
@@ -190,7 +160,6 @@ console load BeefyUncleTorre/map/1
   17,L,J
   15,U,X
    6
-
 #lvl_ch1-peace-00
    1,S
    1,D,J
@@ -218,38 +187,38 @@ console load BeefyUncleTorre/map/1
    2,D
    1
    3,D
-  35,L,D
-  13,L,Z
-   2,R,J
-  19,R,D,X
-   1,R,J
-   2,J
-   1,R,J
+   6,L,D
+   7,D
+  27,R,D
   40
 
 #lvl_peace-000
-   6,R,J
-   9,R,D,X
-   3,R,J,G
-   1,R
-   1,R,K,G
-   4
-   5,R
+   5,R,D
+   4,Z
    1,R,J
-   1,J
-   3,R,J
    5,R
+   2
+   3,R,J
+   2,R,K,G
+   1,R
+   1,R,J,G
+   9,R
+   6,R,J
+   6,R
+   1
   14,R,U,X
    1,J,G
-   5,R
-   5
+   9,R
+   2,L
+   2
   16,U,X
   12,R,J,G
    1,R,K,G
-   7,R
-   4,L,J
-   4,L,K
+   6,R
+   2,L
    8,L,J
+   4,L,K
+   4,L,J
    2,L
   10,R,Z
   34,L,J
@@ -262,15 +231,16 @@ console load BeefyUncleTorre/map/1
    1,L
    1,L,J,G
    4,L,K,G
-   8,L
-  11,L,J
-  10,R,K
+   1,L
+   8,L,J
+  11,L,K
+  10,R,J
   15,U,X
    9,R,J
    6,L,J
   40
 
-#lvl_peace-01
+#lvl_peace-01 (0)
    1,L
    3
    1,R,J,G
@@ -292,7 +262,7 @@ console load BeefyUncleTorre/map/1
   11,R,U,X
   40
 
-#lvl_peace-02
+#lvl_peace-02 (0)
    4,R,U,X
   14,U,X
   18,L,J
@@ -335,12 +305,12 @@ console load BeefyUncleTorre/map/1
    7,D,C
   40
 
-#lvl_peace-01
+#lvl_peace-01 (1)
    5,L,D
   27,R,D
   40
 
-#lvl_peace-02
+#lvl_peace-02 (1)
    7,R,D
    5,R,D,X
    1,R,J
@@ -376,7 +346,81 @@ console load BeefyUncleTorre/map/1
    8,D
   40
 
-#lvl_peace-04
+
+
+
+
+
+#lvl_peace-04 (0)
+#  11,R,D
+#  10,L,D,X
+#   1,L,J
+#  30,R,D
+#   7,R
+#   6,U,X
+#  35,R,J
+#   2,J
+#   1,R,J
+#   1,J
+#   1,L,K
+#   5,L
+#   4
+#   4,R
+#   1
+#   4,R
+#  15,R,D,X
+#   1,R
+#   5,R,D
+#   1,R
+#   1,R,D
+#   1,J,G
+#   7,R
+#  12,R,X
+#   3,R,J
+#  12,R,U,X
+#  40
+
+#lvl_peace-05 (0)
+#   4,R
+#   8,U,Z
+#  34,R,J
+#   5,R
+#  15,R,Z
+#   8
+#   1,L,D,J
+#   6,L
+#   1,L,J
+#   1,L
+#  12,R,D
+#   8,D
+#   1
+#  12,D
+#   7,L,D
+#  15,R,U,Z
+#  11,L,J,G
+#   1,J
+#   9,K,G
+#   2
+#   1,J,G
+#   3,J
+#   1,L,J
+#   1,L
+#   1,L,K,G
+#   1,L
+#   1,J
+#  18,R,U,Z
+#  15,U,X
+#  15,U,C
+#   8,R,K,G
+#  40
+
+
+
+
+
+
+
+#lvl_peace-04 (1)
   11,R,D
   10,L,D,X
    1,L,J
@@ -394,44 +438,51 @@ console load BeefyUncleTorre/map/1
    1
    4,R
   15,R,D,X
-   7,R,D
    1,R
+   5,R,D
+   1,R
+   1,R,D
    1,J,G
    7,R
-  14,R,D,Z
+  12,R,X
    3,R,J
-   9,R,K,G
+  12,R,U,X
+  40,O
+
+#lvl_peace-05 (1)
+   4,R
+   8,U,Z
+  34,R,J
+   5,R
+  15,R,Z
+   8
+  15,D,X
+  10,L,D,J
+   1,R,D,J
+  25,R,D
+   7,D
+   1,L
+  11,D
+   7,L,D
+  15,R,U,Z
+  11,L,J,G
+   1,J
+   9,K,G
+   2
+   1,J,G
+   3,J
+   1,L,J
+   1,L
+   1,L,K,G
+   1,L
+   1,J
+  18,R,U,Z
+  15,U,X
+  15,U,C
+   8,R,K,G
   40
 
-#lvl_peace-05
-   2,R,K
-  10,U,X
-  39,R,J
-  15,R,Z
-   7,R
-  13,R,J
-  17,R
-  27,R,D
-  12,L,J
-  22,L
-   3
-  15,R,U,X
-  19,R
-  18,R,U,X
-  15,R,Z
-   4,R
-  15,R,Z
-   4,R
-   8,U,X
-  13,R,J
-   5,L,J
-   4,L,K,G
-   3,J
-   1,R,J
-   9,R,K
-   7,R,J,G
-  40
-#lvl_peace-06
+#lvl_peace-06 (0)
    1,L,J
    9,L
    1,R,J
@@ -542,7 +593,7 @@ console load BeefyUncleTorre/map/1
    8,R,J,G
   40
 
-#lvl_peace-08
+#lvl_peace-08 (0)
   11,R
    6,R,J,G
   13,R,D,X
@@ -598,7 +649,7 @@ console load BeefyUncleTorre/map/1
   11,D,X
   40
 
-#lvl_peace-08
+#lvl_peace-08 (1)
    7,L,D
   15,L,D,X
    3,L
@@ -644,7 +695,7 @@ console load BeefyUncleTorre/map/1
    9,D,X
   40
 
-#lvl_peace-09
+#lvl_peace-09 (0)
    3,R
    1
    1,R
@@ -652,7 +703,7 @@ console load BeefyUncleTorre/map/1
   11,U,X
   40
 
-#lvl_peace-08
+#lvl_peace-08 (2)
    2,L,J,G
    9,L,K,G
   14,L,Z
@@ -694,7 +745,7 @@ console load BeefyUncleTorre/map/1
    9,R,J
   40
 
-#lvl_peace-08
+#lvl_peace-08 (3)
    9,R
    1,R,J
    3,R
@@ -703,7 +754,7 @@ console load BeefyUncleTorre/map/1
   16,R,D,X
   40
 
-#lvl_peace-09
+#lvl_peace-09 (1)
    4,R,D
   10,L,D
   15,D
@@ -730,7 +781,7 @@ console load BeefyUncleTorre/map/1
   38,L,D
   40
 
-#lvl_peace-06
+#lvl_peace-06 (1)
    2,L,D
    5,L
   15,L,D,X
@@ -768,7 +819,8 @@ console load BeefyUncleTorre/map/1
    1,R,J
    3,R
   40
-#lvl_ch2-peace-12
+
+#lvl_ch2-peace-12 (0)
    4,Z
    1,R,J
    7,R
@@ -781,7 +833,8 @@ console load BeefyUncleTorre/map/1
    7,R
    3,R
   17,R,D,X
-#lvl_heat-00
+
+#lvl_heat-00 (0)
    2,R,J
   15,D,X
    2
@@ -828,74 +881,73 @@ console load BeefyUncleTorre/map/1
    7,R,J
   10,R,X
    3,R,J
+
 #lvl_crane-pink-01
    2,R,J
    8,U,Z
    7,L,J
    4,J
    7,R,K,G
-   8,R
-  10,R,Z
-   1,R,J
    7,R
+   7,R,Z
+   1,R,J
+   6,R
   40
 
 #lvl_crane-pink-02
    1,R,J
   14,R,D,X
-   4,R,J
-   4,R
-  15,R,Z
-   5,R,C
-  14,R
-  15,R,D,X
-   9,L,D,C
-   1,R,J
-   7,R
-   8,R,J
-  33,R
-  15,R,U,X
-   1,R
-   5,R,U,X
-  43
+   9,R,J
   14,R,Z
-   8,R,J
-   9,R,D
-  19,L,D
-  15,L,X
-   7,L
-   5,R,D,X
-   9
+  19,R,C
   15,R,D,X
-  10,R,D
+  14,R,Z
+  12,R,J
+  18,R
+  18,R,Z
+  49,R,U,X
+  14,R,Z
+   7,R,J
+   1,R
+   1,R,J
+   1,R
+   9,L
+   1,R,D
+  15,L,D
+  19,L,X
+  15,R,D,C
+  24,R,D,X
   14,R,Z
   11,R,J
-  24,R,D
-  17,R,U,X
-   5,U,C
-  37
+  25,R
+  15,R,U,X
+  42,U,C
   15,R,X
-  38,R,D
-   6,R,Z
+   4,R,D
+   6,L,D
+  13,D
+  10,R,D
+   1,D
+   4,R,D
+   5,R,Z
   40
-   
-#lvl_crane-02
-   1,R,J
-   7,R
-   4,Z
-   1,R,J
 
+#lvl_crane-02 (0)
+   1,R,Z
    1,R,J
    7,R
-   9,R,J
-  14,U,X
+   1,R,J
+  10,R,D,X
+   1,R,J
+   1,L,K,G
+   9,R,K
+  16,U,Z
   18,R,J
-  12,R,K,G
-  12,R,J,G
-   3,R,K,G
+  12,K,G
+  10,J,G
   40
 
-#lvl_crane-03
+#lvl_crane-03 (0)
    1
    1,S
    1,D,J
@@ -907,19 +959,25 @@ console load BeefyUncleTorre/map/1
    1,L
    1,L,J
    7,L
-   2,L,J
-   6,L
-  14,L,D,X
-  12,L,D
-  12,L,J
-  13,L,U,X
-  13,L,D
-  11,D
+   4,L,J
+  15,L,D,X
+  13,L
+  10,L,J
+   2,L
+  15,L,U,X
+  11,L
+
+#lvl_ch2-peace-12 (1)
+   1,L
+   9
    7,L,Z
    1,R,J
    7,R
   20,R,J
-  15,R,D,X
+   8,R,D,X
+
+#lvl_heat-00 (1)
+   7,R,D,X
    5,R,D
    3,R,J
   12,R
@@ -928,7 +986,6 @@ console load BeefyUncleTorre/map/1
   15,L
    9,L,J
    2,L
-
    1,L,K,G
   10,L
    9,L,J
@@ -941,10 +998,11 @@ console load BeefyUncleTorre/map/1
    1,L,J
    2,L
    8,L,J
-  14,U,X
-   8,R,J
-  11,L,J
-  12,L,K,G
+  16,U,X
+   7,R,J
+  10,L,J
+  11,L,K,G
+   1,L,J,G
    7,L
    6,R,Z
    1,L,J
@@ -979,7 +1037,7 @@ console load BeefyUncleTorre/map/1
    4,R
   40
 
-#lvl_heat-00
+#lvl_heat-00 (2)
    3,R
    1,R,J
   14,R,D,X
@@ -1064,7 +1122,7 @@ console load BeefyUncleTorre/map/1
    3,R,J
   40
 
-#lvl_heat-00-03
+#lvl_heat-00-03 (0)
    1
   72,O
    1,R,J
@@ -1122,7 +1180,7 @@ console load BeefyUncleTorre/map/1
   10,R,J
   40
 
-#lvl_heat-00-04
+#lvl_heat-00-04 (0)
   10,R
   16,U,X
    1,R,J,G
@@ -1183,45 +1241,46 @@ console load BeefyUncleTorre/map/1
    7,R,Z
    1,L,J
    7,L
-  20,L,J
-   9,L
-  14,L,Z
-   1,L,J
-   6,L
+  16,L,J
+   4,L
+   9,L,J
+  13,L,X
+   2,L,J
+  11,L,U,Z
   40
 
-#lvl_heat-00-03
-   1,L
-   1,L,J
+#lvl_heat-00-03 (1)
+   4,L
   16,U,X
-  30,R,J
-  12,R,K,G
-  12,R,J,G
+  29,R,J
+  11,R,K,G
+   5,R,J,G
+   6,L,K
+   2,R,J
+   2,L,K
+   2,R,J
+   2,L,K
+   2,R,J
+   2,L,K
+   2,R,J
+   2,L,K
+   2,R,J
+   1,L,K
+   1
+   2,R,J
+   2,L,K
+   2,R,J
    6,K,G
-   4,L,K
    2,R,J
+   8,R
+   1,L,J
    2,L,K
-   2,R,J
-   2,L,K
-   2,R,J
-   2,L,K
-   2,R,J
-   2,L,K
-   2,R,J
-   2,L,K
-   2,R,J
-   2,L,K
-   2,R,J
-   2,L,K
-   6,R,J
-   7,R
-   3,R,J
-  14,U,X
+  13,U,X
    3,R,J
    9,L,J
   40
 
-#lvl_heat-00-04
+#lvl_heat-00-04 (1)
    1,L,J,G
    1,L,K,G
   12,L
@@ -1559,23 +1618,23 @@ console load BeefyUncleTorre/map/1
    1,R,D,J
    6,R
   15,D,X
-   6,R,D
-  27,D
-  11,L,D,X
-   6,L,J
-  18,U,X
-  11,R,G
-  17,R,D
-  13,U,X
+  16,R,D
+  17,D
+   4,Z
+   1,L,J
+   7,L
+   6,L,D,J
+   7,U,X
    8,L,J
-  21,L,D
-  15,L,D
-   3,R,D
-   6,R
+   1,L
+   9,L,J
+  13,L
+  15,L,Z
+  11,L,D
+   8,D
   15,L,U,X
-   4,L
-   1
-   4,R
+  10
+   3,L
   12,D,X
    1,S
    1,D,J
@@ -1732,7 +1791,7 @@ console load BeefyUncleTorre/map/1
    3,L,J
   40
 
-#lvl_ch3-heat-08
+#lvl_ch3-heat-08 (0)
    5,L,J
    1,J
    2,L,J
@@ -1767,58 +1826,49 @@ console load BeefyUncleTorre/map/1
   15,L,U,Z
    7,L,D
    6,R,D
-   3,R,J
-  14,L,Z
+   0,R
+   1,R,J
+  15,R
+  10,L,Z
    1,L,J
-  14,L,D,X
-   1,L,J
-   4,L,D,X
-   1,L,J
-   3,L
+  12,L,K,G
+  15,L,D,X
+   2,L,J
   40
 
 #lvl_memory-01
-   4,L
-   1,L,J
-   6,L
-   9,L,U,X
+   7,L,J
+   5,L
+   5,L,D,X
    1,L,J,G
-   2
-  10,L
-   3,L,J
+  11,L
+   1,L,J
+   2,L
   15,L,D,X
-   3,L,J
-  12,L,D,X
-   2,L,J,G
-   1,L
+   6,L
+   0
    1,L,J
-   1,J,S
-   9,J,O
-   5,L,J
-   2,L
-   1,L,J
-   2
-   2,L
-   8,L,U,X
-  11,L,J,G
-   2
+   2,J
+   6,L,K,G
+   9,L,U,X
+   1,L,K,G
+  10,L
   40
 
-#lvl_cold-00
-   2,L
-  17,L,D,X
-   1,L,J
-  12,L,U,X
-   5,L,J,G
-   2,L
-   5,L,J,G
+#lvl_cold-00 (0)
    7,L
-  10,L,J
-  10,L,K,G
-   5,L
-   3,R
-   3,R,J
-  12,U,X
+  13,L,J
+  15,L,U,X
+   1,L
+   9,L,J,G
+   3
+   1,K,G
+   4
+   2,L
+   1,R
+   1,R,J
+   1,J
+  13,U,X
   14,L,J
   10,L
    2,L,J
@@ -1826,7 +1876,7 @@ console load BeefyUncleTorre/map/1
    2
   13,L,Z
    1,R,J
-   6,R
+   7,R
   30,R,J
   15,R,U,X
    8,R
@@ -1880,6 +1930,7 @@ console load BeefyUncleTorre/map/1
 #console load BeefyUncleTorre/map/1 heat-09
 #   1
 #  36
+
    2,R,J
   15,U,X
   12,R,J,G
@@ -1941,7 +1992,7 @@ console load BeefyUncleTorre/map/1
    7,L
   40
 
-#lvl_heat-09
+#lvl_heat-09 (0)
    1,L,J
   11,L,D,X
   15,L,J
@@ -1982,12 +2033,12 @@ console load BeefyUncleTorre/map/1
   13,R,D,X
   40
 
-#lvl_cold-00
+#lvl_cold-00 (1)
    1,S
    1,D,J
   69,O
 
-#lvl_heat-09
+#lvl_heat-09 (1)
   14,Z
    8,L,J
   31,L,D
@@ -2057,7 +2108,7 @@ console load BeefyUncleTorre/map/1
   40,R,D
   40
 
-#lvl_ch3-heat-08
+#lvl_ch3-heat-08 (1)
   13,D
    5,R,D
   14,R,Z
@@ -2075,8 +2126,12 @@ console load BeefyUncleTorre/map/1
   10,R
   15,U,X
    3
+
 #lvl_crane-red-01
-   1
+#include this for accurate
+#lighting
+#   1
+#
    1,S
    1,D,J
   69,O
@@ -2087,75 +2142,83 @@ console load BeefyUncleTorre/map/1
    6,L,D,X
   40
 
-#lvl_heat-11
+#lvl_crane-red-02
    8,L,D,X
   10,L,J
    9,L
-   5,L,X
-  24
-  15,L,X
+  29,L,X
+  15,L,C
   15,R,J
    8,J
   10
-   5,L,X
-  43
-  14,D,X
+  48,L,X
+  14,D,C
   32,L,J
-   5,R,D,X
-  28
-   5,R,X
-  11,L,J
-  29,L
-   5,L,U,X
-  31
-   5,U,X
+  33,R,D,X
+   6,R,C
+  10,L,J
+  28,L
+  36,L,U,X
+   5,U,C
    9,L,J
   24,L
-   5,R,D,X
-  21
-   5,L,X
-  34
+  26,R,D,X
+  39,L,C
   10,U,X
   39,L,J
-   5,D,X
-  20
-   5,R,X
-   6,L,J
-  25,L,D
+  25,D,X
+   5,R,D,C
+   5,L,J
+   5,L
    1,L,J
-  13,L,D,X
+  19,L,D
+   1,L,J
+  12,L,D,X
   40
 
-#lvl_crane-02
-   1,L,D,X
+#lvl_crane-02 (1)
+   2,L,D,X
    1,L,J
-   9,L,D,X
+   8,L,D,X
    1,L,J
    7,L
-   9,L,J
+   7,L,J
+   2,L
   15,D,X
-  20,D
+  19,D
   40
 
-#lvl_crane-04
-  37,D
-  10,R,Z
+#lvl_crane-04 (0)
+  10,L,D
+  13,D
+  11,R,D
+   1,D
+   2,R,D
+   9,R,Z
    1,R,J
    7,R
    7,R,D,J
-   4,L,K,G
+   1,L,K,G
+   3,R,K
    1,R,J,G
-   4,R
-  10,R,J
-   6,R,Z
-   3,R,J
-  29,R
-  12,R,J
-  15,R,U,X
-  37,R,D
-   4,Z
+   7,R
+  40
+
+#lvl_crane-red-03
+   1,R
+   1,R,J
+  11,R,K
+  29,R,U,X
+
+#lvl_ch3-heat-08 (2)
+  19,R,D
+   1,D
+   1,R,D
+   1,D
+   4,R,Z
    1,R,J
    7,R
+
 #lvl_heat-11
    1,S
    1,D,J
@@ -2165,7 +2228,7 @@ console load BeefyUncleTorre/map/1
    3,L
   40
 
-#lvl_heat-09
+#lvl_heat-09 (2)
   14,D
   11,L,D
   17,L,Z
@@ -2373,6 +2436,7 @@ console load BeefyUncleTorre/map/1
   15,U,X
   12,U,C
   40
+
 #lvl_cold-10
    4,L
   10
@@ -2503,126 +2567,134 @@ console load BeefyUncleTorre/map/1
    2,L
   40
 
-#lvl_cold-06
-   4,L
-   1
+#lvl_cold-06 (0)
+  11,L,D,X
    1,L,J
-  13,L,D,X
-   1,L,J
-   1
-  14,L
-   2,L,D
-   1,L
-   2,L,D
-   1,L
-   2,J,G
-  14,L,J
-   8,U,X
-  40,L,J
+   7,L
+  15,L,D,J
+  15,U,X
+   8,J
+   8,R
+  41,D
+   8,L,D
+  12,L,J,G
+  16,L
+  13,U,X
+  42,L,J
    1,L,G
-   1,L,J,G
-   4,R,J
+   1,J,G
+   1,R,J,G
+   3,L,J
+  30,L,D,G
+   2,L,G
+   2,L,D,G
   10,L,G
-  17,L,D,G
-  33,G
-  50,R,U,G
-  23,R,G
+   7,R,J
+  12,R
+  15,R,Z
+  14,D
+   9,R,D
+   4,Z
+   2,R,J
 StunPause
-  40,R,G
-   2,L,K,G
-   2,R,K,G
-  11,R,J
-skipinput 3 1
-  35,R,J
-skipinput 3 1
-  15,R,U,Z
+   6,R,J
    2,R
+   1,R,J
+   1,R
+   1,L,J
+   3,R,J
+  12,J
+   2,R,J
+skipinput 3 1
+  15,U,X
+  17,R
+   1,J,G
+   5
+   2,R
+   1,L
 EndStunPause
+   8,L,J
+  15,U,X
+   5
+  10,R
 
 #lvl_crane-blue-01
-  37,R,D
+  21,R,D
    6,Z
    1,R,J
    7,R
    1,R,J
-   7,R,D,X
+   5,R,D,X
   40
 
 #lvl_crane-blue-02
-   7,R,D,X
-   7,R,J
-   5,R,X
-  35
-  15,U,X
+   8,R,D,X
+   6,R,J
+  40,R,X
+  15,U,C
    6
   21,L,J
   15,L,U,X
-  15,L,U,C
-   1,L
-   5,L,X
-  21
-  17,U,X
-  42,R,J
-  15,R,X
-   1
+  16,L,U,C
+  26,L,X
+  13,U,C
+  17,R,J
+  20,R
+  20,R,X
   15,R,Z
-   5,U,X
-  42
-  15,L,X
+  47,U,X
+  15,L,C
    7,L
   23,D
-   5,R,X
-  30
-   5,U,X
-  33
+  35,R,X
+  38,U,C
   14,L,X
-   5,L,C
-  47
-  11,U,X
-   2,R
+  52,L,C
+  12,U,X
   22,R,J
-  15,R,U,X
-  15,R,U,C
-   1,R
-   5,R,X
-  33
-  18,U,X
-  19,L,J
-  17,U,X
+  17,R,U,X
+  17,R,U,C
+  35,R,X
   16,U,C
-   5,L,D,X
-  43
+   8,L,J
+  13,R,J
+  16,U,X
+  16,U,C
+  48,L,D,X
+  17,U,Z
+  22,L,J
   17,U,X
-  23,L,J
-  18,U,X
-  17,U,C
-   5,R,U,X
-  37
-  12,R,D,X
-   5,D,C
-  22
+  18,U,C
+  42,R,U,X
+  12,R,D,C
+  27,D,X
   14,R,Z
+   2,R,J
+   6,R
    1,R,J
-   7,R
-   6,R,D,J
+   4,R
+   1,R,J
+   5,R,U,Z
   40
 
-#lvl_crane-04
-   3,R,J
+#lvl_crane-04 (1)
+   9,R,U,Z
+   1,R,J,G
   15,U,X
-  18,R,J
-  12,R,K,G
+  18,L,J
+  12,R,K
   12,R,J,G
-  12,R,K,G
-   7,R,J,G
+   7,R,K,G
   40
 
-#lvl_crane-02
-  12,L,J
-   6,L,K,G
+#lvl_crane-02 (2)
+  11,L,J
+   1,L
+   5,J,G
+   1,L
   15,U,X
    2,R,J
-  12,R
+  11,R
    4,Z
    1,R,J
    7,R
@@ -2632,7 +2704,7 @@ EndStunPause
   19,D
   40
 
-#lvl_crane-04
+#lvl_crane-04 (2)
   80,D
   40
 
@@ -2668,36 +2740,45 @@ EndStunPause
    1,R
   15,D,X
    5,R,D
-   5,L,D
+   6,L,D
   40
 
 #lvl_crane-blue-04
-  26,L,D
+  21,L,D
   14,L,D,X
    1,L,J
-  15,L,D,X
-   4,L,D
+  19,L,D,X
    1,L,J
-  15,L,D,X
-   7,L,D
+   1,L
+  16,L,D,X
+   5,D
+   1,L,D
+   3,L,J
+   4,L,K,G
+   1,L,J,G
+  12,L,K,G
+   5,L
    2,L,J
-   2,L,K,G
-   3,L
-   2,L,K,G
-  22,L,D
-   8,L,J
-  15,L,U,X
-  10,L,K,G
-   8,L,J,G
+   2,L
+   1,L,J
+   1,L
+   1,L,J
    7,L
-   6,R,Z
+  14,L,U,X
+   7,L,J,G
+   7,L
+   5,R,D,X
    2,L,J
-   9,L
+   2,L
+   7
   15,D,X
    3,D
 
-#lvl_cold-06
-   5,L,D
+#lvl_cold-06 (1)
+   1,D
+   2,L,D
+   1,D
+   1,L,D
    8,L,Z
    1,R,J
    6,R
@@ -2731,9 +2812,10 @@ EndStunPause
    8,L,J
   19,L,D
   15,D,X
-   7,R,D
-   7,L,D
-  20,L
+   5,R,D
+   2,L,D
+   1,R,D
+  22,L,D
    9,D
    1,S
    1,D,J
@@ -3009,11 +3091,6 @@ EndStunPause
    4,R
    3,R,J
    8,R
-
-#fall-15 Spinner Cycle
-   0
-####
-
    4,R,J
    6,U,X
    1,R,J,G
@@ -3044,64 +3121,56 @@ EndStunPause
   15,U,X
   18,L,J
    1,L,K,G
-  43
-
+  43,O
 #fall-0000
   11,R
   10,R,Z
    5,R,J
   14,R,D,X
-  10,R,J
-  14,R,U,X
+   5,R,J
+   1,R,K,G
   12,R,J,G
-  12,R,K,G
-  12,R,J,G
-   4,R,K,G
-   7,R
-   4,R,X
+   6,R,K,G
+   1,R
+  14,R,J,G
+  15,U,X
+  10,R
    7,R,J
-   3,R
-   2,R,J
-   6,R
-  11,L,Z
-   1,R,J
-   1,J
-   2
+  11,R,Z
+   3,R,J
+   1
   15,R,D,X
-  14,R
+  12,R,D
    7,R,J
   40
 
 #lvl_fall-00000
 # Do you think I could have another 0 on the side?  I don't think I have enough
   15,R,D,X
-  14,R,J
+   8,R,J
+   3,R
   15,R,X
-  17,D
-   7,L,D
-  14,R,Z
+  10,R,D
+  12,D
+  14,L,Z
+   5,L,J
+   6,L
+   4,L
+   7,L,J
+   5,L,K,G
+  14,L,X
    1,L,J
-   5,L,D,X
-   7,L,J,G
-  18,L
-   4,L,J
-   3,L,K,G
-   5,L,J,G
-   1,L,K,G
-   1,L
-  15,L,D,X
+   8,L,D,X
   40
-
 #lvl_fall-0000
 #berry lol
-   6
+   5
    1,S
    1,U
    1,F,
    1,U,J
 SaveAndQuitReenter
   36
-
 
    5,R
    2,R,J
@@ -3137,6 +3206,7 @@ SaveAndQuitReenter
    1,R,J
    4,R
   43
+
 #lvl_fall-02a
    3,R
    1,R,J
@@ -3238,7 +3308,7 @@ SaveAndQuitReenter
   10,L
   40
 
-#fall-05a  
+#fall-05a
    5,L
    1,L,J
   15,U,X
@@ -3450,66 +3520,72 @@ SaveAndQuitReenter
    4
   15,L,D,X
    2,L
-   7,L,Z
+   6,L,Z
+   3,L,J
+  19,L,D
+   4,D,X
+   2,L,J
+   4,L
    1,L,J
-  22,L,D
-   6,L,D,J
   40
 
 #fall-15
-   5,L,J
-   5,L
-   4,L,J
-   7,U,X
+   3,L
    1,L,J
-  22,L,D
-   7,R,D
-StunPause
-  17,D
-EndStunPause
-   5,R,D
-  10,D
-StunPause
-   9,D
-   1,R,D
-   1,R
-EndStunPause
-  14,R
-   1,J,G
+   8,L,D,X
    1,L,J
-  47,L,K
-  10,L,D,X
-   2,L,J
+  16,L,D
+   5,D
+   1,X
+  34
+#spinner cycle
    2
-   6,L
-  14,L,D,X
-   7,L,J
-   1,L,K,G
+##
+  71,U
+   1,X
+  19,R
+   1,R,J
+   1
+  15,R,D,C
+   3,R,D
+  14,D
+StunPause
+   1,D
+   6,R,D
+EndStunPause
+   2,R,D
+   2,D
+   1,R,D
+   5,L,D
+   9,L,Z
+   1,L,J
+  26,L,D
+   3,L,J
+  14,L,Z
+   6,L,J
+   2,L
   15,L,U,X
-  13,L
-  12,L,D,X
+  12,L
+   4,L,Z
+   2,L,J
+   4,L
+   2,L,J
+   3,L
+   5,L,D,X
    1,L,J
-   7,L
-   1,L,J
-   6,L,D,X
+   6,L
   40
 
 #fall-09a
-   1,L,D,X
-   1,J
-   5
-  15,U,C
-   4,R,D
-  18,D
-   9,L,C
-   5,L,J
-   5,L
-   6,L,J
-   8,L
-   3
+   2,L
+  11,L,D,J
+   0,L
+  15,L,U,X
+  24,L
   15,L,Z
-  39,L,D
-  13,L,Z
+  19,L
+  21,L,D
+  14,L,Z
    1,L,J
    7,L
   14,R,Z
@@ -3575,15 +3651,21 @@ EndStunPause
   15,L,X
    3,L
   15,L,X
-  18,L,D
+   3,L,D
+
+#lvl_crane-gold-01
+  15,L,D
   14,L,D,X
    1,L,J
   15,L,D,X
-   6,L,D
+   7,L,D
    1,L,J
-   7,L
+   5,L
   15,D,X
-  53,R,D
+  23,D
+  21,R,D
+   1,D
+   8,R,D
    6,R,Z
    1,R,J
    7,R
@@ -3598,7 +3680,7 @@ EndStunPause
    1,R,J
    6,R
   15,D,X
-   3,R,D
+   2,R,D
   40
 
 #lvl_crane-gold-02
@@ -3607,36 +3689,39 @@ EndStunPause
    1,L,J
   15,D,C
    8,L,D
-   5,R,D,X
-  26
+  31,R,D,X
   15,R,U,Z
-  40,L,D
+  36,L,D
+   1,L
+   1,L,D
+   2,L
   14,L,Z
-  15,L,J
+   1,L,J
+   9,L
   15,L,U,Z
-  27,R,D
-  15,D
-  10,R,D
+   7,L
+  20,D
+  14,R,D
+   1,D
+   1,R,D
+   1,D
+   5,R,D
   19,R,X
-  19,R,C
-   5,L,D,X
-  50
+  18,R,C
+  55,L,D,X
   15,L,U,Z
   39,R,D
   14,R,Z
    8,R,J
-  13,R,D
-  20,L,D
-  15,L,C
-   2,L
-   5,L,X
-  42
-  15,U,X
+  12,R,D
+  21,L,D
+  16,L,C
+  47,L,X
+  15,U,C
    2,L
   35,D
-   3,J
-   2,R,J
    3
+   5,R
   15,R,X
   23,R,D
   14,R,Z
@@ -3645,22 +3730,18 @@ EndStunPause
   25,L,D
   15,L,X
    2,L
-   5,L,D,X
-  65
-  14,R,D,X
+  69,L,D,X
+  14,R,D,C
   31,R,J
   14,R,C
-   5,D,X
-  41
-  15,L,U,X
+  46,D,X
+  15,L,U,C
    9,L,D
-  22,D
-   3
+  25,D
   15,U,X
   15,L,C
    2,L,D
-  20,D
-   3
+  23,D
   15,U,X
   16,L
   15,L,X
@@ -3672,7 +3753,7 @@ EndStunPause
    6,L,D,X
   40
 
-#lvl_crane-03
+#lvl_crane-03 (1)
    8,L,D,X
    1,L,J
    5,L,D
@@ -3680,21 +3761,22 @@ EndStunPause
   10,D
   40
 
-#lvl_crane-02
+#lvl_crane-02 (3)
   18,D
   14,L,D
    9,L,D,X
    1,L,J
-   7,L
-   9,L,J
+   3,L
+   1,L,J
+   3,L
+  10,L,J
   16,U,X
   18,J
   12,L,K,G
-  12,L,J,G
-   1,L,K,G
+  10,L,J,G
   40
 
-#lvl_crane-03
+#lvl_crane-03 (2)
    1
    1,S
    1,D,J
@@ -3707,30 +3789,49 @@ EndStunPause
 #lvl_crane-gold-03
   12,L,J,G
   10,L,K,G
-   6,L,Z
+   7,L,Z
+   1,L,J
+   6,L
+   1,L,J
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+  14,L,D,X
+   1,L,J
+   7,L,D,X
    1,L,J
    7,L
-  14,L,D,X
-   1,L,J
-  14,L,D,X
-   1,L,J
-  14,L,D,X
-   1,L,J
-  11,L,D,X
-   1,L,J
-   7,L
-   9,L,D,J
+  10,L,D,J
   16,U,X
-  28,L,K
+  25,L,K
   12,L,J,G
-   5,K,G
+   3,K,G
    1,R,K
   12,L,J,G
   12,L,K,G
   11,J,G
    1,R,J
-  14,L,K,G
-   5,L
+  12,L,K,G
+   7,L
+#New inputs (-1f)
+#   4,Z
+#   2,L,J
+#   3,L
+#   1,L,K,G
+#   6,L
+#   1,L,J,G
+#   7,L
+#   2,R
+#   5,R,J
+#   2,R
+#  15,L,U,X
+#  12,R
+
+#lvl_fall-09b (0)
+#   3,R
+#   9
+#Old Inputs
    4,Z
    5,L,J
    6,L,K,G
@@ -3739,7 +3840,11 @@ EndStunPause
    1,L,J
   15,U,X
   13,L
-  17
+   7
+
+#lvl_fall-09b (1)
+   7
+#####
   14,L,Z
    1,L,J
   15,L,D,X
@@ -4031,7 +4136,7 @@ EndStunPause
    4,L,J,G
   40
 
-#lvl_memory-02c
+#lvl_memory-02c (0)
   11,L
   12,L,J,G
   10,K,G
@@ -4064,7 +4169,7 @@ EndStunPause
   25,D
   40
 
-#lvl_memory-02c
+#lvl_memory-02c (1)
   16,D
    3,L,D
    1,D
@@ -4093,7 +4198,7 @@ EndStunPause
 
 #only the best
 #berry collect strats
-#lvl_memory-03
+#lvl_memory-03 (0)
   32,R,D
    6,R
   15,R,U,X
@@ -4152,7 +4257,7 @@ EndStunPause
    5,L,D
   40
 
-#lvl_memory-03
+#lvl_memory-03 (1)
    9,L,D
   18,L
    1,L,G
@@ -4181,6 +4286,7 @@ EndStunPause
   17,L,D
    3,D
   40
+
 #lvl_memory-04
    5,R,D
   16,D
@@ -4198,13 +4304,10 @@ EndStunPause
   15,L
   11,L,J,G
   24,L
-
 #memory-14 Spinner Cycle
    1
 ####
-
-   1,L,J
-   3,L,J
+   4,L,J
   13,K,G
   16,U,X
   19,R,J
@@ -4353,8 +4456,8 @@ EndStunPause
    8,L,J
   14,R,K
   40
- 
-#lvl_memory-14
+
+#lvl_memory-14 (0)
   11,R
    7,R,J,G
    4,D,X
@@ -4392,7 +4495,7 @@ EndStunPause
   10,L,Z
   40
 
-#lvl_memory-14
+#lvl_memory-14 (1)
    1,L,D,X
    1,L,J
    7,L
@@ -5182,13 +5285,13 @@ EndStunPause
    3,R
   40
 
-#ch6-memory-12
+#lvl_ch6-memory-12
    3,R,D
   15,R,D,X
   18,R,D
   40
 
-#memory-13
+#lvl_memory-13
   23,R,D
   15,D,X
   29,D
@@ -5202,6 +5305,7 @@ EndStunPause
    4
   15,D,X
  111,L,D
+
 #lvl_solace-00
    7,L,D
    4,Z
@@ -5233,17 +5337,20 @@ EndStunPause
   28,R,J
   15,R,D,X
    4,R,D
-  11,R,D,X
-  46,R,J
+  14,R,D,X
+  45,R,J
   18,R,X
-   8,R
+   4,R
   15,R,C
-   5,R
-  16,U,X
+   4,R
+  13,U,X
    4,R,J
   20,R,D
-   6,D
-  14,R,D
+   5,D
+   2,R,D
+   1,D
+   7,R,D
+   6,R
   15,R,X
   18,U,C
   15,U,X
@@ -5255,87 +5362,73 @@ EndStunPause
   10,D
    2,R,D
    7,D
-   7,R,D
+   6,R,D
+   1,R
   19,R,X
-  17,R,C
+  18,R,C
   15,R,U,X
-  21,R,C
+  20,R,C
   18,U,X
   20,R,C
-  26,R,D
-   7,R,D,X
+  25,R,D
+   6,L,D,X
    1,R,J
-   2
-   5
-   4,Z
+   7,R
    1,R,J
-   1,R
+   5,R,Z
+   1,R,J
+   3,R
   40
 
 #lvl_solace-02
-   6,R
-  24,R,D,J
+   4,R
+  12,R,J
+   5,R
+   4,R,J
+   1,R
   15,R,X
   17,R,D
-   4,R,Z
-   2,R,J
-   8,R
+   6,R,Z
    1,R,J
-   6,R,D,X
+   7,R
    1,R,J
-   2
-   3,R
-   2
-   1,R,J
+  13,R,D,X
   40
 
 #lvl_solace-03
-   1,R
-   1,R,J
-   2,J
-   3,R,K,G
-   2,R,J,G
-   3,R,K,G
-   4,R,J,G
+   1,R,D,X
+   3,R,J
+   4,R,K,G
+   5,R,J,G
+   4,R,K,G
    2,R
   15,R,D,X
-   1,R
-   2,R,J
-  16,R,D,X
    2,R,J
   15,R,D,X
-   2,R
    9,R,J
-  20,R
-  14,R,Z
-   4,R
-   5,U,C
-  96
-   5,R,X
-  28
-   5,D,X
-  20
+   5,R
+   2,R,J
+   1,R
+   6,R,J
+   8,R
+  14,R,X
+ 101,U,C
+  33,R,X
+  25,D,C
   15,R,X
-   5,D,C
-  20
+  25,D,C
   15,L,X
-   5,D,C
-  18
+  23,D,C
    8,R,Z
-   5,R,C
-  12
+  17,R,C
    9,U,X
-   5,R,C
-  10
+  15,R,C
   14,D,X
-   5,D,C
-  17
+  22,D,C
    9,L,D,X
-   5,L,C
-   9
-  10,L,U,X
-   5,L,C
-  11
+  15,L,C
+   9,L,U,X
+  16,L,C
   15,D,X
   11,D
   12,R,D
@@ -5345,34 +5438,37 @@ EndStunPause
    1,R,J
   14,R,D,X
    1,R,J
-  10,R,D,X
+   1,R
+   9,R,D,X
   40
 
 #lvl_solace-04
    5,R,D,X
    1,R,J
   15,R,D,C
-   1,J
-  16,L
-   6,L,Z
+   1,L,J
+  14,L
+   5,L,Z
    1,R,J
    7,R
-   2,R,J
-   6,R,D,X
+   1,R,J
+   1,R
+   5,R,D,X
    1,L,J,G
-  51,R,J
-   9,R,D
-   1,R,D,J
+  42,R,J
+  16,R,D
+   1,R,J
   40
 
 #lvl_solace-05
-   8,R,J
-   8,R,K
-  12,R,J,G
-  12,R,K,G
-  12,R,J,G
-   7,R,K,G
-   7,L,J
+   2,R,J
+   7,R
+  12,R,J
+  12,K,G
+  12,J,G
+  12,K,G
+   1,J,G
+   7,L,K
   10,L,Z
   10,R,J
   28,R,D
@@ -5380,8 +5476,8 @@ EndStunPause
   17,D
   11,R,D
   15,U,X
-   5
-  15,R,U,C
+   4
+  15,R,U,X
   48,R
    3
    1,J,G
@@ -5422,7 +5518,6 @@ EndStunPause
   15,D,C
    5,U,X
    1,J
-
    1,R,K,G
   17,R
    5,L,D,C
@@ -5441,33 +5536,33 @@ EndStunPause
    1,S
    1,D,J
   69,O
-  10,L,D,X
+   6,L,Z
+   1,R,J
+   7,R
+   5,R,J
+   4,R,K,G
+  14,R,U,X
+   3,R,J,G
+   6,R,K,G
+   9,R
+   1,R,J
+  14,R,D,X
    1,R,J
    7,R
    7,R,J
-  14,R,U,X
-   5,R,J,G
-   5,R,K,G
-   2
-   3,R
-   1
-   1,R,J,G
-  14,R
-   1,R,K
-  13,R,D,X
+   1,R
+  14,R,X
    1,R,J
+   1,R
+  15,U,X
+   8,R,J,G
    7,R
-  11,R,J
-  16,U,X
-   9,R,J,G
-   2,R,K,G
-   8,R
-  13,R,Z
+   4,R,Z
    1,R,J
-   7,R
-  10,R,J
+   3,R,K,G
+  12,R
+  12,R,J
   15,R,U,X
- 135,D,C
-ChapterTime: 13:23.590(47270)
+ 135,D
 
-
+ChapterTime: 13:13.968(46704)
