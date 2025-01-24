@@ -2,13 +2,13 @@ console load BeefyUncleTorre/map/1
    1
 
 #Start
-#lvl_crane-01
+ 190
 
 #peace-21/cold-06 spinner cycle
-   1
-#
-#Start
- 190
+   2
+#-----
+
+#lvl_crane-01
    8,R,J
   14,U,X
    9,R
@@ -531,7 +531,7 @@ console load BeefyUncleTorre/map/1
   24,R,U,Z
   18,R,U,X
 
-# --berry collect +4f
+#berry collect +4f
 #  15,R,U,C
 #  14,U,X
 #  40
@@ -543,6 +543,7 @@ console load BeefyUncleTorre/map/1
 #   1,R,J
 #   3,R
 #  14,R,U,X
+#-----
 
    2,R
   15,R,U,C
@@ -792,6 +793,7 @@ console load BeefyUncleTorre/map/1
    9,R,J
   10,R
   17,R,D,X
+
 #lvl_heat-00 (0)
    2,R,J
   15,D,X
@@ -838,6 +840,7 @@ console load BeefyUncleTorre/map/1
    7,R,J
   10,R,X
    3,R,J
+
 #lvl_crane-pink-01
    2,R,J
    8,U,Z
@@ -922,6 +925,7 @@ console load BeefyUncleTorre/map/1
    2,L
   15,L,U,X
   11,L
+
 #lvl_ch2-peace-12 (1)
    1,L
    9
@@ -930,6 +934,7 @@ console load BeefyUncleTorre/map/1
    7,R
   20,R,J
    8,R,D,X
+
 #lvl_heat-00 (1)
    7,R,D,X
    5,R,D
@@ -975,7 +980,6 @@ console load BeefyUncleTorre/map/1
   10,L,D,X
    3,L,J
   16,L
-
   21,L,U,Z
   21,L,U,C
   21,L,U,X
@@ -1211,40 +1215,38 @@ console load BeefyUncleTorre/map/1
   11,R,K,G
    5,R,J,G
    6,L,K
-   2,R,J
-   2,L,K
-   2,R,J
-   2,L,K
-   2,R,J
-   2,L,K
-   2,R,J
-   2,L,K
-   2,R,J
-   1,L,K
-   1
-   2,R,J
-   2,L,K
-   2,R,J
-   6,K,G
-   2,R,J
-   8,R
+   1,R,J
+   2,R,K
+   2,L,J
+   2,R,K
+   2,L,J
+   2,R,K
+   2,L,J
+   1,R,K
+   1,R
+  11,L,J
+   1,L
+   4,K,G
+   3,R,K
+   7
    1,L,J
-   2,L,K
-  13,U,X
-   3,R,J
-   9,L,J
+   1,R,J
+  14,U,X
+   5,R,J
+   7,L,J
   40
 
 #lvl_heat-00-04 (1)
    1,L,J,G
-   1,L,K,G
-  12,L
+  10,L
    3,L,J
+   1,L
   15,U,X
    1,L,J,G
    8,L,G
-   4,L
-   6,L,J,G
+   4
+   2,L,G
+   4,L,J,G
    8,L
    8,R,J
   20,L,U,X
@@ -1461,7 +1463,7 @@ console load BeefyUncleTorre/map/1
    4,R,J
   40
 
-#lvl_peace-13
+#lvl_peace-14
    5,R,J
   15,R,D,X
    1,R
@@ -1983,6 +1985,7 @@ console load BeefyUncleTorre/map/1
    1,S
    1,D,J
   69,O
+
 #lvl_heat-09 (1)
   14,Z
    8,L,J
@@ -2054,23 +2057,21 @@ console load BeefyUncleTorre/map/1
   40
 
 #lvl_ch3-heat-08 (1)
-  13,D
+  11,D
    5,R,D
-  14,R,Z
-   1,R,J
-  15,R,D,X
-   6,R,D
    1,D
-   4,R,D
-   2,D
-   3,R,D
+  14,R,D,X
    1,R,J
-  18,R
-  13,R,J
-  15,R,U,X
-  10,R
-  15,U,X
-   3
+  31,R,D,X
+   1,R,J
+  13,R,D,X
+   3,R,J
+   1,R,K,G
+  12,R,J,G
+  14,R,U,X
+   3,R,J,G
+   7,R
+  18,U,X
 
 #lvl_crane-red-01
 #include this for accurate
@@ -2154,6 +2155,7 @@ console load BeefyUncleTorre/map/1
    1,R,J
   11,R,K
   29,R,U,X
+
 #lvl_ch3-heat-08 (2)
   19,R,D
    1,D
@@ -2162,6 +2164,7 @@ console load BeefyUncleTorre/map/1
    4,R,Z
    1,R,J
    7,R
+
 #lvl_heat-11
    1,S
    1,D,J
@@ -2554,6 +2557,7 @@ EndStunPause
   15,U,X
    5
   10,R
+
 #lvl_crane-blue-01
   21,R,D
    6,Z
@@ -2709,6 +2713,7 @@ EndStunPause
    7
   15,D,X
    3,D
+
 #lvl_cold-06 (1)
    1,D
    2,L,D
@@ -2828,7 +2833,7 @@ EndStunPause
    7,L
   40
 
-#cold-08
+#lvl_cold-08
    1,L,J
   10,L,D,X
    3,L,J
@@ -2924,7 +2929,7 @@ EndStunPause
    5,L
   40
 
-#ch4-cold-09
+#lvl_ch4-cold-09 (0)
    5,L
    1,L,D
    6,L,J
@@ -2977,84 +2982,94 @@ EndStunPause
   10,R
   40
 
-#lvl_ch4-cold-09
+#lvl_ch4-cold-09 (1)
    2,R
    7,R,J
   15,R,D,X
+  21,R,J
+   2,J
    1,R,J
-   1,J
-  24,R,J
+   2
   13,D,X
-   1,J,G
-   3
-  28,R,D
-   4,D,X
-   2,R,J
+   5,J
+  15,D,X
+   6,R,Z
+   1,R,J
    7,R
-   2,R,J
+   1,R,J
   14,R,D,X
    1,R,J
-  12,R,D,X
+  11,R,D,X
    1,L,J
    7,L
    1,L,J
-  14,L,D,X
+  12,L,D,X
    1,L,J
-  10,L,D,X
+   3,L
    1,L,J
-  14,U,X
-   4,L,J
-  11,L
-  11,R,J
-  16,U,X
-  20,R,J
+   3,L
+   3,L,D,J
    3,J
+  16,U,X
+  29,R,J
+   8,R,K,G
+   7,R
+  13,U,X
   43
 
-#fall-000
-  11,R
-  10,L,U,X
-   9,L,J,G
-   1,K,G
-   6,L
-   1,R
-   5,R,J
-  10,U,X
+#lvl_fall-000
+   5,R
+  16,R,J
+  14,U,X
    4,R
-   3,R,J
-   8,R
-   4,R,J
-   6,U,X
+   1,L,K,G
+   1
+   1,J,G
+   1
+   5,R
+   1
+   9,R,U,X
    1,R,J,G
   10,D
   13,L,D
   12,L,J
    4,L,K,G
   15,U,X
-   6,L,J,G
-   7,L
-   6,L,J
-   5,U,X
-   9,L,D
-   8,D
-   2,J
+   5
+   1,J,G
+   4,L
+   1
+   2,L
+   9,L,U,X
+   1,R,D
+   8,L,D
+   5,D
+   2,R,D
+   1,D
+   2,R,D,J
   15,U,X
-   5,R,J,G
+   5
    1,K,G
-   7,R
+   2,R
+   3
+   1,R
    4,L
    1,L,J
-  11,R,X
-  22,R,J,G
-  12,U,X
-   6,L,J,G
+  11,R,Z
+  14,R,J,G
+   5,R
+   1,R,J
+  14,U,X
+   1,L,J,G
    7,L
-   5,L,J
+   4,L,J
   15,U,X
   18,L,J
-   1,L,K,G
-  43,O
-#fall-0000
+#Summer
+   2,L,K,G
+  43
+
+#lvl_fall-0000 (0)
   11,R
   10,R,Z
    5,R,J
@@ -3094,7 +3109,7 @@ EndStunPause
    8,L,D,X
   40
 
-#lvl_fall-0000
+#lvl_fall-0000 (1)
 #+5f berry collect
    5
    1,S
@@ -3126,7 +3141,7 @@ SaveAndQuitReenter
    8,L,U,X
   40
 
-#fall-01a
+#lvl_fall-01a
    6,L,U,X
    5,L
   21,L,U,X
@@ -3237,7 +3252,7 @@ SaveAndQuitReenter
   10,L
   40
 
-#fall-05a
+#lvl_fall-05a (0)
    5,L
    1,L,J
   15,U,X
@@ -3329,7 +3344,7 @@ SaveAndQuitReenter
    6,L,D,X
   40
 
-#lvl_fall-05a
+#lvl_fall-05a (1)
    5,L,D,X
    1,L,J
    7,L
@@ -3354,7 +3369,7 @@ SaveAndQuitReenter
   10,L,D,X
   40
 
-#fall-07
+#lvl_fall-07
    4,L,D,X
    3,L,J
   14,L,D,X
@@ -3365,7 +3380,7 @@ SaveAndQuitReenter
    7,D
   40
 
-#fall-08a
+#lvl_fall-08a
   13,D
   13,L,D,X
    1,L,J
@@ -3420,7 +3435,7 @@ SaveAndQuitReenter
    6,L,U,X
   40
 
-#fall-13
+#lvl_fall-13
    4,L,U,X
    1,R,J,G
   15,L,J
@@ -3434,7 +3449,7 @@ SaveAndQuitReenter
   13,U,X
   40
 
-#fall-14
+#lvl_fall-14
   11,J
    1,D,X
   13,U,X
@@ -3455,7 +3470,7 @@ SaveAndQuitReenter
    1,L,J
   40
 
-#fall-15
+#lvl_fall-15
    3,L
    1,L,J
    8,L,D,X
@@ -3466,7 +3481,7 @@ SaveAndQuitReenter
   34
 #spinner cycle
    2
-##
+#-----
   71,U
    1,X
   19,R
@@ -3477,9 +3492,9 @@ SaveAndQuitReenter
   14,D
 StunPause
    1,D
-   6,R,D
+   5,R,D
 EndStunPause
-   2,R,D
+   3,R,D
    2,D
    1,R,D
    5,L,D
@@ -3502,7 +3517,7 @@ EndStunPause
    6,L
   40
 
-#fall-09a
+#lvl_fall-09a
    2,L
   11,L,D,J
    0,L
@@ -3578,6 +3593,7 @@ EndStunPause
    3,L
   15,L,X
    3,L,D
+
 #lvl_crane-gold-01
   15,L,D
   14,L,D,X
@@ -3739,7 +3755,6 @@ EndStunPause
    1,R,J
   12,L,K,G
    7,L
-#New inputs (-1f)
    4,Z
    2,L,J
    3,L
@@ -3752,22 +3767,10 @@ EndStunPause
    2,R
   15,L,U,X
   12,R
+
 #lvl_fall-09b (0)
    3,R
    9
-#Old Inputs
-#   4,Z
-#   5,L,J
-#   6,L,K,G
-#   1,L,J,G
-#  14,L
-#   1,L,J
-#  15,U,X
-#  13,L
-#   7
-#lvl_fall-09b (1)
-#   7
-#####
   14,L,Z
    1,L,J
   15,L,D,X
@@ -3777,7 +3780,7 @@ EndStunPause
    5,L,D,X
   40
 
-#fall-10a
+#lvl_fall-10a
   10,L,D,X
    1,L,D,J
    1,J
@@ -3803,7 +3806,7 @@ EndStunPause
   16,U,X
   40
 
-#fall-11a
+#lvl_fall-10b
    1,R,J,G
   10,L
    4,L,D,X
@@ -3898,7 +3901,7 @@ EndStunPause
    1,L,K,G
   43
 
-#fall-18
+#lvl_fall-18
    4,R,K
    7,R
   14,R,Z
@@ -4216,8 +4219,8 @@ EndStunPause
   11,L,J,G
   24,L
 #memory-14 Spinner Cycle
-   2
-####
+   0
+#-----
    4,L,J
   13,K,G
   16,U,X
@@ -4325,13 +4328,15 @@ EndStunPause
   16,L,J
   15,U,X
    1,L,J,G
+
 #+1f collect berry
 #for deathwarp in 14~16
    3,L
    5
 #   3
 #   4,L
-###
+#---
+
   14,L,D,X
   37,L,J
   11,U,X
@@ -4850,6 +4855,7 @@ EndStunPause
   15,R,X
    8,R
   10,L,D
+
 #lvl_memory-10b
    6,L
    3,L,D
@@ -5196,6 +5202,7 @@ EndStunPause
    4
   15,D,X
  111,L,D
+
 #lvl_solace-00
    7,L,D
    4,Z
@@ -5261,11 +5268,12 @@ EndStunPause
   18,U,X
   20,R,C
   25,R,D
-   6,L,D,X
+   5,L,Z
    1,R,J
-   7,R
+   4,L
+   4,R
    1,R,J
-   5,R,Z
+   4,R,Z
    1,R,J
    3,R
   40
@@ -5455,4 +5463,4 @@ EndStunPause
   15,R,U,X
  135,D
 
-ChapterTime: 13:08.664(46392)
+ChapterTime: 13:07.525(46325)
