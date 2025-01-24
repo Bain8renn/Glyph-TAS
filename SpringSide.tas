@@ -59,11 +59,6 @@ console load BeefyUncleTorre/map/2
   40
 
 #lvl_peace-02
-
-
-
-
-
    7
    2,L
    2,L,J
@@ -74,35 +69,6 @@ console load BeefyUncleTorre/map/2
    2,L
    6
    6,R,D,X
-
-
-
-
-
-
-
-#   7
-#   2,L
-#   2,L,J
-#   8,U,X
-#  11,L
-#  15,L,X
-#   2,L
-#   6
-#   1,L
-#   2
-#   7,R,Z
-
-
-
-
-
-
-
-
-
-#can be optimised to a 6f
-
    1,L,J
    3,L
    1,L,J
@@ -123,26 +89,6 @@ console load BeefyUncleTorre/map/2
   14,R,D
    3,R,J
   40
-
-
-
-
-#improved
-#0:11.492(676)
-
-
-
-
-
-
-#Default
-#0:11.543(679)
-
-
-
-
-
-
 
 #lvl_peace-03
   18,R,J
@@ -314,11 +260,6 @@ console load BeefyUncleTorre/map/2
   12,L,D
   25,L
   15,R,U,X
-
-
-
-
-
    2,R
   15,L
   15,L,X
@@ -327,28 +268,6 @@ console load BeefyUncleTorre/map/2
   10,R
    3,R,D
   10,L,D
-
-
-
-
-
-
-#   2,L
-#maybe skip dash crystal?
-#  27,L
-#  15,L,X
-#  24,L,D
-#  15,R,D,X
-#  17,L,D
-
-
-
-
-
-
-
-
-
    4,L,Z
    2,L,J
    8,L
@@ -357,26 +276,6 @@ console load BeefyUncleTorre/map/2
    1,L,J
    5,L
   40
-
-
-
-
-
-
-#Improved
-#0:43.418(2554)
-
-
-
-
-
-
-#Default
-#0:43.656(2568)
-
-
-
-
 
 #lvl_ch2-peace-075
    1,L
@@ -891,21 +790,7 @@ EndRepeat
    8,R,J
   25,R,D
    8,L,D
-
-
-
-
-
    3
-
-
-
-
-#  14
-
-
-
-
    2,L
   14,R,D,X
   10,R,J
@@ -925,25 +810,6 @@ EndRepeat
    1,R,J
    5,R,D,X
   40
-
-
-
-
-#Improved
-#1:55.311(6783)
-
-
-
-
-
-#Default
-#1:55.498(6794)
-
-
-
-
-
-
 
 #lvl_crane-pink-05
    9,R,D,X
