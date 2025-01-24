@@ -5,7 +5,7 @@ console load BeefyUncleTorre/map/1
 #lvl_crane-01
 
 #peace-21/cold-06 spinner cycle
-   2
+   0
 #
 #Start
  190
@@ -227,12 +227,6 @@ console load BeefyUncleTorre/map/1
    1
    1,R
   14,L,D,X
-#  29,L,J
-#  24,L,U,X
-#   1,J,G
-
-
-
   30,L,J
   27,L,U,X
    1,K,G
@@ -499,7 +493,8 @@ console load BeefyUncleTorre/map/1
    8,J,G
   15,U,Z
    1
-   6,J,G
+   5,J,G
+   1
    1,K,G
    3
    2,R
@@ -509,44 +504,25 @@ console load BeefyUncleTorre/map/1
    2,L
   15,L,X
   14,L
-   1,R,J
-   1
-  12
-   5,L
-  15,L,Z
-   2,L,D
-  10,D
-   1,L,D
-   2,D
-   6,L,D
-   5,D
-  12,L
-  21,U,X
-   8,R,J
-  17,L,J
-  11,J
-  15,U,X
-  23,L
-  39
-  11,L,G
-   2
-   3,R
-   2
-   3,R
-   1
-   9,U,X
-  30,R,J
    1,J
-   3,R,J
-   3,L,K
-   1,L
+  10
+   8,L
+  15,L,Z
+   3,L
   15,U,X
-  15,R,Z
-   3,R
-  12
-  18,R,U,X
-  18,R,U,C
-   8,R,J,G
+  25,L,D
+  14,R,D
+   2,R
+   3,R,D
+   2,D
+   1,R,D
+   3
+  29,R,U,X
+  25,R,U,Z
+  15,R,U,X
+  15,R,U,C
+  10,R
+  11,U,X
   40
 
 #lvl_peace-08 (0)
@@ -5443,4 +5419,4 @@ EndStunPause
   15,R,U,X
  135,D
 
-ChapterTime: 13:11.877(46581)
+ChapterTime: 13:09.327(46431)
