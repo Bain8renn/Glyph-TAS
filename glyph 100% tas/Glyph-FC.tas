@@ -265,21 +265,29 @@ console load BeefyUncleTorre/map/1
   10,R,J,G
   12,L,K
   10,R,X
-   7,R,J
-   7,L,D
-  20,R,D
-   4,R
-  13,R,Z
+   1,R,J
+   4,J
+   2,R,J
+  18,R
+   2,R,D
+   1,D
+   5,R,D
+   2,R
+   1,R,D
+   1,R
+   1,R,D
+  12,R,X
    3,R,J
-  11,R,U,X
+  12,R,U,X
   40
 
 #lvl_peace-02 (0)
-   4,R,U,X
-  14,U,X
-  18,L,J
-  10,R,K
-  11,R,J,G
+   3,R,U,X
+  15,U,C
+   5,R,J
+  14,L,J
+  11,R,K
+   6,J,G
   40
 
 #lvl_peace-29
@@ -5425,4 +5433,4 @@ EndStunPause
   15,R,U,X
  135,D
 
-ChapterTime: 13:08.919(46407)
+ChapterTime: 13:08.868(46404)
