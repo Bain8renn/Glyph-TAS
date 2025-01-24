@@ -23,6 +23,8 @@ console load BeefyUncleTorre/map/1
 #lvl_crane-01
 #spinner cycle heat-04
    0
+#-----
+
 #Start
  190
    8,R,J
@@ -170,7 +172,8 @@ console load BeefyUncleTorre/map/1
    1,L,K
   12,R,J,G
    7,R
-## Tying strat but messes with cycles
+
+# Tying strat but messes with cycles
 #   2,R,J
 #   1,R,K,G
 #  12,R,J,G
@@ -181,7 +184,8 @@ console load BeefyUncleTorre/map/1
 #   2,R,D
 #  15,R,J
 #  19,U,X
-##
+#-----
+
    4,R,J
    5,K,G
    7,L,K
@@ -223,7 +227,6 @@ console load BeefyUncleTorre/map/1
    9
    2,L,J
    1,R,J
-
   17,U,X
   30,R,J
    1,R
@@ -234,13 +237,6 @@ console load BeefyUncleTorre/map/1
    1
    1,R
   14,L,D,X
-#  29,L,J
-#***
-#  24,L,U,X
-#   1,J,G
-
-
-
   30,L,J
   27,L,U,X
    1,K,G
@@ -266,6 +262,7 @@ console load BeefyUncleTorre/map/1
   10,J
   40
 
+#lvl_peace-01
    5,R
    1,R,J,G
    1,R,K,G
@@ -318,7 +315,7 @@ console load BeefyUncleTorre/map/1
    1,R
   40
 
-#lvl_peace-04
+#lvl_peace-03
    1,L,J
   28,L,D
   41,L,J
@@ -330,6 +327,7 @@ console load BeefyUncleTorre/map/1
    1,D
   40
 
+#lvl_peace-04
    8,D
    3,R,D
   10,L,D,X
@@ -957,7 +955,7 @@ console load BeefyUncleTorre/map/1
    1,R,J
   40
 
-#lvl_peace-13
+#lvl_peace-14
    5,R,J
   15,R,D,X
    1,R
@@ -1709,7 +1707,7 @@ EndStunPause
   14,L
 #spinner cycle cold-08
    0
-##
+#-----
    6,R,D,X
    1,L,J
    7,L
@@ -1766,7 +1764,7 @@ EndStunPause
   12,U,X
   43
 
-#fall-000
+#lvl_fall-000
    2,R
   17,R,J
    1,L,J
@@ -1819,7 +1817,7 @@ EndStunPause
    2,L,K,G
   43
 
-#fall-0000
+#lvl_fall-0000
    5,K,G
    1,R,K
    1,L,J,G
@@ -1847,7 +1845,7 @@ EndStunPause
    8,L,U,X
   40
 
-#fall-01a
+#lvl_fall-01a
    6,L,U,X
    5,L
   18,L,U,X
@@ -1863,7 +1861,7 @@ EndStunPause
    4,L
   43
 
-#fall-03a
+#lvl_fall-03a
    2,L
    1
    1,L
@@ -1923,7 +1921,7 @@ EndStunPause
    1,L,J
   40
 
-#fall-05a
+#lvl_fall-05a
    4,L,J
   15,L,D,X
    2,L,D
@@ -1950,7 +1948,7 @@ EndStunPause
    9,L
   40
 
-#fall-07
+#lvl_fall-07
    4,L
    7,L,J
   15,L,D,X
@@ -1987,7 +1985,7 @@ EndStunPause
    1,L,J
   40
 
-#fall-15
+#lvl_fall-15
    3,L
    1,L,J
    8,L,D,X
@@ -1998,7 +1996,7 @@ EndStunPause
   34
 #spinner cycle
    0
-##
+#-----
   71,U
    1,X
   25,R
@@ -2029,7 +2027,7 @@ EndStunPause
    6,L
   40
 
-#fall-09a
+#lvl_fall-09a
   10,L,D,J
    1,L
   15,L,U,X
@@ -2105,7 +2103,7 @@ EndStunPause
    5,L,D,X
   40
 
-#fall-10a
+#lvl_fall-10a
   10,L,D,X
    1,L,D,J
    1,J
@@ -2132,7 +2130,7 @@ EndStunPause
   15,U,X
   41
 
-#fall-11a
+#lvl_fall-11a
    1,L,J
   10,L
   11,L,Z
@@ -2230,7 +2228,7 @@ EndStunPause
    1,R,J
   43
 
-#fall-18
+#lvl_fall-18
    5,R
    1,R,J,G
    2,R,K,G
@@ -2489,7 +2487,7 @@ EndStunPause
    1,L,J
   40
 
-#lvl_memory-05b
+#lvl_memory-06a
    3,R
   10,J,G
    6
@@ -2565,7 +2563,7 @@ EndStunPause
   11,R
 #lightning cycle
    2
-#
+#-----
    7,R,J,G
    5,R,Z
    1,R,J
@@ -3382,11 +3380,11 @@ EndStunPause
    3,R,K,G
   40
 
-#ch6-memory-12
+#lvl_ch6-memory-12
   33,R,K
   40
 
-#memory-13
+#lvl_memory-13
   14,R,J
   15,R,U,X
   12,R,J,G
@@ -3466,6 +3464,7 @@ EndStunPause
    2
    1,R
  163,L
-   1
 
 ChapterTime: 7:04.881(24993)
+
+  32,L
