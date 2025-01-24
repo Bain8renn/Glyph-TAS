@@ -5,7 +5,7 @@ console load BeefyUncleTorre/map/1
 #lvl_crane-01
 
 #peace-21/cold-06 spinner cycle
-   2
+   1
 #
 #Start
  190
@@ -531,17 +531,34 @@ console load BeefyUncleTorre/map/1
   24,R,U,Z
   18,R,U,X
   15,R,U,C
-  14,U,X
-  40
+# --berry collect +4f
+#  14,U,X
+#  40
 
-#lvl_peace-08 (0)
-  17,R
-  14,R,Z
-   3,R,J
-   6,R
-   1,R,J
-   3,R
+#  17,R
+#  14,R,Z
+#   3,R,J
+#   6,R
+#   1,R,J
+#   3,R
+#  14,R,U,X
+
+
   14,R,U,X
+   6,J,G
+  40
+#lvl_peace-08 (0)
+
+  11,R
+   6,R,J,G
+  13,R,D,X
+   2,R,J
+   1,R
+   1,R,J
+   7,R
+   1
+  14,R,U,X
+
    1,J,G
    4
    5,L
@@ -5433,4 +5450,4 @@ EndStunPause
   15,R,U,X
  135,D
 
-ChapterTime: 13:08.868(46404)
+ChapterTime: 13:08.919(46407)
