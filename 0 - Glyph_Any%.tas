@@ -7,7 +7,6 @@ Read,StartFullGameFile
 
 #Glyph (Main)
 Read,Glyph,Start
-***S
 
 Read,LoadJournal,Endscreen
 
