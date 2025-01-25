@@ -1,0 +1,41 @@
+Set,SaveData.Instance.CheatMode,true
+
+console load BeefyUncleTorre/map/3
+   1
+
+#Start
+  36
+
+#lvl_memory-00
+   7,J
+   1
+  15,U,X
+  66
+  15,U,X
+  15,L
+   7
+   1,L
+   2,D
+   1,L,D
+   9,D
+  10,L,X
+  16,L,J
+  15,U,X
+   2,L
+  19,L,J
+   4,K,G
+   5,R
+   9,L,X
+   6,R
+  15,U,X
+   5,L
+   6,R,J
+  13,R,K,G
+   1,R,J,G
+   1,L,K
+  40
+
+#lvl_heat-01 (1)
+Read,../SummerSide,lvl_heat-01 (1)
+
+ChapterTime: 1:58.864(6992)
