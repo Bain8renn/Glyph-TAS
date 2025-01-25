@@ -1,25 +1,47 @@
-StartRecording
-read LoadStartTAS
-read Glyph-FC lvl_crane-01
-read LoadFromAFCRecord
-read SpringSide Start
-read LoadSSRecord
-read SummerSide Start
-read LoadSSRecord
-read WinterSide Start
-read LoadSSRecord
-read FallSide Start
-read LoadSSRecord
-read VoidSide-AC Start
-read LoadBRecord
-read VoidSide-B Start
-  59
-   1,J
- 196
-Unsafe
- 640
-Set TASRecorder.BlackFade 1
-  20
-   1,J
-  40
-StopRecording
+#To sync:
+#Use Celeste v.1.4.0.0
+#Start from Begin
+#Latest Glyph Version. Ask in the TAS Discord if a desync occurs on the latest Glyph version.
+
+Read,StartFullGameFile
+
+#Glyph (Main)
+Read,Glyph-FC,Start
+
+Read,LoadSeason
+
+#Spring Side
+Read,SpringSide,Start
+
+Read,LoadSeason
+
+#Summer Side
+Read,SummerSide,Start
+
+Read,LoadSeason
+
+#Winter Side
+Read,WinterSide,Start
+
+Read,LoadSeason
+
+#Fall Side
+Read,FallSide,Start
+
+Read,LoadSeason
+
+#Void Side A-Side
+Read,VoidSide-AC,Start
+
+Read,LoadVoidB
+
+#Void Side B-Side
+Read,VoidSide-B,Start
+
+Read,LoadJournal,Start,Glyph-Main
+   1,S
+   1,X
+  42
+Read,LoadJournal,Journal
+
+FileTime: 30:24.576(107328)
