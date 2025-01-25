@@ -5,7 +5,7 @@ console load BeefyUncleTorre/map/1
  190
 
 #peace-26 spinner cycle
-   0
+   2
 #-----
 
 #lvl_crane-01
@@ -205,26 +205,23 @@ console load BeefyUncleTorre/map/1
    3,R,K,G
    1,R,J,G
    9,R
-   5,R,J
-   6,R
-  14,R,U,X
-   1,J,G
+   6,R,J
    1,R
-   1
-   7,R
-   1,L
    2,R,J
-  15,U,Z
-   3,R
-   1
-  31,R,J
+   3,J
+   1,R,J
+  13,R,U,X
+   1,J,G
+   8
+   1,R
+   1,R,J
+   2,J
+  17,U,X
+  30,R,J
    1,R
    3,R,K
-   3,R
-   1,R
+   6,R
    1
-   1,R,J
-   1,J
   14,L,D,X
   30,L,J
   27,L,U,X
