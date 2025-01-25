@@ -1,0 +1,14 @@
+#To sync:
+#Use Celeste v.1.4.0.0
+#Start from Begin
+#Latest Glyph Version. Ask in the TAS Discord if a desync occurs on the latest Glyph version.
+
+Read,StartFullGameFile
+
+#Glyph (Main)
+Read,Glyph,Start
+***S
+
+Read,LoadJournal,Endscreen
+
+FileTime: 7:08.655(25215)
