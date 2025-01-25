@@ -5,7 +5,7 @@ console load BeefyUncleTorre/map/1
  190
 
 #peace-26 spinner cycle
-   2
+   1
 #-----
 
 #lvl_crane-01
@@ -391,16 +391,17 @@ console load BeefyUncleTorre/map/1
    2,R,D
    1,R,J,G
    7,R
-  13,R,D,X
-   2,J
-  12,R,U,X
+  10,R,X
+   2,R,J
+   4,J
+  11,R,U,X
   40
 
 #lvl_peace-05
-   3
-  10,U,Z
-  30,R,J
-   2,R
+   4,R
+   7,U,Z
+  31,R,J
+   1,R
    1,R,J
   11,R
   15,R,U,Z
@@ -670,8 +671,6 @@ EndStunPause
    4,R,J,G
    7,R
 #+1f berry
-#this can probably be cut at some point
-#just have this for ez sync
    1
 #
   10,R,X
@@ -789,9 +788,11 @@ EndStunPause
   19,R,C
   15,R,D,X
   14,R,Z
-  12,R,J
-  18,R
-  18,R,Z
+  11,R,J
+   1,R
+   2,R,J
+  17,R
+  17,R,Z
   49,R,U,X
   14,R,Z
    7,R,J
@@ -800,14 +801,15 @@ EndStunPause
    1,R
    9,L
    1,R,D
-  15,L,D
-  19,L,X
-  15,R,D,C
-  24,R,D,X
+   4,L,D
+  15,D,X
+   6,D
+   6,R,D
+  18,R
   14,R,Z
-  11,R,J
-  25,R
-  15,R,U,X
+  14,R,J
+  24,R
+  16,R,U,X
   42,U,C
   15,R,X
    4,R,D
@@ -827,11 +829,11 @@ EndStunPause
    3,R
    6,R,D,J
    1,L,K,G
-   8,R,K
+   9,R,K
   16,U,Z
   18,R,J
   12,K,G
-   6,J,G
+   4,J,G
   40
 
 #lvl_crane-03 (0)
@@ -840,7 +842,7 @@ EndStunPause
    1,D,J
   69,O
 #spinner cycle (peace-21)
-   2
+   0
 #
    8,L,Z
   40
@@ -858,21 +860,24 @@ EndStunPause
   11,L
 
 #lvl_ch2-peace-12 (1)
-   1,L
-   9
-   7,L,Z
-   1,R,J
-   7,R
-  20,R,J
+   7
+   4,L
+   5,L,Z
+   2,R,J
+   4,R
+  18,R,J
+   2,R
    8,R,D,X
 
 #lvl_heat-00 (0)
    7,R,D,X
    5,R,D
-   4,R,J
-   9,R
+   1,R,J
+   9,R,D,X
+   8,R,J
+   4,R
    2
-  17,R,Z
+   8,R,Z
    5,L,J
    2,L
    2,L,K
@@ -5402,4 +5407,4 @@ EndStunPause
   15,R,U,X
  135,D
 
-ChapterTime: 12:57.172(45716)
+ChapterTime: 12:56.713(45689)
