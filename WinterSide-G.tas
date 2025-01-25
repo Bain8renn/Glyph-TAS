@@ -1,0 +1,34 @@
+Set,SaveData.Instance.CheatMode,true
+
+console load BeefyUncleTorre/map/4
+   1
+
+#Start
+  36
+
+#lvl_memory-00
+   7,J
+   1
+  70,U,X
+
+#lvl_cold-00
+  11
+  15,U,X
+  26
+   7,L,D
+   1
+   1,D
+   7,L,Z
+   1,L,J
+   6,L
+   1,L,J
+  17,L,D,X
+   3,L,J
+   2,L
+   5,L,D,X
+  40
+
+#lvl_cold-01
+Read,../WinterSide,lvl_cold-01 (1)
+
+ChapterTime: 2:56.409(10377)
