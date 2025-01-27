@@ -1,0 +1,88 @@
+#To sync:
+#Use Celeste v.1.4.0.0
+#Start from Begin
+#Latest Glyph Version. Ask in the TAS Discord if a desync occurs on the latest Glyph version.
+
+Read,StartFullGameFile
+
+#Glyph (Main)
+Read,Glyph-FC,Start
+
+Read,LoadSeason
+
+#Spring Side
+Read,SpringSide,Start
+
+Read,LoadSeason
+
+#Summer Side
+Read,SummerSide,Start
+
+Read,LoadSeason
+
+#Winter Side
+Read,WinterSide,Start
+
+Read,LoadSeason
+
+#Fall Side
+Read,FallSide,Start
+
+Read,LoadSeason
+
+#Void Side A-Side
+Read,VoidSide-AC,Start
+
+Read,LoadVoidB
+
+#Void Side B-Side
+Read,VoidSide-B,Start
+
+Read,LoadGlyphG
+
+#Glyph (Main) Golden
+Read,Max%/Glyph-G,Start
+
+Read,LoadSpringG
+
+#Spring Side
+Read,Max%/SpringSide-G,Start
+
+Read,LoadSeasonG
+
+#Summer Side
+Read,Max%/SummerSide-G,Start
+
+Read,LoadSeasonG
+
+#Winter Side
+Read,Max%/WinterSide-G,Start
+
+Read,LoadSeasonG
+
+#Fall Side
+Read,Max%/FallSide-G,Start
+
+Read,LoadSeasonG,Start,Checkpoints
+   1,J
+  46
+Add 1
+
+#Void Side A-Side
+Read,Max%/VoidSide-AG,Start
+
+Read,LoadVoidB,Start,Checkpoints
+   1,J
+  30
+Read,LoadVoidB,Checkpoints
+
+#Void Side B-Side
+Read,Max%/VoidSide-BG,Start
+
+Read,LoadJournal,Start,Glyph-Main
+   1,S
+   1,X
+  42
+Read,LoadJournal,Journal
+
+FileTime: 54:57.626(193978)
