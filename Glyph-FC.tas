@@ -1495,7 +1495,7 @@ EndStunPause
    1,D,J
   69,O
 #spinner cycle
-   1
+   0
 #
    9,R,X
   11,R,J
@@ -1639,15 +1639,10 @@ EndStunPause
   40
 
 #lvl_ch3-heat-08 (0)
-   5,L,J
-   1,J
-   2,L,J
-   5,L
-   6,L,D,X
-   1,L,J,G
-  11,L
+   9,L,J
+  14,L,Z
    1,L,J
-   7,L,D,X
+  11,L,D,X
    1,R,J
    7,R
    1,R,J
@@ -1670,44 +1665,49 @@ EndStunPause
   15,L,X
   15,L
   15,L,U,Z
-   7,L,D
-   6,R,D
-   0,R
-   1,R,J
-  15,R
-  10,L,Z
+   4
+   9,L
    1,L,J
-  12,L,K,G
+   1,L,K,G
+   1,L,J,G
+   1,K,G
+   5
+   1,R
+   1,R,J
+   1,R
+   1,R,J
+   2,J
+   5
+   5,R,Z
+   1,L,J
+   4,L
+   7,L,J
   15,L,D,X
-   2,L,J
+   1,L,J
   40
 
 #lvl_memory-01
-   7,L,J
-   5,L
+   9,L,J
+   3,L
    5,L,D,X
    1,L,J,G
   11,L
    1,L,J
    2,L
   15,L,D,X
-   6,L
-   0
-   1,L,J
-   2,J
-   6,L,K,G
+   5,L,D
+   3,L,J
+   5,L,K,G
    9,L,U,X
    1,L,K,G
   10,L
   40
 
 #lvl_cold-00 (0)
-   7,L
-  13,L,J
-  15,L,U,X
-   1,L
-   9,L,J,G
-   3
+   6,L
+  12,L,J
+  14,L,U,X
+  14,J,G
    1,K,G
    4
    2,L
@@ -2434,6 +2434,7 @@ EndStunPause
    9,R,D
    4,Z
    2,R,J
+# (cycle wait around line 1498)
 StunPause
    6,R,J
    2,R
@@ -5361,4 +5362,4 @@ EndStunPause
   15,R,U,X
  135,D
 
-ChapterTime: 12:47.210(45130)
+ChapterTime: 12:47.006(45118)
