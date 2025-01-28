@@ -3379,7 +3379,7 @@ SaveAndQuitReenter
    1,X
   34
 #spinner cycle
-   2
+   0
 #-----
   71,U
    1,X
@@ -3388,10 +3388,10 @@ SaveAndQuitReenter
    1
   15,R,D,C
    3,R,D
-  14,D
+  15,D
+   1,R,D
 StunPause
-   1,D
-   5,R,D
+   4,R,D
 EndStunPause
    3,R,D
    2,D
@@ -3419,7 +3419,6 @@ EndStunPause
 #lvl_fall-09a
    2,L
   11,L,D,J
-   0,L
   15,L,U,X
   24,L
   15,L,Z
@@ -5362,4 +5361,4 @@ EndStunPause
   15,R,U,X
  135,D
 
-ChapterTime: 12:46.802(45106)
+ChapterTime: 12:46.581(45093)
