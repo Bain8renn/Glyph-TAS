@@ -1636,14 +1636,17 @@ EndStunPause
   40
 
 #lvl_ch3-heat-08 (0)
-   9,L,J
-  14,L,Z
-   1,L,J
-  11,L,D,X
+   8,L,J
+   6,L
+   1
+   1,L
+   1,L,K
+  13,L,D,X
    1,R,J
    7,R
-   3,R,J
-  16,R,D,X
+   2,R,J
+   1,R
+  15,R,D,X
    7,R,J
   40
 
@@ -1657,52 +1660,47 @@ EndStunPause
   14,R,D,X
   26,R,J
   15,R,X
-  38,L,D
+  36,L,D
+   2,L
   15,L,X
-  15,L
-  15,L,U,X
-   4
-   9,L
-   1,L,J
-   1,L,K,G
-   1,L,J,G
-   1,K,G
-   5
+   7,L
+  15,L,X
+   5,L
+   2
+   7,L,K,G
+   1,J,G
+   6,L
    1,R
    1,R,J
-   1,R
-   1,R,J
-   2,J
-   5
-   5,R,Z
+   7,J
+  10,L,D,X
    1,L,J
-   4,L
-   7,L,J
+  11,L,K,G
   15,L,D,X
-   1,L,J
+   2,L,J
   40
 
 #lvl_memory-01
-   9,L,J
-   3,L
+   7,L,J
+   5,L
    5,L,D,X
    1,L,J,G
   11,L
-   1,L,J
+   1,L,D,J
    2,L
   15,L,D,X
    5,L,D
-   2,L,J
-   1,J
-   2,L,K,G
+   3,L,J
+   1,L,K,G
+   1,K
   12,L,U,X
    8,L,J,G
   40
 
 #lvl_cold-00 (0)
   18,L,J
-  15,L,U,X
-   5,L,J,G
+  14,L,U,X
+   6,L,J,G
    2
    1,K,G
    4
@@ -1769,7 +1767,7 @@ EndStunPause
   69,O
 
 # spinner cycle
-   1
+   0
 #
 
 #console load BeefyUncleTorre/map/1 heat-09
@@ -1778,9 +1776,11 @@ EndStunPause
 
    2,R,J
   15,U,X
-  12,R,J,G
+  11,R,J,G
+
+   1,R,K,G
    7,R
-   4,Z
+   4,R,Z
    1,R,J
    4,R
   40
@@ -1795,10 +1795,10 @@ StunPause
   10,R,D
    3,L,D
 EndStunPause
-  21,L
+  11,L,D
   14,L,X
-   4,L,J
-  26
+  35,L
+   1,R,D
    1,S
    1,D,J
   69,O
@@ -2035,8 +2035,8 @@ EndStunPause
    1,S
    1,D,J
   69,O
-#spinner cycle (stun around line 2408)
-   0
+#spinner cycle (peace-19)
+   1
 #
    4,Z
    1,L,J
@@ -5332,4 +5332,4 @@ EndStunPause
   15,R,U,X
  135,D
 
-ChapterTime: 12:41.651(44803)
+ChapterTime: 12:41.447(44791)
