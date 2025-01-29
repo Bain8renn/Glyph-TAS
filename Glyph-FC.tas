@@ -1919,62 +1919,51 @@ EndStunPause
    9,L,D,X
    1,L,J
    5,L
+   7
    1,L,G
-   9
-  15,R,X
-  16,R
+  21
+   8,R,Z
+   2,R,J
+   3,R
+   1,R,J
+   1,R
+   1,R,J
+   3
    4,Z
    1,L,J
-   7,L
-   6,L,D,J
-   1,L,K,G
-  10,L,D
-  14,L,D,X
-   2,L,J
-  13,L,D
-  25,D
-   7,R,D
-   2,R
-  30
-   7,R
-   5
-   1,R
-  15
-   4,Z
-   1,R,J
-   7,R
-  26,R,J
-   8,U,X
-   7,L,J
-  18,L
+   6,L
+   6,L,J
+   7,L,K,G
+  15,L,D,X
+   1,L,J
+   3,L
+   2
+   2,J
+  62,R
+  15,R,Z
+  21,R
   15,R,X
-   4,L
-   9
-  20,R,K
-  32,R
-  16,R,Z
-   6
+  36
+  14,R,Z
    1,R,J
-  13,R
-   7,L,Z
+   1,R,K
+   2,R
+   1,R,K
+   8,R,Z
    1,R,J
-   3,R
+   2,R
   40
 
 #lvl_peace-19 (1)
    4,R
    1,R,J
-  10,R,D,X
-   1,R,J
-   6,R,K,G
-  15,R,D,C
-  40,R,D
+  15,R,D,X
+  54,R,D
   40
 
 #lvl_ch3-heat-08 (1)
   11,D
-   5,R,D
-   1,D
+   7,R,D
   14,R,D,X
    1,R,J
   31,R,D,X
@@ -2085,7 +2074,7 @@ EndStunPause
    1,D,J
   69,O
 #spinner cycle (peace-19)
-   1
+  13
 #
    4,Z
    1,L,J
@@ -5381,4 +5370,4 @@ EndStunPause
   15,R,U,X
  135,D
 
-ChapterTime: 12:41.175(44775)
+ChapterTime: 12:39.492(44676)
