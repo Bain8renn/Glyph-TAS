@@ -20,13 +20,14 @@
 console load BeefyUncleTorre/map/1
    1
 
-#lvl_crane-01
+#Start
+ 190
+
 #spinner cycle heat-00-03
    0
 #-----
 
-#Start
- 190
+#lvl_crane-01
    8,R,J
   14,U,X
    9,R
