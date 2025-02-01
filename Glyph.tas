@@ -1714,22 +1714,21 @@ EndStunPause
 
 #lvl_cold-08
    3,L,J
-   5,L
+   8,L
 StunPause
-   4,L
+   1,L
    1,L,J
    5,L
    5,L,J
-  10,L
+   8,L
 EndStunPause
-   5,L
+   7,L
 Stunpause
   10,L,D
 SkipAutoInput,3,1
   27,L,Z
    1,R,J
 EndStunpause
-
    3,J
    3,L,J
    2,J
@@ -3468,6 +3467,6 @@ EndStunPause
  163,L
 
 #Time
-ChapterTime: 7:04.218(24954)
+ChapterTime: 7:03.657(24921)
 
   32,L
