@@ -1825,7 +1825,7 @@ EndStunPause
 #  40
 
 #lvl_cold-000 (0)
-#  11,L,D
+#   4,L,D
 
 ##################
 
@@ -3415,25 +3415,22 @@ EndStunPause
   40
 
 #lvl_fall-09a
-   2,L
-  11,L,D,J
+   1,L,K
+  11,L,J
   15,L,U,X
   24,L
   15,L,Z
-  19,L
-  21,L,D
-  14,L,Z
-   1,L,J
-   7,L
-  14,R,Z
-  18,R,J
-  15,R,U,X
-  24,L
-  15,U,X
+   2,L
+  11
+  15,L,U,Z
    1,R,J,G
-   8,R,G
-   7,G
-  23,R,G
+   1,R,K,G
+   7,R
+   6,R,G
+   1,D,G
+   1,G
+   1,D,G
+  21,G
    1,J,G
    1,L,J
   18,R,D
@@ -3452,39 +3449,65 @@ EndStunPause
    2,J,G
    1,L,J
    5,R,J
-  16,R,D
-   3,G
+  14,R,D
+   1,G
    4,J,G
    4,L,J
-  11,R,J
-   2,R,K,G
-  14,R
+   5,R
+   2,R,J
+   1,R
+   1,R,J
+   1,R
+   1,R,K,G
+   1,R,J,G
+   9,R
+   1
+   1,R
    2
-   1,L,J
-   3,L
   10,R,D,X
   16,L,J
   14,L,U,X
-   6,L,J,G
+   2,J,G
+   1,R,J
+   1,L,K,G
+   1,L,J,G
+   1,L,K,G
+   7,L
+   8,L,J
+  15,U,X
+   4,J,G
+   2,L,J
+   7,L
+   4,X
+   6,L,J
+   4,L
+   3
+  14,L,D,X
+   1,L,J
+  10,L,D,X
+   1,L,J
    5,L
-   8,R
-   4,R,J
-  15,R,U,X
-  10,R
-   7,R,Z
-   1,R,J
-   7,R
-   1,R,J
+  14,R,Z
+   3,R,J
+   2,J
+   4,R,K,G
+   1,R
+   5,R,J,G
+   1,R
   15,R,D,X
-   2,R,D
-  18,R,J
-  10,R
-  15,R,U,X
-  23,R,D
-   8,R,J
-   5,J
-  15,R,U,X
-  25,L
+   3,R,J
+  15,R,D,X
+   2,R,J
+  18,R,D,X
+  12,R,J
+   8,R
+  11,R,X
+   1,R,J,G
+   7,R
+  11,R,J
+   3,R
+  16,R,U,X
+  23,L
   15,L,X
    3,L
   15,L,X
@@ -4115,7 +4138,7 @@ EndStunPause
   11,L,J,G
   24,L
 #memory-14 Spinner Cycle
-   0
+   1
 #-----
    4,L,J
   13,K,G
@@ -5359,4 +5382,4 @@ EndStunPause
   15,R,U,X
  135,D
 
-ChapterTime: 12:26.691(43923)
+ChapterTime: 12:25.569(43857)
