@@ -376,7 +376,7 @@ Read,Glyph-FC,lvl_peace-18,lvl_cold-00 (0)
    1,D,J
   69,O
 #Spinner Cycle [heat-10]
-   0
+   8
 #-----
    2,R,J
   15,U,X
@@ -400,50 +400,83 @@ StunPause
 EndStunPause
    1,L,D
 StunPause
-   2,L
+   1,L,D
 EndStunPause
-  13,L
+  19,L
+  14,L,X
+   4,L,J
+   3,R,K
+  15,U,X
+  18,J
+   5,L,K,G
+   8,R,J
+   4,R
+   3
+   1,R,J
+   1,J
+  16,U,X
+   1,J
+   3,L,J
+  12,L,K,G
+   6,L
+   1,L,N
+   6,J
+   6,L,J
+   6,K,G
+   3,R,K
   14,L,Z
-   7,L,J
-  26
-   1,S
-   1,D,J
-  69,O
-   8,R,Z
    1,L,J
-   7,L
+   5,L,D,X
   40
 
-
-#lvl_heat-09 (1)
-Read,Glyph-FC,lvl_heat-09 (0),lvl_ch3-heat-08 (1)
+#lvl_heat-09 (0)
+Read,Glyph-FC,lvl_heat-09 (1),lvl_ch3-heat-08 (1)
 
 #lvl_ch3-heat-08
-  11,D
-   5,R,D
-   1,D
+#not sure if this route is actually faster, but it feels like it is, so meh
+  15,L,D
+   2,R,D
   14,R,D,X
    1,R,J
-  31,R,D,X
-   2,R,J
+  32,R,D,X
 
 #lvl_heat-11
    1,S
    1,D,J
   69,O
-   4,Z
+   4,L,Z
    1,L,J
    3,L
   40
 
-#lvl_heat-09 (2)
-Read,Glyph-FC,lvl_heat-09 (2),lvl_cold-06 (0)
+#lvl_heat-09 (1)
+Read,Glyph-FC,lvl_heat-09 (2),lvl_cold-05
+
+#lvl_cold-05
+   5,L,D
+  25,L,D,X
+  27,L
+   2,L,D
+  11,D
+   3,L,D
+   6,L
+  15,L,Z
+   2,L
+  14,U,Z
+  33,L,J
+   2,K,G
+   7,L
+#frametimes, collects berry
+   3,L,J
+  13,L,Z
+   1,L,J
+   1,L
+  40
 
 #lvl_cold-06
-   4,L
-   1
+   6,L
    1,L,J
-  13,L,D,X
+  12,L,D,X
    1,L,J
    1
   14,L
@@ -453,6 +486,7 @@ Read,Glyph-FC,lvl_heat-09 (2),lvl_cold-06 (0)
    1,L
    2,J,G
   14,L,J
+#-----
    8,U,X
   40,L,J
    1,G
@@ -544,13 +578,100 @@ Read,Glyph-FC,lvl_heat-09 (2),lvl_cold-06 (0)
   40
 
 #lvl_cold-07
-Read,Glyph-FC,lvl_cold-07,lvl_fall-0000 (1)
+Read,Glyph-FC,lvl_cold-07,lvl_fall-0000 (0)
 
-#lvl_fall-0000
-#cut in the read line in case a deathwarp is better somehow, but the SNQ probably still works fine
+#lvl_fall-0000 (0)
+#+4f collect berry
+   2
+   1,R,J
+   7,R,K
+   1,R
+  14,R,Z
+   1,R,J
+  15,R,D,X
+   4,R,Z
+   3,R,J
+  14,R,K,G
+   5,R,J,G
+   7,R
+  11,R,J
+  15,U,X
+   1,R,J,G
+   2,L,J
+   7,R
+   7,R,J
+  12,R,Z
+   2,R,J
+   1,J
+  15,R,D,X
+  12,R,D
+   6,R,J
+   1,J
+  40
+
+#lvl_fall-00000
+# Do you think I could have another 0 on the side?  I don't think I have enough
+  15,R,D,X
+   1,R
+   7,R,J
+   4,R
+  15,R,X
+   5,R,D
+  12,D
+   5,L,D
+   1,L
+  14,L,Z
+   4,L,J
+  10,L
+   4,L,J
+   8,L,K,G
+  18,L,X
+   5,L,Z
+   1,L,J
+  40
+
+#  11,R
+#  10,R,Z
+#   5,R,J
+#  14,R,D,X
+#   5,R,J
+#   1,R,K,G
+#  12,R,J,G
+#   6,R,K,G
+#   1,R
+#  14,R,J,G
+#  15,U,X
+#  10,R
+#   7,R,J
+#  11,R,Z
+#   3,R,J
+#   1
+#  15,R,D,X
+#  12,R,D
+#   7,R,J
+#  40
+#  15,R,D,X
+#   8,R,J
+#   3,R
+#  15,R,X
+#   6,R,D
+#  11,D
+#   5,L,D
+#   1
+#  14,L,Z
+#   4,L,J
+#  10,L
+#   4,L,J
+#   8,L,K,G
+#  18,L,X
+#   5,L,Z
+#   1,L,J
+#  40
+#-----
+
+#lvl_fall-0000 (1)
 Read,Glyph-FC,lvl_fall-0000 (1),lvl_fall-15
 
-#the only difference is the tail end, but i feel like the 6f subpx can be better for fall iunno lol
 #lvl_fall-15
    3,L
    1,L,J
@@ -561,7 +682,7 @@ Read,Glyph-FC,lvl_fall-0000 (1),lvl_fall-15
    1,X
   34
 #Spinner Cycle [fall-15]
-   0
+   1
 #-----
   71,U
    1,X
@@ -624,7 +745,7 @@ Read,Glyph-FC,lvl_fall-10a,lvl_memory-04
   11,L,J,G
   24,L
 #Spinner Cycle [memory-14]
-   0
+   2
 #-----
    4,L,J
   13,K,G
@@ -634,11 +755,48 @@ Read,Glyph-FC,lvl_fall-10a,lvl_memory-04
   40
 
 #lvl_memory-05a
-Read,Glyph-FC,lvl_memory-05a,lvl_memory-16a
+Read,Glyph-FC,lvl_memory-05a,lvl_memory-14 (0)
+
+#lvl_memory-14 (0)
+# usually read through, but drift lol
+  11,R
+   7,R,J,G
+   4,D,X
+   1,R,X
+   1,R,J
+  15,R
+  18,R,J
+  16,U,X
+   2,R,J
+   8,L,J
+   1,J
+   1,R
+   5,J
+   1,L,J
+   1,K,G
+   7
+   1,G
+   5
+   1,L,J,G
+   1,L,K,G
+   1,R,K
+StunPause
+   9,R,K
+   2,R
+EndStunPause
+   2,R
+StunPause
+   4,R
+   2,R,K
+SkipAutoInput,3,1
+   8,R,U,Z
+EndStunPause
+   1,R,U,Z
+  40
 
 #lvl_memory-16a
 Read,Glyph,lvl_memory-16a,Time
 
-ChapterTime: 10:25.226(36778)
+ChapterTime: 10:17.134(36302)
 
   32,L
