@@ -1,22 +1,6 @@
 #Mainly by TheRoboMan and Dahlukeh
 #Resynced by IsaGoodFriend
 
-#console load BeefyUncleTorre/map/1 2564 -232
-#play,Autumn, 37
-
-#console load BeefyUncleTorre/map/1 heat-09
-#play,Winter, 37
-
-#console load BeefyUncleTorre/map/1 -2908 -592.750189781189 0 -114.9999
-#play,Summer, 37
-
-#console load BeefyUncleTorre/map/1 -8174.69445472956 -1693.61783146858 -43.33342 -105
-#play,Memories, 37
-
-#console load BeefyUncleTorre/map/1 -19135 -904
-#play, Memories2, 37
-
-
 console load BeefyUncleTorre/map/1
    1
 
@@ -594,7 +578,6 @@ console load BeefyUncleTorre/map/1
   40
 
 #lvl_ch2-peace-12
-#Autumn
   11,R,Z
    4,R,J
   15,R,D,X
@@ -1814,7 +1797,6 @@ EndStunpause
    4,L,J
   15,U,X
   18,L,J
-#Summer
    2,L,K,G
   43
 
@@ -2322,7 +2304,6 @@ EndStunPause
    7,L
    4,J
    4,L,J
-#Memories
   18,L,U,X
    2,L
   15,U,C
@@ -3043,7 +3024,6 @@ EndStunPause
    1,D,J
   69,O
 
-#Memories2
 #lvl_memory-10a
    4,D,X
    9,R,J
