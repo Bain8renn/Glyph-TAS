@@ -1765,15 +1765,9 @@ EndStunPause
    1,S
    1,D,J
   69,O
-
 # spinner cycle
    0
 #
-
-#console load BeefyUncleTorre/map/1 heat-09
-#   1
-#  36
-
    2,R,J
   15,U,X
   11,R,J,G
@@ -2469,17 +2463,17 @@ EndStunPause
    1,R,K
    1,K
    1,R,J
-  16,R,K
+  17,R,K
   15,R,U,X
-  11,R,G
+  10,R,G
    9,L,J
   29,R,J
    1,J
    1,R,K,G
-   4,R,J,G
+   3,R,J,G
   43,R,D
    3,J
-   4,D
+   3,D
   13,R,D
   15,R
    1,R,J
@@ -2488,7 +2482,10 @@ EndStunPause
  109,R,U,G
    2,K,G
    1,R,K
-  38,R,J
+  28,R,J
+   1,R
+
+   9,R
   16,R,Z
   15,R,U,C
   39,R,D
@@ -2510,21 +2507,23 @@ EndStunPause
   16,L,U,C
   26,L,X
   13,U,C
-  17,R,J
-  20,R
-  20,R,X
+  13,R,J
+   5,R
+  10,R,J
+  15,R,X
+  12,R
   15,R,Z
   47,U,X
   15,L,C
    7,L
   23,D
   35,R,X
-  38,U,C
-  14,L,X
+  33,U,C
+  19,L,U,Z
   52,L,C
   12,U,X
-  22,R,J
-  17,R,U,X
+  21,R,J
+  18,R,U,X
   17,R,U,C
   35,R,X
   16,U,C
@@ -2537,26 +2536,26 @@ EndStunPause
   22,L,J
   17,U,X
   18,U,C
-  42,R,U,X
-  12,R,D,C
-  27,D,X
-  14,R,Z
-   2,R,J
-   6,R
+  36,R,U,X
+  16,R,C
+  15,D,X
+  15,R,D,C
+   5,R,D
+   5,R,Z
    1,R,J
-   4,R
+   9,R
    1,R,J
    5,R,U,Z
   40
 
 #lvl_crane-04 (1)
-   9,R,U,Z
-   1,R,J,G
+   9,R
+   1,J,G
   15,U,X
-  18,L,J
-  12,R,K
+  18,J
+  12,L,K
   12,R,J,G
-   7,R,K,G
+   6,R,K,G
   40
 
 #lvl_crane-02 (2)
@@ -2635,26 +2634,18 @@ EndStunPause
   16,L,D,X
    5,D
    1,L,D
-   3,L,J
-   4,L,K,G
-   1,L,J,G
-  12,L,K,G
-   5,L
-   2,L,J
+   1,L,J
    2,L
-   1,L,J
-   1,L
-   1,L,J
-   7,L
-  14,L,U,X
-   7,L,J,G
-   7,L
-   4,L,Z
-   1,L,J
-   8,L
-   7,L,D
-   3,D
-   1
+   1,L,K,G
+   3,L
+   1,L,J,G
+   3
+   6,L
+  18,L,J
+   5,L
+  13,L,U,X
+   1,L,K,G
+  22,L,D
    3,D
    9,U,X
 
@@ -2662,17 +2653,11 @@ EndStunPause
    5,U,X
   11,R,J
    7,J
-   1,R,K,G
-   3,L,K
-   6,R,K
-   5,R,J,G
-   8,K,G
-   1,R,K
-   1,K
-   1,R,K
-   1,L
-   6
-   4,L,Z
+   8,R,K,G
+   7,R
+   7,R,J
+   9,L,K
+   5,L,Z
    7,L,J
   40
 
@@ -2680,10 +2665,10 @@ EndStunPause
    1,J
    4,L,J
    2,L,K,G
-   1,K
-  11,L,K
+   1,J,G
+  11,L,J
   18,L,U,X
-   2,K,G
+   3,K,G
    1,R,K
    1,L,J,G
    7,L,J
@@ -2692,33 +2677,31 @@ EndStunPause
   15,U,Z
    3,L
    1
-  15,R,J
+   3,R,J
+  12,J
   15,R,U,X
-  18,R,U,C
+  18,R,U,Z
   15,L,U,X
    2,L
   15,L,Z
-   9,L
+   7,L
   15,U,X
-   5,L
-  11,L,J
+  21,L,J
   15,U,X
-   4,L
-   1
-   6,L,U,X
+   2,L
   17,R
   18,U,X
    1,R
   15,U,X
-   1,R
-  15,U,C
-   9,L,J
-   7,L
    1
-  18,L
-   7,L,D
-   1,L
-   3
+  14,U,C
+   9,L,J
+   8,L
+
+  17,L
+   9,L,D
+   2,L
+   1
    4,R,J
   15,R,Z
   12,R
@@ -2737,7 +2720,8 @@ EndStunPause
    1,L,D
   15,L,Z
    3,L
-   3,R
+   2,R
+   1,L
    1,R,J,G
   16,L,J
   15,L,Z
@@ -2834,7 +2818,8 @@ EndStunPause
   13,L,J
   14,J
   11
-  14,L,Z
+   1,D,X
+  13,L,X
    1,L,J
    4,L
    5,L,J
@@ -2979,6 +2964,7 @@ EndStunPause
    4,L,J
   15,U,X
   18,L,J
+#Summer
    2,L,K,G
   43
 
@@ -3008,6 +2994,10 @@ EndStunPause
 # Do you think I could have another 0 on the side?  I don't think I have enough
   15,R,D,X
    8,R,J
+
+
+
+
    3,R
   15,R,X
    6,R,D
@@ -3383,7 +3373,7 @@ EndStunPause
    5,D
    1,X
   34
-#Spinner Cycle [fall-15]
+#spinner cycle
    0
 #-----
   71,U
@@ -3915,6 +3905,7 @@ EndStunPause
    7,L
    4,J
    4,L,J
+#Memories
   18,L,U,X
    2,L
   15,U,C
@@ -4768,7 +4759,7 @@ EndStunPause
    1,S
    1,D,J
   69,O
-
+#Memories2
 #lvl_memory-10a
    4,D,X
    9,R,J
@@ -5386,4 +5377,4 @@ EndStunPause
   15,R,U,X
  135,D
 
-ChapterTime: 12:25.467(43851)
+ChapterTime: 12:24.957(43821)
