@@ -2847,13 +2847,6 @@ EndStunPause
    5,L
    1,L,D
    6,L,J
-
-
-
-
-
-
-
   12,L,D,X
    1,L,J,G
    1
@@ -2986,7 +2979,6 @@ EndStunPause
    4,L,J
   15,U,X
   18,L,J
-#Summer
    2,L,K,G
   43
 
@@ -3923,7 +3915,6 @@ EndStunPause
    7,L
    4,J
    4,L,J
-#Memories
   18,L,U,X
    2,L
   15,U,C
@@ -4777,7 +4768,7 @@ EndStunPause
    1,S
    1,D,J
   69,O
-#Memories2
+
 #lvl_memory-10a
    4,D,X
    9,R,J
