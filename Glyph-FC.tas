@@ -3147,30 +3147,27 @@ EndStunPause
    3,L,J
    1,J
    2,R,J
-  11,L,Z
-   5,L,J
+  10,L,Z
+   6,L,J
    1,L,K,G
-   1,L
-   1
-   1,J,G
-  10,L,J
+  12,L,J,G
   40
 
 #lvl_fall-05a
-   4,L
-   4,L,J
-   1,L
-   8,L,K
+   3,L,J
+   1,R,J
+   2,K,G
+  11,L,K
   10,R,X
-  18,L,J
+   9,L,J
+   1,J
+   7,L,J
+  18,U,X
+   5,L
   15,U,X
-   7,L
-  15,U,C
-   7,L
+   6,L
   15,L,U,X
-   2,L
-   1
-   2,L
+   5,L
   52,R,D
   15,R,X
   13,R,D,C
@@ -3370,7 +3367,7 @@ EndStunPause
    1,X
   34
 #spinner cycle
-   1
+   0
 #-----
   71,U
    1,X
@@ -5373,4 +5370,4 @@ EndStunPause
   15,R,U,X
  135,D
 
-ChapterTime: 12:22.305(43665)
+ChapterTime: 12:22.254(43662)
