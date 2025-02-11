@@ -2410,17 +2410,17 @@ EndStunPause
   33,L,J
    2,K,G
    7,L
-   3,J
-  12,L,Z
+   4,Z
    1,L,J
-   2,L
+   3,L,K,G
+   9,L
   40
 
 #lvl_cold-06 (0)
-   4,L
    1
+   2,L
    1,L,J
-  13,L,D,X
+  14,L,D,X
    1,L,J
    1
   14,L
@@ -3370,7 +3370,7 @@ EndStunPause
    1,X
   34
 #spinner cycle
-   0
+   2
 #-----
   71,U
    1,X
