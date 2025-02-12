@@ -2273,14 +2273,14 @@ EndStunPause
 #lvl_cold-04
    8,L,U,C
    1,R
-  11,L,J
+  10,L,J
   15,L,Z
   12,L,D
-  19,D
+  18,D
   18,U,X
   18,U,C
   21,L,D
-   4,D
+   3,D
   15,L,U,X
   15,L,Z
   18,D
@@ -2700,7 +2700,6 @@ EndStunPause
   14,U,C
    9,L,J
    8,L
-
   17,L
    9,L,D
    2,L
@@ -5373,4 +5372,4 @@ EndStunPause
   15,R,U,X
  135,D
 
-ChapterTime: 12:22.254(43662)
+ChapterTime: 12:22.203(43659)
