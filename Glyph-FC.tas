@@ -3535,85 +3535,50 @@ EndStunPause
    1,L
   15,D,C
    8,L,D
-  34,R,D,X
-  15,R,U,C
-  15,L,D,X
-   1,L,D
-  10,D
-  11,L,Z
-   1,L,J
-   8,L
-  15,L,U,Z
-   9,L
-  18,D
-  14,R,D
-   1,D
-   1,R,D
-   1,D
-   4,R,D
-  19,R,X
-  19,R,C
-  58,L,D,X
-  15,L,U,C
-   3,L
-  15,R,D,X
-   8,D
-   1,R,D
-   2,D
-  10,R,D,X
-   9,R,J
-   2,R
-   2,R,J
-   9,R,D
-  21,D
-  14,L,X
-  40,L,C
-  15,L,U,Z
-  25,R,D
-   7,D
-   1,R
-   2
-   1,R
-   3
-  15,R,X
-  20,R,D,C
-  14,R,Z
-   7,R,J
-  13,R,D
-  11,D
-   2,R,D
-   2,D
-   1,R,D
-  20,L,D,X
-  37,L,D,C
-  35,L,D,X
-   4,D
-  10,R,D,C
-  29,R,J
-  14,R,C
-  46,D,X
-  15,L,U,C
-   9,L,D
-  25,D
-  15,U,X
+  27,D,X
   15,L,C
-   2,L,D
-  23,D
-  15,U,X
-  16,L
-  15,L,X
-  19,L
-   6,L,Z
-   1,L,J
    7,L
-   1,L,J
-   6,L,D,X
+  15,D,X
+  12,D
+   5,L,D
+  15,R,X
+   8,R
+  16,L,D
+  15,L,D,X
+  32,L,D
+   1
+  10,R,D,X
+  10,R,J
+  14,R,D
+  19,D
+  16,L,X
+  17,L,C
+  15,D,X
+   7,L,D
+   1,L
+   1,L,D
+   9,R,Z
+  10,R,J
+  30,L,D
+  17,L
+# spinner cycle #
+   1
+#################
+  33,L,D,X
+StunPause
+   9,L,D
+SkipInput 3 1
+  15,L,D,X
+  44,L,D
+EndStunPause
+  10,L,D
+   9,L,D,X
   40
 
 #lvl_crane-03 (1)
-   8,L,D,X
+   5,L,D,X
    1,L,J
-   5,L,D
+  15,L,D,C
   15,D,X
   10,D
   40
@@ -4133,7 +4098,7 @@ EndStunPause
   11,L,J,G
   24,L
 #memory-14 Spinner Cycle
-   1
+   2
 #-----
    4,L,J
   13,K,G
@@ -5377,4 +5342,4 @@ EndStunPause
   15,R,U,X
  135,D
 
-ChapterTime: 12:20.571(43563)
+ChapterTime: 12:19.959(43527)
