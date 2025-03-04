@@ -3653,11 +3653,13 @@ EndStunPause
    1,L
    1,L,D
    9,R,Z
-  10,R,J
-  30,L,D
+   9,R,J
+  11,D
+   1,R,D
+  18,L,D
   17,L
 # spinner cycle #
-   1
+   2
 #################
   33,L,D,X
 StunPause
