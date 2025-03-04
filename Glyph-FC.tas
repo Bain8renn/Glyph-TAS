@@ -3645,8 +3645,8 @@ EndStunPause
   10,R,D,X
   10,R,J
   14,R,D
-  19,D
-  16,L,X
+  14,D
+  18,L,D,X
   17,L,C
   15,D,X
    7,L,D
@@ -5448,4 +5448,4 @@ EndStunPause
   15,R,U,X
  135,D
 
-ChapterTime: 12:18.582(43446)
+ChapterTime: 12:18.531(43443)
