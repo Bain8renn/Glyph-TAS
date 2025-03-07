@@ -3544,17 +3544,18 @@ EndStunPause
 #  15,L,D,X
 #   1,L,D
 #  10,D
-#  11,L,Z
+#  10,L,Z
 #   1,L,J
-#   8,L
-#  15,L,U,Z
-#   9,L
+#   2,L
+#   1,L,J
+#   6,L
+#  24,L,U,Z
 #  18,D
-#  14,R,D
+#  15,R,D
 #   1,D
 #   1,R,D
 #   1,D
-#   4,R,D
+#   3
 #  19,R,X
 #  19,R,C
 #  58,L,D,X
@@ -4130,18 +4131,25 @@ EndStunPause
   11,L,J,G
   46,L,G
    1,R,J,G
-  33,R,J
-  15,R,U,X
-  22,R
-  14,R,X
-   1,R,J,G
-  20,R
-  11,L,J
-  14,L
-   8,R,D,X
+  15,R,J
+  18,R,D,X
+   9,R
+   7,L,Z
+   1,R,J
+   7,R
+  26,R,J
+  10,U,X
+   7,L,J
+   5,L
+   3
+   1,L
+   6,R
+   1,R,J
+   7,R,Z
    1,L,J
    7,L
-  36,L,J
+  11,L,J
+  19,L
   14,L,Z
    1,L,J
    9,L,D,X
@@ -5450,4 +5458,4 @@ EndStunPause
   15,R,U,X
  135,D
 
-ChapterTime: 12:18.531(43443)
+ChapterTime: 12:18.072(43416)
