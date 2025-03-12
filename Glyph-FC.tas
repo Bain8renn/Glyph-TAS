@@ -4008,13 +4008,17 @@ EndStunPause
   15,L,J
    8,L
    8
-  44,G
+  34,G
+   4
+   3,K,G
    1,R,J
   28,R,K
-  42,G
-  26,L,J
-   8,R,K
-   2,R
+  33,G
+   4
+   3,J,G
+   1,L,K
+  25,L,J
+  10,R,K
   10,L,X
   12,R,J
    3,R
@@ -4023,29 +4027,42 @@ EndStunPause
   15,U,X
    1,R
    4,R,J
-   9,L,J
-   7,L
+  11,L,J
+   5,L
+   6
+  50,G
    4
-  73,G
-   2,R,J
-  13
-  32,G
-   1,L,J
-  18,L,K
-  15,L,U,X
+   3,K,G
+   1
+   1,R,J
+  11,J
+  10,L
+   2,R
+   1
+  22,G
+   1
    1,L
+   1,L
+   1,R
+   1,K,G
+   1,R,K
+   1,K
+   1,L,J
+  20,L,K
+  14,L,U,X
    1
    6,L,U,X
   16,R
   14,U,X
-   4,R,J
-  11,R
-  58,G
-   8,J,G
-  11,K,G
+  15,R,J
+   1,K,G
+  53,G
+   4
+   4,J,G
+  13,K,G
   36
   14,D
-   3,L,D
+   3,L
   18,L,X
    2,L
   15,L,U,Z
@@ -4239,7 +4256,7 @@ EndStunPause
   11,L,J,G
   24,L
 #memory-14 Spinner Cycle
-   1
+   2
 #-----
    4,L,J
   13,K,G
@@ -5483,4 +5500,4 @@ EndStunPause
   15,R,U,X
  135,D
 
-ChapterTime: 12:15.981(43293)
+ChapterTime: 12:15.777(43281)
