@@ -4147,35 +4147,47 @@ EndStunPause
 
 #lvl_memory-03 (0)
   32,R,D
-   6,R
-  15,R,U,X
-   9,R
-# +6f berry collect
-   6
-   5,L,Z
-   2,R,J
+   1,D
+   2,R,D
+   7,R,U,Z
+   1,L
+   5,J,G
+   2
    3,R
+   1,R
+   5,R,J
+# berry collect
+   2,R
+   9,R,Z
+   1,R,J
   40
 
 #lvl_memory-18
-   4,R
-   8,R,J
+   6,R
+   7,R,J
   15,R,D,X
-  26,R,J
-  28,R,G
+  21,R,J
+   1,R
+  28,G
   11,U,X
-   7,L,K
-  23,L
-  14,L,D,X
-  23,L,J
-   3,J
-  10,L,K,G
+  11,L,K
    1
-  11,L,J,G
+   6,L
+  15,L,D,X
+   6,R,D,C
+   1,L,J
+   6,L
+  22,L,D,J
+   8,K,G
+   1
+   1,J,G
+   1
+   1,K,G
   20,G
   11,U,X
   22,R,J
-  18,R,D,X
+  15,R,D,X
+   3,R,D
    1
    6,L,Z
    1,R,J
@@ -4256,7 +4268,7 @@ EndStunPause
   11,L,J,G
   24,L
 #memory-14 Spinner Cycle
-   2
+   0
 #-----
    4,L,J
   13,K,G
@@ -5500,4 +5512,4 @@ EndStunPause
   15,R,U,X
  135,D
 
-ChapterTime: 12:15.777(43281)
+ChapterTime: 12:15.318(43254)
