@@ -5,24 +5,21 @@ console load BeefyUncleTorre/map/1
  190
 
 #peace-26 spinner cycle
-   2
+   1
 #-----
 
 #lvl_crane-01
-   8,R,J
-  14,U,X
-   9,R
-   1
-   1,R
-   1
-   2,R,J
-   1,R,K,G
-   1,R,J,G
+  10,R,J
    3,R
+  15,U,X
+   2,R,J,G
+   7,R
+   2,R,J
   15,R,D,X
-  31,D
-  13,L,D
-   7,L,D,X
+  13,R,D
+   9,D
+  23,L,D
+   6,L,D,X
    1,L,J
    7,L
    1,L,J
@@ -310,31 +307,30 @@ console load BeefyUncleTorre/map/1
    1
    1,R
   15,L,Z
-   9
-   3
+  12
    3,K
    5,R,X
-   7,L,J
-  15,L
+   4,L,J
+   6,L
+   1,L,J
+   6,L
+   8
   15,L,Z
-  18,D,C
-   6,R,D
-  15,R,X
-  15,R,D,C
-  27,R,D
-   7,R,J
-  12,R,D,X
+  18,D,X
+  15,R,C
+   1,R
+  42,R,D,X
+   8,R,J
+  13,R,D,X
   40
 
 #lvl_peace-01 (1)
-   3,R,D
-   5,L,D
-  25,R,D
+   7,L,D
+  26,R,D
   40
 
 #lvl_peace-02 (1)
-   4,D
-   2,R,D
+   6,R,D
    4,Z
    1,R,J
    3,R
@@ -951,11 +947,11 @@ EndStunPause
    3,R
    1,R,J
   14,R,D,X
-  25,R,D,J
+  25,R,J
   28,R,D
   14,R,Z
    1,R,J
-   3,R,D
+   3,R
   15,D,X
    6,R,D
    1,D
@@ -1404,7 +1400,7 @@ EndStunPause
   15,L,D
    1
    1
-   5,L,D,Z
+   5,L,D,X
    4,R,J
    1,R
   10,R,J
@@ -2203,11 +2199,11 @@ EndStunPause
   18,L,J
    4,L
   17,U,Z
-   6,R,J
-  11,J
-   1,R,J
-  15,U,X
-  23,L
+  14,R,J
+   1,R
+  11,R,J
+  15,L,U,X
+  12,L
    6,L,Z
    1,L,J
    7,L
@@ -2314,12 +2310,15 @@ EndStunPause
   15,U,X
    8,L
   10,L,J
-  15,L,U,X
+  11,L,U,X
+   1,J
+   3
   15,L,C
   15,U,X
   10,L
   28,R
-   2,R,G
+   1,R
+   1,G
    1,L,J
    9,U,X
   31,L,J
@@ -2329,26 +2328,25 @@ EndStunPause
    6,L,U,X
   21
   15,U,X
-   9,L
-  32,L,U,X
-  15,U,C
   16,L
-   5,L,K,G
+  15,U,X
+  14,L
+  25,L,U,X
    2,R
-   8,L,U,X
-  20,R
+   7,L,U,X
+  21,R
    3
   15,U,X
-   3,L
-  20,L,U,X
-  27,L,U,C
+   4,L
+  18,L,U,X
+  28,L,U,C
    1,L,K,G
    7,L
-   6,R,Z
+   6,R,D,X
    1,L,J
    7,L
    1,L,J
-  11,L,D,J,X
+  11,L,D,X
   40
 
 #lvl_cold-11
@@ -2505,8 +2503,8 @@ EndStunPause
   40,R,X
   15,U,C
    6
-  21,L,J
-  15,L,U,X
+  20,L,J
+  16,L,U,X
   16,L,U,C
   26,L,X
   13,U,C
@@ -3364,7 +3362,7 @@ EndStunPause
    1,X
   34
 #spinner cycle
-   2
+   0
 #-----
   71,U
    1,X
@@ -4270,7 +4268,7 @@ EndStunPause
   11,L,J,G
   24,L
 #memory-14 Spinner Cycle
-   0
+   2
 #-----
    4,L,J
   13,K,G
@@ -4386,28 +4384,27 @@ EndStunPause
   15,L,Z
    1,R
    3,L,J
+   1,L,K
   15,U,X
-   1,L
   40
 
 #lvl_memory-07a
-  16,L,J
+  14,L,J
+   1,L
   15,U,X
-   1,L,J,G
-
-#+1f collect berry
-#for deathwarp in 14~16
-   3,L
-   5
-#   3
-#   4,L
-#---
-
-  14,L,D,X
-  37,L,J
-  11,U,X
-  29,L,J
-   3,L
+   2,L,J,G
+   1,L
+   4
+   2,L
+# +7f berry collect
+   7
+   8,R,D,X
+   1,L,J
+   6,L
+  26,L,J
+   7,L
+  15,U,X
+  14,L
    1,G
   11,J
    1,R,J
@@ -4459,7 +4456,7 @@ StunPause
    9,R,K
    8,R
    2,R,K
-SkipAutoInput,3,1
+SkipInput 3 1
    7,R,U,Z
 EndStunPause
    2,R,U,Z
@@ -4501,8 +4498,7 @@ EndStunPause
   15,L
   15,L,X
   28,L,D
-   4,D,X
-   2,L,X
+   6,L,Z
    1,L,J
    7,L
    1,L,J
@@ -4560,6 +4556,31 @@ EndStunPause
    5,L
    4,L,J
   15,L,D,X
+
+# This simulates reaching here 4f sooner, which could save a cycle
+
+#   5,L,D
+
+# Set Player.Position -17270.36 -544
+# Set Player.Speed.X -288.334686
+
+#   1,L,J
+#  14,L,D,X
+#   1,L,J
+# Invoke Player.MoveH 3
+#   5,L,D,X
+#   1,L,J,G
+#   1
+#  13,L
+#   1,L,J
+#   6,L,D,X
+#   1,L,J,G
+#  12,L
+#   1,L,J
+#  14,L,D,X
+#   1,L,J
+#   7,L
+
    9,L,D
    1,L,J
   12,L,D,X
@@ -5292,11 +5313,16 @@ EndStunPause
    9,R,D,X
    2,R,J
   14,R,D,X
-   5,R,J
-  16,R
-  14,R,Z
-  20,R,J
-  12,U,X
+  15,R,J
+  15,R,D,X
+  11,R,J
+   5,R
+   2,R,J
+   1,J
+   1,R
+   1
+   1,J
+   9,U,X
   28,R,J
   15,R,D,X
    4,R,D
@@ -5443,26 +5469,34 @@ EndStunPause
    4
   15,R,U,X
   48,R
-   3
-   1,J,G
-   1,L
-  20,R,J
-   1,J
-   6,L,Z
-   2,R,J
-  47,R,K,G
-  10,R,D
+   2,R,D
+   1,R,J,G
+   7,R
    1,R,J
-   5,R
+   1,R
+   2,R,J
+   7,R
+   1,L,J
+   5
+   3,L,J
+   4,L
+   2
+  13,L,Z
+   1,R,J
+   1,R,K,G
+   6,R,D,X
+   1,L,J,G
+   9,R,J
+  21,R
+   4
   40
 
 #lvl_solace-06
-   9
-   7,R,J
-  15,R,U,X
-   5,R
-  16
-  14,R,Z
+   3
+  14,R,X
+   6,J
+   2,R,J
+  14,R,D,X
    1,R,J
   15,R,D,X
    1,R
@@ -5529,4 +5563,4 @@ EndStunPause
   15,R,U,X
  135,D
 
-ChapterTime: 12:13.533(43149)
+ChapterTime: 12:12.428(43084)
