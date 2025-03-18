@@ -34,7 +34,7 @@ Read,Glyph,lvl_peace-000,lvl_peace-06 (1)
   19,L,D
   12,L,Z
 #Spinner Cycle [peace-11]
-   2
+   0
 #-----
    3,R,J
   17,R,D,X
@@ -97,7 +97,7 @@ Read,Glyph-FC,lvl_peace-11,lvl_crane-pink-01
    1,R,J
   40
 
-#lvl_crane-02 (0)
+#lvl_crane-02
    7,R
   11,R,D,J
    1,L,K,G
@@ -107,7 +107,7 @@ Read,Glyph-FC,lvl_peace-11,lvl_crane-pink-01
   11,K,G
   40
 
-#lvl_crane-03 (0)
+#lvl_crane-03
 Read,Glyph-FC,lvl_crane-03 (0),lvl_ch2-peace-12 (1)
 
 #lvl_ch2-peace-12
@@ -477,16 +477,16 @@ Read,Glyph-FC,lvl_crane-blue-02,lvl_cold-06 (1)
   11,K,G
    7,L
    5,L,X
-   7,L,J
-  40
+   6,L,J
+  40,J
 
 #lvl_cold-07
-   3,L
+   4,L,J
   11,L,Z
    1,L,J
    1
    1,L
-   1
+   1,L
   15,D,X
   12,R,D
    2,R
@@ -618,10 +618,10 @@ Read,Glyph-FC,lvl_fall-09a,lvl_fall-10a
 #lvl_fall-10a
 Read,Glyph,lvl_fall-10a,lvl_memory-14 (0)
 
-#lvl_memory-14 (0)
+#lvl_memory-14
   11,R
 #Lightning Cycle [memory-14]
-   2
+   1
 #-----
    7,R,J,G
    5,R,Z
@@ -653,43 +653,78 @@ EndStunPause
   40
 
 #lvl_memory-16a
-Read,Glyph-FC,lvl_memory-16a,lvl_solace-06
+Read,Glyph-FC,lvl_memory-16a,lvl_solace-05
+
+#lvl_solace-05
+   2,R,J
+   7,R
+  12,R,J
+  12,K,G
+  12,J,G
+  12,K,G
+   1,J,G
+   7,L,K
+  10,L,Z
+  10,R,J
+  28,R,D
+  15,R,X
+  17,D
+  11,R,D
+  15,U,X
+   4
+  15,R,U,X
+  48,R
+   2,R,D
+   1,R,J,G
+   7,R
+   1,R,J
+   1,R
+   2,R,J
+   7,R
+   1,L,J
+   5
+   3,L,J
+   4,L
+   2
+  13,L,Z
+   1,R,J
+   1,R,K,G
+   6,R,D,X
+   1,L,J,G
+  34,R,J
+  40
 
 #lvl_solace-06
-   1,J
-   1,R,J
-   9,R
-   1,R,J
-   2,R
-  13,R,U,X
-   1,R,J,G
-  13,R,D
+  13,R
+   6,R,J
   40
 
 #lvl_solace-07
-   9,R,D
+   5,R,J
   15,D,X
-  15,D,C
-   8,R,U,X
+  10,D,C
+   1
+   2,J,G
+   2
+   5,R,U,X
    1,J,G
-   5
-   1,L
-   5,R
-   1,J
-  15,D,C
-   5,U,X
+   1
+   2,R
+   1
+   3,R
+   1
+   1,L,J
+  15,D,X
+   5,U,C
    1,J
    1,R,K,G
   17,R
-   5,L,D,C
+   5,L,D,X
    1,R,J
-   2,R
-   1
+   3,R
+   5
    1,R
-   1
-   1,R
-   3
-   5,U,X
+   5,U,C
    1,J
    1,R,K,G
   17,R
@@ -726,4 +761,4 @@ Read,Glyph-FC,lvl_memory-16a,lvl_solace-06
   15,R,U,X
  135,D
 
-ChapterTime: 9:21.935(33055)
+ChapterTime: 9:18.603(32859)
