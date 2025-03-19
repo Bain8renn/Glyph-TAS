@@ -12,20 +12,18 @@ console load BeefyUncleTorre/map/1
 #-----
 
 #lvl_crane-01
-   8,R,J
-  14,U,X
-   9,R
-   1
-   1,R
-   1
-   2,R,J
-   1,R,K,G
-   1,R,J,G
+  10,R,J
    3,R
+  15,U,X
+   2,R,J,G
+   7,R
+   2,R,J
   15,R,D,X
-  31,D
-  13,L,D
-   7,L,D,X
+  13,R,D
+   9,D
+  23,L,D
+   6,L,D,X
+# -2f
    1,L,J
    7,L
    1,L,J
@@ -537,25 +535,16 @@ console load BeefyUncleTorre/map/1
    5,D
    1,L,D
    1,D
-   7,L,J
+   6,L,J
    3,L
   15,L,X
-  14,L
-   5,L,D
-  11,L
-  16,L,G
-   2,L
-   1,L,G
-   1,L
-   1,L,G
-   1,L
-   2,L,G
-   1,L,J,G
-   5,R,D,J
+  30,L
+   1,J,G
+  34,U,G
    8,R,D
+  11
   20,L,D
-   2,D
-  14,L,D
+# -1f
   40
 
 #lvl_peace-06 (1)
@@ -2128,7 +2117,8 @@ EndStunPause
    1
    1,L
   15,U,X
-  41
+   1
+  40
 
 #lvl_fall-11a
    1,L,J
@@ -2262,42 +2252,58 @@ EndStunPause
   12,L,K,G
    8,L,J,G
    7,L
- 150
-  10,L,D,X
-  20,R,J
-  15,R,D,X
-  33,R,D
-  10,R,D,X
-  12,R,J
-  15,R,X
-   1,R,G
-   6,R,J,G
-   7,R
- 110
-  10,R,D,X
-  18,L,J
-  14,L,U,X
-  35,D
-   4,R
-   1,L,J,G
-   5,J
-   4
-   4,D,X
-   1,L,X
-   1,L,J
-   4,L
-  20,L,J
-  15,U,X
-  11,L
-  13,L,Z
-   1,R,J
+  87
+  14,L
+  10,R,X
+  21,R,J
+  15,R,U,Z
+  45,R,D
+   2,D
+   1,R,D
    6,R
+  11,D
+   5
+   6,R
+  23,R,J
+  25,R,U,X
+   1,G
+  12,J,G
+   3,R,K,G
+   7,R
+  64
+  13,R,Z
+   1,L,J
+   6,L
+  19,L,J
+   4,J
+  12,U,X
+  42,D
+   6
+   1,R,J
+   5,R
+   5
+   1,J
+   8,L,Z
+   1,L,J
+   3,L
+   1,L,J
+  21,L,K
+  15,U,X
+   1,L,J,G
+   5,L
+   1,L,J
+   1,L,J
+   1,L
+  12,L,Z
+   1,R,J
+   6
    7,R,U,G
   12,R,X
   21,R,J
   15,U,X
-   1,R
-  12,R,J,G
+   3,R
+  11,R,J,G
+   1
    1,R,K,G
    1,L,K
    3,L
@@ -2306,23 +2312,28 @@ EndStunPause
    2,L,J
    1,J
   16,U,X
+# -1f
   40
 
 #lvl_ch5-fall-12
-  12,L,K
-   2,L
+
+  13,L,K
+   1,L
   13,L,X
    8,L,J
-   2
+   2,J
    1,R,K
   14,L,U,X
-  10,L,J,G
-   1,L,K,G
+  11,L,J,G
    7,L
-   4,J
-   4,L,J
+   1,J
+   1,L,J
+   1,J
+   1,L,J
+   3,J
+#Memories
   18,L,U,X
-   2,L
+   1,L
   15,U,C
   16,L
   27,G
@@ -2330,44 +2341,62 @@ EndStunPause
   15,L,J
    8,L
    8
-  44,G
+  34,G
+   4
+   3,K,G
    1,R,J
   28,R,K
-  42,G
-  26,L,J
-   8,R,K
-   2,R
+  33,G
+   4
+   3,J,G
+   1,L,K
+  25,L,J
+   9,R,K
+   1,R
   10,L,X
   12,R,J
    3,R
-   1
-   3,J
+   3
+   1,J
   15,U,X
    1,R
    4,R,J
-   9,L,J
-   7,L
+  11,L,J
+   5,L
+   6
+  50,G
    4
-  73,G
-   2,R,J
-  13
-  32,G
-   1,L,J
-  18,L,K
-  15,L,U,X
+   3,K,G
+   1
+   1,R,J
+  11,J
+  10,L
+   2,R
+   1
+  22,G
+   1
    1,L
+   1,L
+   1,R
+   1,K,G
+   1,R,K
+   1,K
+   1,L,J
+  20,L,K
+  14,L,U,X
    1
    6,L,U,X
   16,R
   14,U,X
-   4,R,J
-  11,R
-  58,G
-   8,J,G
-  11,K,G
+  15,R,J
+   1,K,G
+  53,G
+   4
+   4,J,G
+  13,K,G
   36
   14,D
-   3,L,D
+   3,L
   18,L,X
    2,L
   15,L,U,Z
@@ -2379,9 +2408,10 @@ EndStunPause
    6,R,U,X
    9
   14,U,X
-  19,R,J
-  12,R,K,G
-   6,R,J,G
+  18,R,J
+  12,K,G
+   7,J,G
+# -5f
   40
 
 #lvl_memory-02c
@@ -2518,21 +2548,25 @@ EndStunPause
   15,L,Z
    1,R
    3,L,J
+   1,L,K
   15,U,X
-   1,L
   40
 
 #lvl_memory-07a
-  16,L,J
+  14,L,J
+   1,L
   15,U,X
-   1,L,J,G
-   3
-   4,L
-  14,L,D,X
-  37,L,J
-  11,U,X
-  29,L,J
-   3,L
+   2,L,J,G
+   1,L
+   4
+   2,L
+   8,R,D,X
+   1,L,J
+   6,L
+  26,L,J
+   7,L
+  15,U,X
+  14,L
    1,G
   11,J
    1,R,J
@@ -2556,6 +2590,7 @@ EndStunPause
   60,G
    8,L,J
   14,R,K
+# -17f
   40
 
 #lvl_memory-14 (0)
@@ -3464,6 +3499,6 @@ EndStunPause
  163,L
 
 #Time
-ChapterTime: 7:03.453(24909)
+ChapterTime: 7:02.841(24873)
 
   32,L
