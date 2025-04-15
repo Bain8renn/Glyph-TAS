@@ -1412,11 +1412,11 @@ EndStunPause
   18,L,J
    4,L
   17,U,Z
-   6,R,J
-  11,J
-   1,R,J
-  15,U,X
-  23,L
+  14,R,J
+   1,R
+  11,R,J
+  15,L,U,X
+  12,L
    6,L,Z
    1,L,J
    7,L
@@ -3321,6 +3321,7 @@ EndStunPause
    5
    2,J
    8,L,K,G
+# cycle
   58,L,G
    1,R,J
    6,R,K
@@ -3352,31 +3353,63 @@ EndStunPause
   18,U,X
   15,R,C
    1,R,J
-   4,R
-  10
+   3,R
+   2
+   1,R
+   8
    7,R,Z
-   2,R,J
-   6,R
+
+# can get slightly more speed with neutral rcb but then have to slow down too much
+#    1,R,J
+#    1,J
+#    5
+#    1,R,J
+#    3
+#    1,R
+#    1,R,J
+#    1,L,K,G
+#    1,J,G
+#    5,R,D,X
+#    1,L,J,G
+#    5
+#    1,J
+#    2,R,J
+#    7,R
+#    1,R,J
+#    7,R,U,X
+#    3,R,J,G
+#    3,R,K,G
+
    1,R,J
+   1,J
+   5
+   1,R,J
+   1
+   2,D
+   1,R
+   1,R,J
+   1,L,K,G
+   1,L,J,G
    5,R,D,X
-   3,L,J,G
-   4,R,J
-  18,R
+   1,L,J,G
+   5,R
+   3,R,J
+   7,R
    1,R,J
-   8,R,U,X
-   1,R,J,G
+   7,R,U,X
+   3,R,J,G
    3,R,K,G
   40
 
 #lvl_ch6-memory-12
-  33,R,K
+   9,R,K
+  15,R
   40
 
 #lvl_memory-13
-  14,R,J
-  15,R,U,X
-  12,R,J,G
-   5,R,K,G
+   8,R
+  14,R,U,X
+   1,J,G
    7,R
   12,R,J
    5,K,G
@@ -3454,6 +3487,6 @@ EndStunPause
  163,L
 
 #Time
-ChapterTime: 7:01.651(24803)
+ChapterTime: 7:01.022(24766)
 
   32,L
