@@ -3370,17 +3370,13 @@ EndStunPause
   18,U,X
   15,R,C
    1,R,J
-   2
-   1,R
-   3
+   4
    2,R
    1
+   2,R
+   4
    1,R
-   3
-   1,R
-   1,R,D
-   1,D
-   1,R,D
+   3,D
    1,D,J
    6,R,D,X
    1,J
@@ -3396,29 +3392,28 @@ EndStunPause
    7,R,J
    5,R
    1,R,J
-   6,R
-   1,R,J
-  40
+   7,R
+  40,J
 
 #lvl_ch6-memory-12
-   9,R,J
-   8,R
-   3,R,J
-   4,R
+   7,R,J
+  17,R,K
   40
 
 #lvl_memory-13
-   8,R
+   8,R,J
   14,R,U,X
-   1,J,G
+  12,J,G
+  12,K,G
+  11,J,G
+   1,L,J
+   1,R,K,G
+   2,L,K
+   9,R,K
+   7,R,J,G
+   2,L,J
+   1,J
    7,R
-  12,R,J
-   5,K,G
-   1,R
-  15,U,X
-   1,R
-  30,R,J
-   1
    7,L,J
   12,R,X
   15,R,J
@@ -3488,6 +3483,6 @@ EndStunPause
  163,L
 
 #Time
-ChapterTime: 7:00.920(24760)
+ChapterTime: 7:00.835(24755)
 
   32,L
