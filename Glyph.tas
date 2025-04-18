@@ -8,7 +8,7 @@ console load BeefyUncleTorre/map/1
  190
 
 #spinner cycle heat-00-03
-   1
+   2
 #-----
 
 #lvl_crane-01
@@ -155,13 +155,13 @@ console load BeefyUncleTorre/map/1
   12,R,J,G
    7,R
 ## Tying strat, try when abusing drift
-#   4,R,J
-#   5,K,G
-#   7,L,K
-#  10,R,Z
-#  17,L,J
-#  15,U,X
-#   6
+#    4,R,J
+#    5,K,G
+#    7,L,K
+#   10,R,Z
+#   17,L,J
+#   15,U,X
+#    6
 ##-----
    2,R,J
    1,R,K,G
@@ -356,18 +356,13 @@ console load BeefyUncleTorre/map/1
    1,J
    2,R,J
   11,U,Z
-  34,R,J
-   5,R
+  21,R,J
+   1,J
+  14,R,J
+   2
   15,R,Z
-   8
-   1,L,D,J
-   6,L
-   1,L,J
-   1,L
-  12,R,D
-   8,D
-   1
-  12,D
+  16,L
+  31,R,D
    7,L,D
   15,R,U,Z
   11,L,J,G
@@ -1228,23 +1223,20 @@ EndStunPause
    1,J
    1,L,J
   18,U,X
-   2,L
+   1,L
   29,L,J
   15,U,X
   11,L
   15,U,X
   10,L
-  12,J,G
-   5,K,G
-   1,R,K
-   1,L,J,G
+   9,K,G
+  10,J,G
    1,R,J
-  10,L,J
-  10,L,K,G
-   2,L
-   1,L,J,G
-   2,R,J
-   3,L,J
+   1,L,J
+   1,L,K,G
+  11,L,K
+  12,J,G
+   3,K,G
    7,L
   10,L,J
   11,K
@@ -1413,8 +1405,8 @@ EndStunPause
    4,L
   17,U,Z
   14,R,J
-   1,R
-  11,R,J
+   8,R
+   4,R,J
   15,L,U,X
   12,L
    6,L,Z
@@ -1535,30 +1527,32 @@ EndStunPause
    1
   30,L,J
    1,K,G
-   7,L
-   1,R,J
-   1
-  11,L,Z
+   7
+   4,Z
    1,L,J
-   2,L
+   2,L,K,G
+  10,L
   40
 
 #lvl_cold-06
-   4,L
-   1
-   1,L,J
-  13,L,D,X
-   1,L,J
-   1
-  14,L
-   2,L,D
    1,L
+   1,L,J
+  14,L,D,X
+   1,L,J
+   5,L
+   2,L,J
+  12,L
    2,L,D
    1,L
    2,J,G
-  14,L,J
+  12,L,J
+   1,J
+   1,L,J
    8,U,X
-  40,L,J
+  30,L,J
+   1,L,J
+   1,L,J
+   7,L
    1,G
    1,J
    1,R,J
@@ -1570,13 +1564,13 @@ EndStunPause
    5,L
    2,L,K
   13,L
-   7,L,D
+   6,L,D
    1,L
-  26,L,J
-  14,L
+   1,D
+  27,L,J
+  13,L
    4,L,J,G
-   7,L,D
-   1,L,J
+   8,L
    1,K
   15,L,Z
   20,R,D
@@ -3414,20 +3408,14 @@ EndStunPause
    2,L,J
    1,J
    7,R
-   7,L,J
-  12,R,X
-  15,R,J
-   2,J
+   7,R,J
+  11,R,X
+   6,R,J
+   3,R
+   4
+  13,L,J
   15,U,X
-   1
-  29,L,J
-   3,K,G
-   1,L
-   1
-   1,L
-   2
-   2,L
-   1,L,J
+  32,L,J
    5,L,K
    3,K
    1,R,K
@@ -3483,6 +3471,6 @@ EndStunPause
  163,L
 
 #Time
-ChapterTime: 7:00.835(24755)
+ChapterTime: 7:00.716(24748)
 
   32,L
