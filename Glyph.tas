@@ -675,16 +675,12 @@ console load BeefyUncleTorre/map/1
    4,R,U
   14,L,Z
    1,R,J
-   8,R,D,X
+   7,R,D,X
    1,R,J,G
-   1,R,K,G
-   1,R,J,G
-   6,R
-   1
+   7,R
    1,R,J
-   7,R,U,X
-   5,J,G
-   3,R,J
+   9,R,U,X
+   6,R,J,G
   40
 
 #lvl_heat-00-03
@@ -697,19 +693,19 @@ SkipInput 3 1
    8,R,Z
 EndStunPause
    7,R,Z
-   3,R
-   4
-   4,L,J,G
+   1,R
+   7
+   1,L,J,G
    7,L
    1,G
   12,J
-   4,K,G
+   6,K,G
    2,L,J,G
    1
    1,L
-   5
-   1,L
    6
+   1,L
+   3
    4,L
    1
    1,L
@@ -890,7 +886,7 @@ EndStunPause
   15,R,Z
   14,R
 # spinner cycle heat-04
-   0
+   2
 #
    7,R,Z
    1,R,J
@@ -3473,6 +3469,6 @@ EndStunPause
  163,L
 
 #Time
-ChapterTime: 6:59.679(24687)
+ChapterTime: 6:59.628(24684)
 
   32,L
