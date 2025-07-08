@@ -7,35 +7,42 @@ console load BeefyUncleTorre/map/3
   36
 
 #lvl_memory-00
-   7,J
-   1
+   7,R,J
+   1,R
   15,U,X
-  66
-  15,U,X
-  15,L
-   7
-   1,L
-   2,D
-   1,L,D
-   9,D
-  10,L,X
-  16,L,J
-  15,U,X
+  55,R
+
+#lvl_heat-00
+  11,R
+   3,R,J
+  15,L,U,X
+   9
    2,L
-  19,L,J
-   4,K,G
-   5,R
-   9,L,X
+   1
+  14,L
+   3,L,D
+   1,L
+  10,L,X
+  12,L,J
+   5
+  15,U,X
+   1
+  19,J
+   1,K,G
+   1,R,K
+  13,L,J,G
    6,R
   15,U,X
-   5,L
+   2,L
+   1
+   1,L
    6,R,J
   13,R,K,G
    1,R,J,G
    1,L,K
   40
 
-#lvl_heat-01 (1)
-Read,../SummerSide,lvl_heat-01 (1)
+#lvl_heat-01
+Read,../SummerSide,lvl_heat-01 (0)
 
-ChapterTime: 1:58.864(6992)
+ChapterTime: 1:51.656(6568)
