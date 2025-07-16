@@ -20,7 +20,7 @@ console load BeefyUncleTorre/map/3
   15,U,X
    1
   19,J
-   1,K,G
+   1,K,H
    1,R,K
   13,L,J,G
    6,R
@@ -109,29 +109,19 @@ console load BeefyUncleTorre/map/3
 
 #lvl_peace-03
   15,R,X
-  26,R,D
-   9,R
-  15,R,X
-  19,R
-   9,R,U,X
-   2,R,J,G
-   5,R
-   3,R,J
-   5,L,J
-   6,L
-   1,L,G
-   1,L,J,G
-   1,K,G
-   2,L,K
-   9,K
-   9
-   3,K
-   2,R,K
-   3,R
-  16,R,J
+  42,R
+   5,R,D
+  15,R,U,X
+  31,R,G
+  14,R,J,G
+  15,R,U,Z
+   6,R
+  15,R,K
+  10,R,Z
+
 
 #lvl_heat-03 (1)
-   9,R,Z
+#    9,R,Z
    1,R,J
    5,R
    6,R,D,X
@@ -868,4 +858,4 @@ console load BeefyUncleTorre/map/3
    4,L,Z
  100,L,U,G
   35
-ChapterTime: 1:50.891(6523)
+ChapterTime: 1:50.857(6521)
