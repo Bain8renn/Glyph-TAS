@@ -12,23 +12,96 @@ console load BeefyUncleTorre/map/4
   70,U,X
 
 #lvl_cold-00
-  11
+   4
+   7,L
   15,U,X
   26
-   7,L,D
-   1
-   1,D
-   7,L,Z
+   6,D
+   3
+   5,L,Z
    1,L,J
-   6,L
+   4,L
    1,L,J
-  17,L,D,X
-   3,L,J
-   2,L
+   3,L
+   1,L,J
+  16,L,D,X
+   2,L,J
+   4,L
    5,L,D,X
   40
 
 #lvl_cold-01
-Read,../WinterSide,lvl_cold-01 (1)
+Read,../WinterSide,lvl_cold-01 (0),crane-deathless
 
-ChapterTime: 2:56.409(10377)
+#crane-deathless
+   7,L,K
+  15,L,D,X
+   1,L,J
+   3,L
+  40
+
+#lvl_crane-blue-01
+   4,L
+  15,L,Z
+  20,U,C
+  15,L,U,X
+  33,R
+  17
+  53,L,X
+  15,U,C
+   1,L
+  19,L,J
+   2,J
+  12,K,G
+   1,J,G
+   1,L,J
+   1,J
+   1,L,J
+   1,R,J
+   1,L,J
+  11,K,G
+   1,R,K
+   1,K
+   1,R,J,G
+   1,J
+   1,K
+  40
+
+#lvl_crane-blue-02
+   1,R
+   1,R,J,G
+   5,R
+   1
+   1,R
+   2
+  14,R,Z
+   7,R,J
+   1,R
+   1,R,J
+  14,R,U,X
+  47,L,U,C
+  11,U,X
+  33,R,J
+  24,R,D
+   1,R
+   6,R,D
+  24,D
+  52,R,U,X
+  15,U,Z
+   2,L
+  11,J
+   2,L,J
+   1,J
+   3,L,J
+   1,J
+   1,L,J
+   1,R,J
+   1,K
+   4,L,K
+   1,J
+   7,K
+  40
+
+#lvl_crane-blue-03
+Read,../WinterSide,lvl_crane-blue-03
+ChapterTime: 2:40.854(9462)
