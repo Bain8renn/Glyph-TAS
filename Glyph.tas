@@ -517,20 +517,20 @@ console load BeefyUncleTorre/map/1
   40
 
 #lvl_peace-09
-  11,R,D
-   6,D
-   3,L,D
-   3,L
-   2
+  10,R,D
+   1,R
+  11,L
+   2,L,D
+   2,D
    1,L
-  11,R,D,X
-   4,R
-   1,R,J
-  12,R,D
-  23,L,D
-   5,D
-   1,L,D
+  15,R,D,J,X
+   3,R,J
+  11,R
+   2,R,D
    1,D
+   4,R,D
+  12,L,D
+   6,L
    6,L,J
    3,L
   15,L,X
@@ -3469,6 +3469,6 @@ EndStunPause
  163,L
 
 #Time
-ChapterTime: 6:59.628(24684)
+ChapterTime: 6:59.577(24681)
 
   32,L
