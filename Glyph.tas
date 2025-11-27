@@ -8,7 +8,7 @@ console load BeefyUncleTorre/map/1
  190
 
 #spinner cycle heat-00-03
-   1
+   2
 #-----
 
 #lvl_crane-01
@@ -536,10 +536,23 @@ console load BeefyUncleTorre/map/1
   15,L,X
   30,L
    1,J,G
-  34,U,G
-   8,R,D
-  11
-  20,L,D
+   8
+   2,L
+   1
+   1,L
+   1,G
+   1
+   1,G
+   1
+   1,G
+   1
+   2,L
+   1
+   1,G
+   1
+  15,G
+   8,R
+  26,L,D
   40
 
 #lvl_peace-06 (1)
