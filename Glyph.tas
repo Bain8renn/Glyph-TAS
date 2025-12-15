@@ -701,14 +701,16 @@ console load BeefyUncleTorre/map/1
    1,R,J
    9,R,U,X
    1,K,G
-   6,R,K
+   2,R
+   4,R,K,G
+   1,R
   40
 
 #lvl_heat-00-03
-   1,R,J
-   6,R,D,X
+   1,R
+   8,R,D,X
 StunPause
-   9,R,D
+   7,R,D
    1,J
 SkipInput 3 1
    8,R,Z
@@ -721,8 +723,7 @@ EndStunPause
    7,L
    1,G
    1,G
-  10,J
-   2
+  12,J
    8,K,G
    6,L
    6
@@ -3488,5 +3489,5 @@ EndStunPause
  163,L
 
 #Time
-ChapterTime: 6:58.897(24641)
+ChapterTime: 6:58.727(24631)
   32,L
