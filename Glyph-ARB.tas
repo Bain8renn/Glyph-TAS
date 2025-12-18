@@ -120,8 +120,10 @@ Read,Glyph,lvl_crane-01,lvl_memory-00
    1,R,J
    8,R
    2,R,J
-   6,R
-   3,R,J
+   5,R
+   1,R,J
+   1,R
+   2,R,J
    4,R
   15,U,Z
   16,D
@@ -683,8 +685,8 @@ EndStunPause
    4,L
    2,R
    2,R,J
-  15,R,D
-  38,L,D
+  16,R,D
+  37,L,D
   40
 
 #lvl_peace-06 (1)
@@ -1087,7 +1089,7 @@ EndStunPause
   40
 
 #lvl_heat-09 (0)
-Read,Glyph-FC,lvl_heat-09 (1),lvl_ch3-heat-08 (1)
+Read,Glyph-FC,lvl_heat-09 (0),lvl_ch3-heat-08 (1)
 
 #lvl_ch3-heat-08
 #not sure if this route is actually faster, but it feels like it is, so meh
@@ -1107,7 +1109,7 @@ Read,Glyph-FC,lvl_heat-09 (1),lvl_ch3-heat-08 (1)
   40
 
 #lvl_heat-09 (1)
-Read,Glyph-FC,lvl_heat-09 (2),lvl_cold-05
+Read,Glyph-FC,lvl_heat-09 (1),lvl_cold-05
 
 #lvl_cold-05
    5,L,D
