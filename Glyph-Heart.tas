@@ -133,7 +133,10 @@ EndStunPause
    2,R
    3,R,J
   22,R,K
-  15,R,D,X
+   8,R,D,X
+
+#lvl_heat-00
+   7,R,D
    4,R,D
    1,L
   84,L,D
@@ -151,158 +154,285 @@ EndStunPause
   40
 
 #lvl_heat-00-01
-Read,Glyph,lvl_heat-00-01,lvl_heat-00-06
+Read,Glyph,lvl_heat-00-01,lvl_heat-09
 
-#lvl_heat-00-06
-  11,R,J
-   4,R,D,J
-  14,R,K
-   5,R
-   1,R,K
-   4,R
-   1,R,K
-   8,R
-  15,R,X
-   1,R
-  15,R,Z
-  19,R,D
-  15,U,X
-  15,R,Z
-  14,R
-#Spinner Cycle [heat-04]
-   1
-#-----
-   7,R,Z
-   1,R,J
-   7,R
-   1,R,J
-   5,R,D,X
-  40
-
-#lvl_heat-02
-Read,Glyph,lvl_heat-02,lvl_heat-04
-
-#lvl_heat-04
-#+0f for stun, but better spinner cycle
-   4,R
-   6,R,D,J
-   1,R
-StunPause
-   5,R
-EndStunPause
-   1,R,J
-   1,R
-  40
-
-#lvl_peace-16
-Read,Glyph,lvl_peace-16,lvl_cold-00
-
-#lvl_cold-00
-   7,L
-  15,L,J
-  14,L,U,X
-  11,L,J,G
-   1,K,G
-   4
-   2,L
-   1,R
-   2,R,J
-  13,U,X
-  14,L,J
-   9,L
-   1,L,J
-   2,L
-   1,J
-   1
-  13,L,Z
-   1,R,J
-   7,R
-  30,R,J
-  15,R,U,X
-   6,R
-  12,R,J,G
-   1,R,K,G
-   4,L,K
-   7,R,K
-   1,R
-   1,R,J,G
-   7,R
-   6,J
-   1
-  10,R,X
-  14,L,J
-   1,J
-   1,L,J
-  18,U,X
-   2,L
-  29,L,J
-  15,U,X
-  11,L
-  15,U,X
-  10,L
-  12,J,G
-   5,K,G
-   1,R,K
-   1,L,J,G
-   1,R,J
-  10,L,J
-  10,L,K,G
-   2,L
-   1,L,J,G
-   2,R,J
-   3,L,J
-   7,L
-  10,L,J
-  11,K
-  10,L,Z
-  13,R,J
-  15,R,U,X
-   1,L
-   1,R
-   1,L
-   1,R
+#lvl_heat-09 (0)
    1,S
    1,D,J
   69,O
-  14,L,Z
-   7,L,J
-   6,L
-   1,L,J
-   8,L
-  61,D
-  30,L,D
-   1,D
-   4,L,D
+  10,L,Z
+   9,L,J
+   3,L
+   3,L,J
+   8,L,D
+   9,D
+
+#lvl_peace-19 (0)
+  49,D
+  40,L,D
   13,L,Z
    1,L,J
-   4,L
+   1,L
+   7,L,D,X
   40
 
 #lvl_peace-27
-Read,Glyph-FC,lvl_peace-27,lvl_heat-09 (2)
+   6
+   2,L,J
+   1,L
+   1,L,J
+   3,L
+   1,L,G
+   9
+  10,J
+   1
+   1,K,G
+   1
+   3,R
+   5,L,U,Z
+   1,L,J,G
+   4
+   3,L
+   5,L,J
+   1,L
+   8,L,J
+  10,L,Z
+   9,L,J
+   1,L
+   1,J
+   3,L
+  44,R,D
+   7,R
+  15,R,Z
+  21,R
+  15,R,X
+  23
+  13,L
+  14,R,Z
+   1,R,J
+   1,R,D,K
+  10,R
+  40
 
-#lvl_heat-09
+#lvl_peace-19 (1)
+   1,R
+   1,R,J
+  14,R,D,X
+   1,R,J
+   2,R,D
+
+#lvl_heat-09 (1)
+   2,D
+   5,R,D
+   1,D
+  45,R,D
+  40
+
+#lvl_ch3-heat-08 (0)
+  24,R,D
+   2,D
+  11,R,D,X
+   5,R,J
+  15,R,D,X
+   8,R,J
+
+#lvl_heat-11 (0)
+   3,R,J
+   6,R
+   3,R,J
+   1,R
+   2,R,J
+   6,R
+  13,R,U,X
+   2,J,G
+   5
+   2,L
+   5,L,J
+   6,R,J
+   2,J
+   9,D,X
+
+#lvl_crane-red-01
+   6
+   6,L,D
+   1,L
+   6,L,D
+   4,Z
+   1,L,J
+   4,L
+   2
+   1,L,J
+   4,L,K,G
+   1,L
+   3,L,J,G
+   3,L
+  10,L,D,X
+   1,L,J,G
+   1,L
+   1
+   4,L
+   2,L,J
+   4,L
+   8,L,J
+   2,L
+   5,L,D,X
+   1,L,J,G
+   5,L
+   1,L,J
+   7,L
+  40
+
+#lvl_crane-red-02
+   1,L
+   5,L,D,J
+   5,L
+   4,L,J
+   1,L
+   4,L,J
+   9,L
+  15,L,X
+  22,R,J
+  11
+  48,L,X
+  12,D,C
+   8,L,J
+   6,L
+  18,L,J
+  33,R,D,X
+   6,R,C
+  10,L,J
+  28,L
+  36,L,U,X
+   5,U,C
+   4,L,J
+   5,R,J
+   2,L,J
+  12,R
+   2,R,J
+  29,R,D
+  40,L,C
+  10,U,X
+  39,L,J
+  22,D,X
+   5,R,D,C
+   3,L,J
+   7,L
+  20,L,D
+   1,L,J
+  12,L,D,X
+  40
+
+#lvl_crane-02 (1)
+   2,L,D,X
+   1,L,J
+   9,L,D,X
+   1,L,J
+   3,L
+   1,L,J
+   3,L
+   8,L,J
+  15,D,X
+  19,D
+  40
+
+#lvl_crane-04 (0)
+  10,L,D
+  13,D
+  11,R,D
+   1,D
+   2,R,D
+   4,R,Z
+   1,R,J
+   7,R
+   1,R,J
+   7,R
+  10,R,U,Z
+   2,R,J,G
+   1,K,G
+   3,R,K,G
+  40
+
+#lvl_crane-red-03
+   6,R,K
+   3,R
+  26,R,U,X
+
+#lvl_ch3-heat-08 (1)
+  25,R,D
+   7,R,Z
+   1,L,J
+   6,L
+
+#lvl_heat-11 (1)
+  72,O
+   4,L,Z
+   1,L,J
+   3,L
+  40
+
+#lvl_heat-09 (2)
    8,L
   14,R,D,X
-   5,L,J
+   2,L,J
+   3,J
   18,L,D,X
-   4,L,J
+   1,L,J
    5,L
    2,L,J
-  14,L
+  13,L
   15,L,U,X
   18,U,C
   15,U,X
-  15,D,C
-   3,R,D
-   5,L,Z
-   2,L,J
-   5,L
-   1,L,J
+   9,L,D,C
+
+#lvl_cold-00
+  11,L,D
   40
 
 #lvl_cold-01
-Read,Glyph,lvl_cold-01,lvl_cold-06
+   2,L,D
+   6,L,Z
+   1,L,J
+  20,L
+   1,L,G
+   1,J
+   5,R
+   2,R,J
+   6,R
+   9,L,Z
+   1,L,K,G
+   1,L
+   3,L,D,J
+   1,L
+  16,L,U,X
+   1,L,K,G
+   7,L
+   1,G
+   5,R,K
+   5,R
+   1,R,K
+  11,L,U,Z
+   3,L,K,G
+   4,L,J
+  14,U,X
+   9,L,J
+   1,G
+   1,R,J
+  10,R
+   4,R,G
+   8,L,J
+   7,L
+   4,L,Z
+   2,L,J
+   8,L
+   1,L,J
+   1,L
+  15,L,D,X
+  18,L,D
+  40
+
+#lvl_cold-02
+Read,Glyph,lvl_cold-02,lvl_cold-06
 
 #lvl_cold-06 (0)
    4,L
@@ -447,7 +577,7 @@ Read,Glyph,lvl_cold-01,lvl_cold-06
    5,R,U,Z
   40
 
-#lvl_crane-04 (0)
+#lvl_crane-04 (1)
    9,R
    1,J,G
   15,U,X
@@ -457,7 +587,7 @@ Read,Glyph,lvl_cold-01,lvl_cold-06
    6,R,K,G
   40
 
-#lvl_crane-02 (1)
+#lvl_crane-02 (2)
   11,L,J
    1,L
    5,J,G
@@ -474,7 +604,7 @@ Read,Glyph,lvl_cold-01,lvl_cold-06
   19,D
   40
 
-#lvl_crane-04 (1)
+#lvl_crane-04 (2)
   80,D
   40
 
@@ -640,7 +770,7 @@ Read,Glyph,lvl_cold-01,lvl_cold-06
   15,L,Z
   14,L
 #Spinner Cycle [cold-08]
-   1
+   0
 #-----
    6,R,D,X
    1,L,J
@@ -842,4 +972,4 @@ Read,Glyph-FC,lvl_memory-16a,lvl_solace-05
   12,R,J
   15,R,U,X
  135,D
-ChapterTime: 9:15.781(32693)
+ChapterTime: 9:13.435(32555)
