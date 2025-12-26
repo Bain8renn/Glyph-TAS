@@ -215,20 +215,19 @@ Read,Glyph,lvl_heat-00-01,lvl_heat-09
 #lvl_peace-19 (1)
    1,R
    1,R,J
-  14,R,D,X
-   1,R,J
-   2,R,D
+  14,R,D,J,X
+   3,J
 
 #lvl_heat-09 (1)
-   2,D
-   5,R,D
+   2,J
+  30,R,D
    1,D
-  45,R,D
+  19,R,D
   40
 
 #lvl_ch3-heat-08 (0)
-  24,R,D
-   2,D
+  22,R,D
+   4,D
   11,R,D,X
    5,R,J
   15,R,D,X
@@ -768,7 +767,7 @@ Read,Glyph,lvl_cold-02,lvl_cold-06
   15,L,Z
   14,L
 #Spinner Cycle [cold-08]
-   1
+   2
 #-----
    6,R,D,X
    1,L,J
