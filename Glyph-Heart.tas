@@ -444,25 +444,26 @@ Read,Glyph,lvl_heat-00-01,lvl_heat-09
 Read,Glyph,lvl_cold-02,lvl_cold-06
 
 #lvl_cold-06 (0)
-   5,L,J
-   3,L
+   7,L,J
+   2,L
   15,L,D,X
-   1,L,J
+   2,L,J
    5,L
-  10,L,J
-   4,L
-   5
-  12,U,X
-  39,L,J,V
+   9,L,J
+   8,L
+  11,U,X
+  39,L,J
    1,G
    1,J
-   1,R,J
+   1,R
    1,L,K,G
    1,L,J,G
    1,R,J
-   4,L,J
-   3
+   3,L,J
+   1,J
+   2
    3,L
+   1
    1,K,G
    1,R,K
    1,L,J,G
@@ -470,21 +471,20 @@ Read,Glyph,lvl_cold-02,lvl_cold-06
    4,J
    5
    1,L,J
-   9,L
-   1
+  10,L
   12,L,K
    5,L
   10,L,K
   10,L
    3,L
    5,L,J,G
-   7,L,D
+   7,L
    1,L,J
    1,L
   15,L,Z
   16,L,D
   19,D
-   2,L
+   2
   17,L,J
   15,U,X
    1
@@ -705,7 +705,7 @@ Read,Glyph,lvl_cold-02,lvl_cold-06
    1,L
    1
 #cold-08-spinner
-   2
+   1
 #cold-08-spinner-end
    5,X
    7,L,J
@@ -904,4 +904,4 @@ Read,Glyph-FC,lvl_memory-16a,lvl_solace-05
   12,R,J
   15,R,U,X
  135,D
-ChapterTime: 9:11.956(32468)
+ChapterTime: 9:11.905(32465)
