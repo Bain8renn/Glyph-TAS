@@ -1036,7 +1036,7 @@ Read,Glyph,lvl_fall-11a (0),lvl_memory-14 (0)
 #lvl_memory-14
   11,R
 #Lightning Cycle [memory-14]
-   2
+   1
 #-----
    7,R,J,G
    5,R,Z
@@ -1175,4 +1175,4 @@ Read,Glyph-FC,lvl_memory-16a,lvl_solace-05
   12,R,J
   15,R,U,X
  135,D
-ChapterTime: 9:09.967(32351)
+ChapterTime: 9:09.916(32348)
