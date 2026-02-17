@@ -1397,13 +1397,18 @@ Read,Glyph,lvl_memory-08a (1),memory-11b-end
    6,R,D,X
 #solace-05-end
    1,L,J,G
-  34,R,J
+   1,R,J
+  13,R
+   2,R,J
+  15,R
+   2,R,J
   40
 
 #lvl_solace-06
-  13,R
    1,R,J
-   5,R
+  13,R,U,X
+   1,J,G
+   6,R
   40
 
 #lvl_solace-07
@@ -1473,6 +1478,6 @@ Read,Glyph,lvl_memory-08a (1),memory-11b-end
   13,R,J
   14,R,U,X
  136,D
- 
+
 #Time
-ChapterTime: 9:03.626(31978)
+ChapterTime: 9:03.592(31976)
