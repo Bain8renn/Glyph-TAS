@@ -429,32 +429,22 @@ Read,../Glyph,lvl_memory-08a (1),memory-09-golden
   10,L
   15,L,D,X
    2,D
-  17,L,D
-   3,L
+   7,L,D
+  10,D
+   2,R
+   3,R
+   9,R,Z
+  19,R,J
+  18,R
+   9,L,D,X
+
+#lvl_memory-10b
+   8,L,D
+   4,L,Z
+   1,L,J
+  47,L,D
    2
-   1,L
-   4,R,Z
-   2,R,J
-   1,R
-   1
-   1,R,J
-   1,R
-  20,R,J
-  15,R,D,X
-  10,R
-   1,R,D
-   3,D
-  12,L,D,X
-   1,L,J
-   4
-   4,L
-   1,L,J
-   1,L
-  15,L,D,X
-  28,L,D
-   1
-   1,L,D
-   4,L
+   3,L
    1,G
    1,J
    7
@@ -470,9 +460,9 @@ Read,../Glyph,lvl_memory-08a (1),memory-09-golden
    1,L,D
    1,R,D
    1,R,K
-   6,R
+   8,R
    1,R,J
-  14,R
+  12,R
    1
    9,L,Z
   18,R
@@ -483,28 +473,20 @@ Read,../Glyph,lvl_memory-08a (1),memory-09-golden
    3,D
    2,L,D
   27,L
-   4,L,D
-   1,L
-   1,L,D
-   1,L
-   1,L,D
-  11,L,J
-   4,L
-  15,L,D,X
    6,L,D
+   2,L
+
+   9,L,J
+   8,L
+  20,L,D,X
    3,L,J
-   9,L
+   7,L
    2,L,J
-   6
-   9,D,X
-   6
-   4,L,Z
-   1,J
-   2
-   2,J
-  12
-   4,G
-  10
+   9,L
+  16
+   1,R
+  15,L,X
+  15
   15,R,D,C
   14,L,D,X
    1,R,J
@@ -610,4 +592,4 @@ Read,../Glyph,lvl_memory-10a (1),Time
 
 #Time
   32
-MidwayFileTime: 6:40.656(23568)
+MidwayFileTime: 6:40.537(23561)
