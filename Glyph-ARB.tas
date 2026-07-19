@@ -582,20 +582,21 @@ EndStunPause
   25,R,J
    1,K,G
   14,R,Z
-   4,R,J
-  16,R,D
-  16,D
+   2,R,J
+   3,R
+   1,R,J
+  15,R,D,X
+   3,R,D
+  10,D
   40
 
 #lvl_peace-09 (0)
-   5,L,U,X
-   2,L,K,G
-   1,R,J
+   7,L,U,X
   40
 
 #lvl_peace-08 (2)
   11,L,J,G
-  10,L,Z
+  14,L,Z
    5,J
   16,L,D,X
   40
@@ -755,7 +756,7 @@ Read,Glyph,lvl_peace-06 (1),lvl_ch2-peace-12
    1,L,K,G
    7,L
 #heat-00-03-spinner
-   0
+   2
 #heat-00-03-spinner-end
    4,Z
    1,L,J
@@ -1130,7 +1131,6 @@ Read,Glyph,lvl_heat-00-04,lvl_heat-02
   14,D,X
 
 #lvl_heat-05 (1)
-
    1
   14,R,D
    8,D
@@ -1299,7 +1299,7 @@ Read,Glyph,lvl_heat-06,lvl_ch3-heat-08
    1,D,J
   69,O
 #heat-10-spinner
-   2
+   1
 #heat-10-spinner-end
    1,R,J
    1,R
@@ -2607,24 +2607,18 @@ EndStunPause
 StunPause
    7,L
 SkipInput 3 1
-  19,L,D,X
+  21,L,D,X
 EndStunPause
-   1,S
-   1,O
-   9
-   1,L,D
-StunPause
-   2,L,D
-EndStunPause
-  13,L,D
+  14,L,D
   20,D
    3,L,D
    6,D
-   4,L,D
+   2,L,D
 StunPause
+   2,L,D
    3,D
-   1,L,D
 EndStunPause
+   1,L,D
   15,R,D
    9,D
   14,L,D
@@ -3303,5 +3297,5 @@ Read,Glyph,lvl_memory-06a,lvl_memory-07a
 Read,Glyph,lvl_memory-14 (0),Time
 
 #Time
-ChapterTime: 9:48.880(34640)
+ChapterTime: 9:48.642(34626)
   32,L
