@@ -1132,7 +1132,9 @@ EndStunPause
    1,L
    9,R,X
   12,R,J
-  11
+   7
+   1,R
+   3
    7,L,D,X
 
 #lvl_peace-17
@@ -1140,10 +1142,10 @@ EndStunPause
 StunPause
   13,L,D
 EndStunPause
-  11,L,D
-   7,R,D
-  75,R
-  42,R,U,V
+   9,L,D
+  14,R,D
+  66,R
+  43,R,U,V
   10,R,Z
    1,R,J
    3,R,K,G
@@ -3672,5 +3674,5 @@ EndStunPause
  163,L
 
 #Time
-ChapterTime: 6:51.944(24232)
+ChapterTime: 6:51.893(24229)
   32,L
