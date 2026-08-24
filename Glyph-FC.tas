@@ -14,6 +14,8 @@ console load BeefyUncleTorre/map/1
 Read,Glyph-ARB,lvl_crane-01,peace-11-spinner-berry
 # +1f berry
    1
+# +2f spinner
+   2
 Read,Glyph-ARB,peace-11-spinner-berry-end,lvl_peace-06 (1)
 
 #lvl_peace-06
@@ -170,7 +172,7 @@ EndStunPause
 
 #lvl_heat-00-04
 Read,Glyph-ARB,lvl_heat-00-04,heat-10-spinner
-   1
+   0
 Read,Glyph-ARB,heat-10-spinner-end,lvl_peace-27
 
 #lvl_peace-27
@@ -464,4 +466,4 @@ Read,Glyph-Heart,lvl_memory-08b,solace-05-end
 Read,Glyph-Heart,solace-07-code,Time
 
 #Time
-ChapterTime: 11:52.606(41918)
+ChapterTime: 11:52.147(41891)
