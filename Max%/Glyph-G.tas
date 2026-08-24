@@ -88,8 +88,11 @@ Read,../Glyph,lvl_peace-01,lvl_heat-06
    1,R
    4
    1,R
-   1,L
-   1,R,J
+   1
+#spinner-heat06
+   2
+#spinner-heat06-end
+   1,L,J
   15,U,X
    2,R,J,G
    1,R
@@ -138,10 +141,9 @@ Read,../Glyph,lvl_peace-01,lvl_heat-06
    5,L,J,G
    1,L
    9,R,X
-   9,R,J
-   3,J
-   9
-   6,R
+  12,R,J
+  11
+   7,L,D,X
 
 #lvl_peace-17
 Read,../Glyph,lvl_peace-17,cold-05-golden
@@ -589,7 +591,6 @@ Read,../Glyph,lvl_memory-08a (1),memory-09-golden
 
 #lvl_memory-10a (1)
 Read,../Glyph,lvl_memory-10a (1),Time
-
 #Time
   32
-MidwayFileTime: 6:40.537(23561)
+MidwayFileTime: 6:40.350(23550)
