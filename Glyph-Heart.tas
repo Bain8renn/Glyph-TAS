@@ -8,7 +8,7 @@ console load BeefyUncleTorre/map/1
  190
 
 #peace-11 spinner cycle
-   1
+   2
 #-----
 Read,Glyph,lvl_crane-01,lvl_peace-06 (1)
 
@@ -23,7 +23,6 @@ Read,Glyph,lvl_crane-01,lvl_peace-06 (1)
    7,R,J
    7,R,D,X
   40
-
 #lvl_peace-11
    8,R,D,X
    6,R,J
@@ -705,7 +704,7 @@ Read,Glyph,lvl_cold-02,lvl_cold-06
    1,L
    1
 #cold-08-spinner
-   1
+   0
 #cold-08-spinner-end
    5,X
    7,L,J
@@ -1480,4 +1479,4 @@ Read,Glyph,lvl_memory-08a (1),memory-11b-end
  136,D
 
 #Time
-ChapterTime: 9:03.592(31976)
+ChapterTime: 9:03.235(31955)
