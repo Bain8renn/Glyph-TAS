@@ -1,4 +1,4 @@
-RecordCount: 19851
+RecordCount: 19919
 
 console load BeefyUncleTorre/map/1
    1
@@ -645,34 +645,37 @@ EndRepeat
    9,L,J
   15,U,X
   15,L,J
-   8,L
-   5,L,J
+   9,L
+   4,L,J
    4,L
   14,L,U,X
    1,L,J,G
-  13,L
-   6,L,J
-   7,L
-  14,L,U,Z
-   1,R,J,G
-  10,R,K,G
+   6,L
+   3,L,J
+  10,L
+  35,L,J
+  11,R,K
+   6,K
+   2,R,K
+   1
+   1,G
+   3,R,J,G
+   7,L,J
+   2,J
   40
 
 #lvl_peace-07
    7,R
    1,R,J,G
-  12,R,K,G
+   8,R,K,G
+   4,K
   16,U,X
-   1,J,G
-   3,R,J
-   3,J
-   1,R,J
+  12,J,G
+  11,K,G
+   1,L,K
+  10,R,J,G
    1,J
    1,R,J
-   1,L
-   1,R
-  13,R,K,G
-  12,R,J,G
    7,R
   12,R,J
   12,K,G
@@ -4892,5 +4895,5 @@ EndRepeat
  163,R
 
 #Time
-ChapterTime: 9:59.998(35294)
+ChapterTime: 10:00.644(35332)
   32,R
