@@ -1244,14 +1244,14 @@ Read,Glyph,lvl_heat-06,lvl_ch3-heat-08
   18,R,J
 
 #lvl_peace-19 (0)
-Read Glyph "lvl_peace-19 (0)" lvl_heat-09
+Read, Glyph, lvl_peace-19 (0), lvl_heat-09
 
 #lvl_heat-09 (0)
    1,S
    1,D,J
   69,O
 #heat-10-spinner
-   1
+   0
 #heat-10-spinner-end
    1,R,J
    1,R
@@ -3249,5 +3249,5 @@ Read,Glyph,lvl_memory-06a,lvl_memory-07a
 Read,Glyph,lvl_memory-14 (0),Time
 
 #Time
-ChapterTime: 9:48.506(34618)
+ChapterTime: 9:46.602(34506)
   32,L
