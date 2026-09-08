@@ -1,4 +1,4 @@
-RecordCount: 21718
+RecordCount: 21754
 
 console load BeefyUncleTorre/map/1
    1
@@ -1479,88 +1479,62 @@ EndRepeat
    1,S,N
    1,D,J
   69,O
-  10,R,X
-  12,R,J
-   2,R
-  16,L
-   8,D
-   2,L
-  11,L,D
-   4,L
-  27,R
-   1,G
-   5,J,G
-   7
-  20,R,U,G
-   3,R,G
-   4,R,D,G
-Repeat, 4
-   2,R,G
-   2,R,D,G
-EndRepeat
-  13,R,U,G
-   1,U,G
-   1,R,J,G
-   1,J
-   2,L,J
-   3,R,J
-   1,R,K,G
-  12,R,J,G
-  14,R
-   6
-   1,R
+   9,R,X
+  11,R,J
+   5,R
+   1,R,J
+  18,D
+  15,L,D
+   2
    1,L
-   3
+  23,R
+   4
+   1,J,G
+   7
    1,G
-  19,R,G
-  24,R,D,G
-   9,R,J
-  11,R
+   1,R,J
+   3,L,J
+   5,R,J
+   1,R,K,G
+   3,R,J,G
+  10,R
+   8,R,D,J
+   1,R
+   9
+   1,L,G
+  22,G
+  13,R,U,G
+   5,G
+   1,D,G
+   1,R,U,G
+   5,L,J,G
+   1,L
+   9,R,X
+  12,R,J
+   5,R
+  10
 
 #lvl_peace-17
-  10,R
-  17,R,D
-   1,L,J
-   3,J
-  15
-   3,R
-   1,R,D
-   4,L,D
-  27,L,Z
-  30,L,X
-   1,G
- 100,R,G
-  23,R,D,G
-  68,R,G
-   2,G
-  45,R,G
-   1,R,J
-   4,R,K
-  22,R
-   2,R
-   1,R
-   1,R,D,J
-  14,R
-   1,R,J
-   1,R,K,G
-   1,R,J,G
-  11,R
-   1,R,J
-   2,R,K,G
-   9,R
-   1,R,J
-   1,R
-   1,J
+  29,R,D
+   1,R,K
+  18,R
+   9,R,D
+  32,R,D,O
+  37,O
+  10,R,J
   40
 
 #lvl_peace-18
-   4,R,J
-   1,L,J
-   1,R,J
-   5,L,J
-  17,U,X
+   2,R,J
+   5,R
+   6,R,J
+   3,R
+   1
+  16,U,X
   13,R,J
-  30,R
+  26,R
+   3,R,D
+   1,R
    1,G
    1,J,G
    1,L
@@ -1613,8 +1587,7 @@ EndRepeat
    7,L,J
   22,L
    1,L,D
-   1
-   1,D
+   2
    1,G
    1,J,G
    1,R
@@ -4945,5 +4918,5 @@ EndRepeat
  163,R
 
 #Time
-ChapterTime: 10:04.095(35535)
+ChapterTime: 9:58.485(35205)
   32,R
