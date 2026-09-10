@@ -1174,7 +1174,7 @@ Read,Glyph,lvl_memory-08a (1),memory-11b-end
   40
 
 #lvl_memory-13
-  67,D
+  66,D
    5,L,D
    4,Z
    1,R,J
@@ -1293,13 +1293,14 @@ Read,Glyph,lvl_memory-08a (1),memory-11b-end
    4,R,J,G
    1,R
    5,R,K,G
-   1
   15,R,D,X
-   1,R,J
-  15,R,D,X
-   8,R,J
-  15,R
-  14,R,Z
+   9,R,J
+   5,R
+   2,R,J
+   1,R
+   6,R,J
+  10,R
+  14,R,X
  101,U,C
   33,R,X
   25,D,C
@@ -1394,7 +1395,6 @@ Read,Glyph,lvl_memory-08a (1),memory-11b-end
    1,R,J
    1,R,K,G
    6,R,D,X
-#solace-05-end
    1,L,J,G
    1,R,J
   13,R
@@ -1479,4 +1479,4 @@ Read,Glyph,lvl_memory-08a (1),memory-11b-end
  136,D
 
 #Time
-ChapterTime: 9:03.235(31955)
+ChapterTime: 9:01.161(31833)
