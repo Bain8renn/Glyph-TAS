@@ -142,11 +142,62 @@ Read,../Glyph,lvl_peace-01,lvl_heat-06
    1,L
    9,R,X
   12,R,J
-  11
+   7
+   1,R
+   3
    7,L,D,X
 
 #lvl_peace-17
-Read,../Glyph,lvl_peace-17,cold-05-golden
+   2,L,D,X
+StunPause
+  13,L,D
+EndStunPause
+   9,L,D
+  14,R,D
+  66,R
+  43,R,U,V
+  10,R,Z
+   1,R,J
+   3,R,K,G
+   6,R,J,G
+   2
+   9,R,U,X
+  40
+
+#lvl_peace-18
+   6,R,U,X
+  14,U,C
+  25,R,J
+  16,R
+   1,R,G
+   1,J,G
+   1,L,J
+   1,R,K,G
+   5,R
+   9,R,J
+   1,J
+   2
+  10,R,D,X
+  10,R,J
+   1,R
+  14,R,U,X
+   1,K,G
+   1,L,K
+   1,R,J,G
+   1,R,K,G
+   1,R
+   3,J,G
+   7,R
+   9,R,J
+   5,R
+   9,R,J
+   3,R
+  15,R,X
+  14,R
+   6,R,D
+
+#lvl_heat-07
+Read,../Glyph,lvl_heat-07,cold-05-golden
 
 #lvl_cold-00 (0)
   10,L,Z
@@ -154,6 +205,8 @@ Read,../Glyph,lvl_peace-17,cold-05-golden
   12,R
   15,R,U,X
   12,R
+
+#lvl_heat-09
    5,R
   10,U,X
   21,R,J
@@ -161,8 +214,8 @@ Read,../Glyph,lvl_peace-17,cold-05-golden
    7,R
   16,U,X
    6,R,J
-  13,L,J
-   5,K,G
+  12,L,J
+   6,K,G
    6,R,K
    9,J,G
    1,L,J
@@ -177,7 +230,7 @@ Read,../Glyph,lvl_peace-17,cold-05-golden
    1,K
    1,R,J,G
    1,L,J
-   1,R,J
+   1,R
    1,R,K,G
    1,L
    1
@@ -205,7 +258,7 @@ Read,../Glyph,lvl_peace-17,cold-05-golden
 
 #lvl_cold-00 (1)
 Read,../Glyph,lvl_cold-00 (2),cold-08-spinner
-   0
+   1
 Read,../Glyph,cold-08-spinner-end,lvl_cold-08
 
 #lvl_cold-08
@@ -593,4 +646,4 @@ Read,../Glyph,lvl_memory-08a (1),memory-09-golden
 Read,../Glyph,lvl_memory-10a (1),Time
 #Time
   32
-MidwayFileTime: 6:40.350(23550)
+MidwayFileTime: 6:40.299(23547)
