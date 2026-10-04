@@ -1,4 +1,4 @@
-RecordCount: 24246
+RecordCount: 24392
 
 console load BeefyUncleTorre/map/1
    1
@@ -1002,76 +1002,80 @@ EndRepeat
    3,R,K,G
   15,R
   26,R,J
-   7,K,G
+  10,K,G
    1,J
   16,L,K
-   4,J,G
-   1,R,J
+   1,L,J,G
+   1,L,K,G
    1,J
   40
 
 #lvl_heat-00-04
-   1,L
-   1,L,J,G
-   3,L,K,G
-   5,L
-   3,L,J
-   4,L
-   1,J,G
-  11,J
-   1,R,J
-  11,L,K,G
-   7,L
-   1,L,G
-   1,R,J
-   9,R,K
-   5,R
-   1,R,J
-   1,R
-   1,R,J
-   8,R
-   2
-  12,L,J
-  42,L
-  12,R,J
-  22,R
-  12,L,J
-  22,L
-  12,R,J
-  22,R
-  12,L,J
-  22,L
-   4,R,J
-  16,R
-   2,D
-Repeat, 50
-   2
-   2,D
-EndRepeat
-Repeat, 15
-   2,R
-   2,L
-   2,D
-   2,L
-   2,R
-   2,D
-EndRepeat
+   2,L,J,G
    1,J
-  14
-Repeat, 107
-   1,R,D
-   1,L,D
-EndRepeat
-   1,J
-  14
-Repeat, 14
-   2,R
-   2
-EndRepeat
-   2,R
-  20,J
    1,L,J
-  50,G
+   5,L
+   1,L,J
+   1,K,G
+   5,L,J
+   7,R,J
+  11,L,K,G
+   7
+   1,G
+  10
+   3,D
+   1,G
+   1,L,J,G
+   8,L
+   5
+   1,N
+  40
+  35,L
+Repeat, 30
+   1
+   1,L
+EndRepeat
+  30,L
+Repeat, 20
+   2
+   2,L
+EndRepeat
+  30,L
+Repeat, 40
+   4
+   4,L
+EndRepeat
+  30,L
+Repeat, 10
+   3
+   4,L
+EndRepeat
+  88
+   1,O
+  49
+   1,L,D,J
+   5,L
+   1,K,G
+   1,R
+   1,L
+   1,J,G
+   6,R,J
+   2,R
+   1,L
+   1,J,G
+  28,R,J
+   1,K,G
+   2,R
+   1
+   1,R
+   1
+   1,R
+   1,L
+  22,L,J
+   3,L
+  10,G
+   3,U,G
+  37,G
   30,L,J,G
   96
    7,L,D,J
@@ -4974,7 +4978,7 @@ EndRepeat
  163,R
 
 #Time
-ChapterTime: 9:58.145(35185)
+ChapterTime: 9:58.026(35178)
   32,R
 
 #Dashes: 210x
