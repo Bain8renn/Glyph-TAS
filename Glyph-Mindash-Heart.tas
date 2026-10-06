@@ -1,4 +1,4 @@
-RecordCount: 26014
+RecordCount: 26239
 
 console load BeefyUncleTorre/map/1
    1
@@ -674,17 +674,6 @@ EndRepeat
 Read,Glyph-Mindash,lvl_cold-02,lvl_cold-06 (0)
 
 #lvl_cold-06 (0)
-
-
-
-
-
-
-
-
-
-
-
   14,L
    5,L
    1,L,J
@@ -714,7 +703,6 @@ Read,Glyph-Mindash,lvl_cold-02,lvl_cold-06 (0)
    7,L
 
 #lvl_peace-21 (0)
-
    5,L
   44,L,G
   26,L,U,G
@@ -733,48 +721,43 @@ Read,Glyph-Mindash,lvl_cold-02,lvl_cold-06 (0)
    1,L,J
 
 #lvl_cold-06 (1)
-  25,L,J
+#any%-end
+  23,L,J
+   1,J
+   1,L,J
    2,J
    1,G
    1,J,G
-   2,R,J
+   1,R,J
+   1,L,J
    1,L,K,G
-   1,R,K
-   5,L,K
-   2,L
+   4,R,K
+   7,K
    2
-   2,L
-   2,L,J
-   5,L
-
-
-
-
-
-
-
-#any%-end
-   1,J,G
-   4,L
-   4
-  18,R
-  10,R,D
-  16,D
+   3,L
+   1,L,K
+   1,L
+   8,L
+  17,R
+   5,R
+  21,R,D
    1,J
-  23,R
+   4
+   7,R
+   1,R
+  13,R
+   1,R,D
    1,R,D
    1,R
-   2,R,D
-   1,R
-   1,R,D
-   1,R,D,J
-  22,R,D
+   5,R,D
+   1,R,J
+  18,R
    9,L,D
 
 #lvl_peace-21 (1)
    6,G
-  69,R,U,G
-  36,R,G
+  54,R,U,G
+  51,R,G
    1,J,G
    1,R,J
   38,R,K
@@ -1001,48 +984,51 @@ EndRepeat
    1,L,K,G
    9,L
    1,L,J
-  32,L
-   1,J,G
+  18,L
+   5,L,D
+   1,L,D
+   2,L
+   6,J,G
 
 #lvl_cold-06 (2)
-   2,J
+   2,J,G
    4,R,J
+   4,K,G
+#any%-start
+   1,L,K
+   1,R,K
+   1,J,G
    1,L,J
-   3,K,G
-   1,R,K
-   1,J,G
-   6,L,J
-   5,J
-   2,K,G
+   1,L,K,G
+   1,L,J,G
+   1,K,G
+   3,L,K
    1,R,K
    1,L,K
    1,J,G
-   3,R,J
-   7,J
-   5,K,G
-   1,L,K
-   6,K
-   5,J,G
-   1,R,J
+   6,R,J
    1,L,J
    1,K,G
    3,R,K
-   5,K
-   3,J,G
-   1,L,J
-   1,K,G
+   1,J,G
+   4,L,J
+   2,K,G
    1,R,K
    1,L,K
-   1,J,G
+   9,J,G
    1,R,J
-   2,K,G
-   1,L
-   1,R
+   1,K,G
+   1,R,K
+   3,L,K
+   1,J,G
+   4,R,J
+   1,K,G
+   1,L,K
+   1,R,K
    1,J,G
    1,L
    1,L,K,G
    1,L,J,G
-#any%-start
    1,L
    1
    7,L
@@ -1777,6 +1763,6 @@ EndRepeat
   44,R,D
 
 #Time
-ChapterTime: 12:57.733(45749)
+ChapterTime: 12:57.274(45722)
 
 #Dashes: 315x
