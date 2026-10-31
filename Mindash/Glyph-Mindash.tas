@@ -1,4 +1,4 @@
-RecordCount: 24879
+RecordCount: 24999
 
 console load BeefyUncleTorre/map/1
    1
@@ -3986,40 +3986,52 @@ EndRepeat
   40
 
 #lvl_memory-08a (0)
-  15,R
-   2
-   1,R
-   5,R,J,G
-   1,R,K,G
-   4,L,K
-   7,R,K
-   1,R,J,G
-   8,R,K,G
-  16,U,X
-  13,L,J
-   5,L
-  20,L
-   6,L,D
-  17,L,X
-  18,L,C
-   6,L
-
-#lvl_memory-08b
-   5,L
-  11,L,D
-   1,L,J
-  14,L
-   1,L,J
-  14,L
-   1,L,J
-  14,L
-   1,L,J
-  14,L
-   1,L,J
    9,L
-  19,L,J
-  34,L,K
+   1,L,J,G
+   2
+   1,L,J,G
+   3,R,J
+   3,L,J
+   2,L
+   1,L,K,G
+   1,L,J,G
+   9,L
+   1,L,J
+  26,L
+   1,L,N
+  35
+
+#Expand Bino
+Repeat,9
+ 158,L
+   1,X
+  23
+   1,N
+  34
+EndRepeat
+#-----
+
+#Spinner Cycle [memory-08a (0)]
    1
+#-----
+
+  89,L
+   1,X
+  19
+  10,L,X
+  12,L,J
+   6,L
+   1,L,K,G
+  11,L
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+   1,L,J
+   9
+  31,J
+  22,L,J
+  35,L,K
    1,L,J,G
    2,L,K,G
   11,L
@@ -4986,7 +4998,8 @@ EndRepeat
  163,R
 
 #Time
-ChapterTime: 9:57.754(35162)
+ChapterTime: 10:32.604(37212)
+
   32,R
 
-#Dashes: 210x
+#Dashes: 208x
