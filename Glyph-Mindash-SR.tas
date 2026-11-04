@@ -1,0 +1,5925 @@
+RecordCount: 30255
+
+console load BeefyUncleTorre/map/1
+   1
+
+#Start
+ 190
+
+#lvl_crane-01
+Read,Glyph-Mindash,lvl_crane-01,lvl_memory-00
+
+#lvl_memory-00
+  15,R
+   2,R,D
+   1,R,J
+  14,R
+   1,R,J
+  35,R,D
+   3,R
+   1,R,J
+   8,R
+   1,R,J
+   1,R
+   1,R,J
+  10,R,D
+   1,R,D,J
+  13,R
+   1
+   6,R,J
+   6,R
+   1,J
+   1,R,K,G
+   1,R,J,G
+   3,R
+   1
+   5,R
+   1,R,J
+  21,R
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+   1
+   4,R
+   4,R,J
+   1,R,K,G
+  10,R
+  16,R,J
+   1,R,K,G
+   1,K
+   4,L,K
+   7,R,K
+  13,R,J,G
+   6,K,G
+   1,L,K
+  13,R,J,G
+   5,R,K,G
+   7,R
+   1,L,J
+   9,J
+   1,R,K,G
+   4,L,K
+   7,R,K
+   1,J,G
+  10,R,J
+   1,L,J
+  14,R,K,G
+   1,J,G
+   1,L,J
+  11,R,K,G
+   2
+   8,R,J,G
+   7,R
+  12,R,J
+  12,R,K,G
+  11,J,G
+   1,L,J
+   1,R,K,G
+   1,L,K
+  11,R,K
+  14,R,J,G
+   3,R,K,G
+   7,R
+  12,R,J
+  11,K,G
+   1,L,K
+   1,R,J,G
+   1,L,J
+  10,R,J
+   7,K,G
+   1
+   1,L
+  12,R,J,G
+   7,R
+  12,R,J
+  11,K,G
+   1,L,K
+  14,R,J,G
+  11,K,G
+   1,L,K
+  10,R,J,G
+   2
+   9,R,K,G
+   2,R
+   2
+   1,L
+   1,R
+   1,L
+   1,R,D,J
+   1,R,J
+   1,R,J
+   2,R
+   1,R,K,G
+   1,R,J,G
+   9,R
+  12,R,J
+   5,R
+   1,R,J
+  11,R
+   2,R,K
+  10,K
+   1,L,K
+  12,J,G
+  10,K,G
+   2,R,K
+   1,L,J,G
+   6,J
+   1,R,J
+   1,L,J
+   3,J
+   4,K,G
+   1
+   1,L,J,G
+   3,J
+   3,R,J
+   5,L,J
+   7,L
+   1,L,J
+  12,J
+  11,K,G
+   2,R,K
+   1,L,J,G
+  14,J
+   9,K,G
+   1,L,J,G
+   3,J
+   3,R,J
+   5,L,J
+   7,L
+   1,L,J
+  11,J
+   1,K,G
+   1,L,K
+   7,K
+   1,L,K
+   1,R,K
+   1,L,K
+  13,L,J,G
+   7,K,G
+   1,L,K
+   1,K
+   1,L,K
+   1,R,K
+   1,L,K
+  13,L,J,G
+   1,K,G
+   1,R,K
+   1,L,J,G
+  12,J
+   1,L,K,G
+   3,K
+   3,R,K
+   5,L,K
+   7,L
+   4,J
+   2,L,J
+   7,J
+   1,K,G
+   2,R,K
+   1,L,J,G
+   1,R,J
+  10,J
+   3,L,K,G
+   2,K
+   1
+   1,L,J,G
+   3,R,J
+   5,L,J
+   7,L
+  12,L,J
+   9,K,G
+   1,L,K
+   1,R,K
+   1,L,K
+  13,L,J,G
+   7,K,G
+   1,L,K
+   1,K
+   1,L,K
+   1,R,K
+   1,L,K
+  13,L,J,G
+   9,K,G
+   1,L,K
+   1,R,K
+   1,L,K
+  13,L,J,G
+   1,K,G
+   1,L,K
+   1,R
+   1,L
+  12,L,J,G
+   7,L
+   2,L,J
+  12,L,K,G
+#TimeActive Manip
+#Fastest is 3,K,G, changing it changes how long the game is in the slowmode cutscene for, and affects DeltaTime, which in turn affects the TimeActive
+   3,J,G
+   1
+   2,K,G
+   1
+  43,U,X
+  53,U,X
+#Base
+#    4,J,G
+#    3,K,G
+#   86,U,X
+#-----
+
+#lvl_ch1-peace-00
+  40,D
+
+#Spinner Cycle [peace-02]
+   0,D
+#-----
+
+   1,L,D
+   1,D
+ 108,R,D
+   3,R
+  40
+
+#lvl_peace-000
+Read,Glyph-Mindash,lvl_peace-000,lvl_peace-02
+
+#lvl_peace-02
+  10,R
+   1,R,J
+  14,R
+   1,R,J
+   9,R
+  12,R,J
+  22,R,K
+   2,R
+   2,R,J,G
+   1,L,J
+   1,R,J,G
+   1,K,G
+   5,K
+  16,R,K
+StunPause
+  11,R,K
+SkipInput,3,1
+  15,R,U,X
+  21,R
+SkipInput,3
+  10,R,D
+SkipInput,3,1
+  15,R,U,X
+   2,R
+   1,R,J,G
+   1,R,K,G
+   2,R
+EndStunPause
+  11,R
+
+#Spinner Cycle [peace-04]
+
+#+0f
+   1,R,J
+   2,R
+   5
+   1,R
+#---
+
+
+#+1f
+#    1
+#    1,R,D,J
+#    4
+#    4,R
+#---
+
+#+2f
+#    2
+#    1,R,D,J
+#    4
+#    4,R
+#---
+
+#-----
+
+  40
+
+#lvl_peace-03
+   6,R
+   7,R,J
+  18,R
+  11,R,D
+   1,L,D
+   1,R,D
+   1,L,D
+   5,L
+  40,L,J
+   8,K
+   3
+   7,L
+  12,R,J
+   5,R
+   6,R,J
+   4,L,J
+   6,L
+   4,R
+   1,L
+   1,R,D
+   1,R
+   1,R
+   1,J
+   1,R,J
+   2
+   1,R
+   2
+  27,R,K
+  17,R
+  13,R,D
+   8,L,D
+  40
+
+#lvl_peace-04
+   5,L,D
+StunPause
+   1,L,D
+   1,D
+   8,L,D
+  11,L,J
+  24,L,D
+   1,L
+   3,L,D
+  13,R,D
+   1,D
+   1,R,D
+   1,D
+SkipInput,3,1
+  11,R,Z
+EndStunPause
+  16,R,Z
+   1,R,J
+   2
+  12,R
+   1,R,J
+   8,R
+   1,R,J
+   1,R
+   1,R,J,G
+  12,R,K,G
+  40
+
+#lvl_peace-05
+   7,R
+   9,U,X
+  21,R,J
+   1,J
+  11,R,J
+   5,R
+  15,R,Z
+  16,L
+  31,R,D
+   7,L,D
+  15,R,U,Z
+  12,L,J,G
+  12,L,K,G
+   3
+   2,L,J,G
+   2,L,K,G
+   1,L,J,G
+   1,K,G
+   3
+   1,R
+   2,L,J
+   6,L
+   2,L
+   1,J,G
+   3
+   1,L,K,G
+   1,J,G
+   2,J
+   1,R,J
+  13,L,J
+   2,R,J
+  13,L,K,G
+   1,L,J,G
+   9,L
+   1,L,J
+   4
+  14,L,J
+   8,K,G
+   1,L,K
+   1,K
+   1,L,K
+   1,R,K
+   1,L,K
+  13,L,J,G
+  40
+
+#lvl_peace-06 (0)
+   2,R,J
+  11,R
+   1,L
+   1,L,D
+
+#Drift wait [peace-06 (0)] A
+#Multiple of 3
+1875
+#-----
+
+#Spinner Cycle [peace-06 (0)] A
+   0
+#-----
+
+   5,L
+   1,L,J
+  14,L
+   1,L,J
+  22,L
+   1,L,D,J
+   1,L
+StunPause
+   4,L
+   3,L,J
+   1,L
+   1,L,J,G
+EndStunPause
+StunPause
+   2,L,J,G
+   7,L
+   1
+   1,L
+   1,R,J
+   6,R
+   2,J,G
+   1,R,J
+   1,J
+  21,L,J
+   4,L
+SkipInput,3,1
+  15,L,X
+   8,L
+   9,R
+   1,R,D
+  15,L,J
+   7,K,G
+   1,R,K
+   1,L,K
+   1,L,J,G
+   1,R,J
+   9,L,J
+EndStunPause
+  11,L,J
+
+#Drift Wait [peace-06 (0)] B
+#Each repeat loop is a multiple of 3. The last line after the loop is 3f or 6f
+Repeat,310
+   5,G
+   1
+EndRepeat
+   3,G
+#-----
+
+#Spinner Cycle [peace-06 (0)] B
+   0,G
+#-----
+
+   1,J,G
+   1,K,G
+   6,J,G
+   1,L,J
+  12,K,G
+   1,L,K
+   1,R,K
+   1,L,K
+   1,L,J,G
+StunPause
+   1,L,J,G
+  11,L,J
+   1,K,G
+   3,L,K
+   5,K
+   1,L,K
+   1,R,K
+   1,L,K
+  13,L,J,G
+  11,K,G
+   1
+   1,J,G
+   1,R
+   1,R,K
+  20,R,J
+   1,L,K,G
+   7,L
+   1,G
+   6
+Repeat,14
+   1,G
+   1
+EndRepeat
+   4,G
+   1,L,J,G
+   2,L
+EndStunPause
+#Part of stun, used to half gravity.
+   1,S,N
+  10,J
+   2,L,J
+StunPause
+   9,L,J
+   2,L,K
+EndStunPause
+  22,L,K
+
+#Spinner Cycle [peace-07]
+
+#+0f
+#    4,J,G
+#    1,R,K
+#---
+
+#+1f
+   2,J,G
+   3
+   1,R,K
+#---
+
+#+2f
+#    1,J,G
+#    5
+#    1,R,K
+#---
+
+#-----
+
+  27,R,J
+   1,K,G
+   1,L,K
+   4,R,K
+  40
+
+#lvl_peace-07
+   8,R
+  14,R,J,G
+  15,U,X
+StunPause
+   4,R
+  32,R,J
+   1,J
+   1,R,J
+   1,J
+   1,K,G
+  14,R,K
+   1,J,G
+   1,L,J
+   8,R,J
+   8,R
+   1,R,J
+   2,R
+   1
+   2,R
+   1
+   9,R,J,G
+   5,R
+   5,R,J
+   2,L,K
+EndStunPause
+  12,L,K
+   1,R,K
+   1,J,G
+   1,L,J
+  24,R,J
+   2,R,K,G
+   7,R
+   2,D,J
+   1,R,J
+   1,J
+   1,R,J
+   1,J
+  15,U,X
+   3,R
+  12,R,J,G
+  10,R,K,G
+  40
+
+#lvl_peace-08
+Read,Glyph-Mindash,lvl_peace-08,lvl_peace-09
+
+#lvl_peace-09
+
+#Spinner Cycle [peace-09]
+
+#+0f
+  10,R,D
+#-----
+
+#+1f
+#    4,D
+#    2,R,D
+#    1,D
+#    3,R,D
+#    1,R
+#-----
+
+#+2f
+#    5,D
+#    1,R,D
+#    1,D
+#    3,R,D
+#    1,R
+#    1,R,D
+#---
+
+#-----
+
+   1,R,J
+   8,R,D
+StunPause
+  24,R,D
+   6,D
+  10,R,J
+  29,R
+   1,R,D
+   1,R
+   3,R,D
+   1,R
+   1,J,G
+   2,R
+EndStunPause
+   1,S,N
+  10,J
+   1,J
+   1,R,J
+StunPause
+   4,J
+EndStunPause
+   1,R,J
+   5,L,J
+   8,L,K
+StunPause
+  19,L,K
+  48,L
+   1,L,D
+   1,L
+   3,L,D
+   2,L,J,G
+   2,R,J
+   1,L,J
+   8,L
+  16,L,D,J
+   3,K,G
+EndStunPause
+   8,K
+   1,R,K
+   1,R,J
+   2,R,K
+   2,L,J
+   1,R,K
+StunPause
+   1,R,K
+Repeat,5
+   2,L,J
+   2,R,K
+EndRepeat
+   8,R,K
+   1,R
+   1,R,J,G
+   3,L,J
+   1,R,J
+   7,R
+   8,R,J
+   5,R
+   2,R,J
+   1,R
+   1,R,J
+   1,R
+   2,R,J
+   5,R
+   2,R,J
+EndStunPause
+   7,R,J
+  38,R
+  15,R,D
+   2,R
+  27,L,J
+  41,L
+  18,L,D
+  40
+
+#lvl_peace-06 (1)
+   1,S
+   1,U
+   1,F,
+   1,U,J
+SaveAndQuitReenter
+  36
+
+#Drift Wait [peace-11]
+5418
+#-----
+
+#Spinner Cycle [peace-11]
+   0
+#-----
+
+   1,L,J
+  12,L
+  33,R,D
+   1,R,J
+  20,R
+   7,R,Z
+  40
+
+#Normal Inputs
+#   13,L,D
+#    1,L,J
+#    8,L
+#   37,R,D
+#    1,R,J
+#   20,R
+#    7,R,Z
+#   40
+#-----
+
+#lvl_peace-11
+   3,R,Z
+   1,R,J
+   7,R
+   5,R,J
+StunPause
+   7,R,J
+  23,R
+SkipInput,3,1
+  13,R,U,Z
+EndStunPause
+   2,R,U,Z
+  21,R,D
+   1,R,J
+  18,R
+   1,R,J
+   7,R
+  40
+
+#lvl_ch2-peace-12
+   1,R
+   2,R,J
+   2,R
+   3
+  10,R,Z
+   1,R,J
+   6,R
+   4,R
+  56,R,K
+
+#lvl_heat-00
+  11,R
+   2
+   1,R
+   1,R,J,G
+   7,R,K,G
+  18,R
+
+#Spinner Cycle [heat-00-03] A
+
+#+0f
+#   42,D
+#---
+
+#+1f
+  11,D
+   3
+   8,D
+   1
+  20,D
+#---
+
+#+2f
+#   10,D
+#    5
+#   29,D
+#---
+
+#-----
+
+  49,L,D
+   5,L
+  10,L,J
+   5,L
+   3,L,J
+   3,L
+   1,L,J
+   1,L,J,G
+   1,L,K,G
+   5,L
+   3,L,J
+  26,L,D
+   1,L,J
+  19,L
+  10,L,J
+  23,L,D
+   8,D
+  40
+
+#lvl_heat-00-01
+   6,R,D
+  24,D
+   2
+   1,L
+   1
+   2,L
+  19,R
+  15,R,Z
+  21,L
+  13
+  15,U,X
+   1,L
+  18
+   2,G
+   4
+  25,L
+  34,D
+   8,R
+   6,R,D
+  27,R
+  18,R,U,X
+   1,R,J,G
+   3,L,J
+   1,R
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+  13,R
+   1,R,J
+   9,R
+  40
+
+#lvl_heat-00-02
+   5,R
+   1,R,J
+  19,R
+ 116,D
+  15,R
+  21
+  14,D
+   4,L,J
+   3,L
+   7,R
+   3
+   6,R
+   7,G
+   2,D,G
+   1,G
+   2,D,G
+   1
+   1,R,J,G
+   1,R,K,G
+   1,J,G
+   6,R
+   1
+   2,R,D
+   1,R
+   1,L
+   7,R,U
+  25,U
+  15,L,U
+  63,U
+   1
+   1,J
+   4
+   5,R
+   1,R,J
+   1,R
+   2
+   1,R
+   1
+   2,R
+   1,R
+   1,G
+   4
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   7,R
+   5,R,J
+   1,R
+   3,R,J,G
+   7,R
+  40
+
+#lvl_heat-00-03
+   4,R
+   1,R,J
+   1,R
+StunPause
+   9,R
+   1,R,G
+  15
+   3,G
+   1,J,G
+   1,L,J
+   2,R,J
+   5,R
+  10,R,J
+   5,R
+   1,R,J,G
+   8,R,K,G
+   5,R
+   6,R,J
+   1,J
+   3,R,J
+   6,R
+EndStunPause
+   9,R,D
+  10,L,D
+   1,J,G
+  10,R
+  28,L
+  16
+
+#Spinner Cycle [heat-00-03] B
+
+#+0f
+  39,G
+   6,J,G
+#---
+
+#+1f
+#    6,G
+#    2,U,G
+#    2,G
+#    2,U,G
+#   28,G
+#    4,J,G
+#    2
+#---
+
+#+2f
+#    6,G
+#    2,U,G
+#    2,G
+#    2,U,G
+#    2,G
+#    2,U,G
+#   25,G
+#    4,J,G
+#    2
+#---
+
+#-----
+
+#lvl_peace-23
+   1,K,G
+   2,L
+StunPause
+   5,L
+   1,R
+   1,L,J
+  11,L
+   3
+   1,G
+   4
+   1,G
+   2,J,G
+   1,L
+   1
+EndStunPause
+   2
+StunPause
+   1
+   4,L
+   2,R
+  41,R,J
+  16,G
+   1,J,G
+   1,L,J
+   1,R,K,G
+   1,L,K
+EndStunPause
+  26,R,K
+   1,J
+  14,L
+   1,J
+   7,L
+   1,R,J,G
+   6,R
+   1,R,J,G
+   7,R
+   1,R,D,J
+  14,R
+   1,R,J
+   7
+   1,L,J
+   1,R,J
+   1,L,J
+   1,J
+   1,R,J
+   1,J
+   1,L,J
+   1,J
+   1,R,J
+   1,L,J
+   2,J
+   9
+   8,J
+   9
+   1,G
+   1
+   1,R,K
+  12,R,J
+  31,R
+   1,R,J,G
+   1,R,K,G
+  11,R
+  31,R,J
+  11,K,G
+   1,L,J
+  16,L,K
+   4,J,G
+   1,R,J
+   1,J
+  40
+
+#lvl_heat-00-04
+   1,L
+   1,L,J,G
+   3,L,K,G
+   5,L
+   3,L,J
+   4,L
+   1,J,G
+  11,J
+   1,R,J
+  11,L,K,G
+   7,L
+   1,L,G
+   1,R,J
+   9,R,K
+   5,R
+   1,R,J
+   1,R
+   1,R,J
+   8,R
+   2
+  12,L,J
+  42,L
+  12,R,J
+  22,R
+  12,L,J
+  22,L
+  12,R,J
+  22,R
+  12,L,J
+  22,L
+   4,R,J
+  16,R
+   2,D
+Repeat, 50
+   2
+   2,D
+EndRepeat
+Repeat, 15
+   2,R
+   2,L
+   2,D
+   2,L
+   2,R
+   2,D
+EndRepeat
+   1,J
+  14
+Repeat, 107
+   1,R,D
+   1,L,D
+EndRepeat
+   1,J
+  14
+Repeat, 14
+   2,R
+   2
+EndRepeat
+   2,R
+  20,J
+   1,L,J
+  50,G
+  30,L,J,G
+  96
+   7,L,D,J
+  19,L
+  22,R
+  60
+   6,L
+   1,L,J
+  14,L
+  12,L,D,J
+  32,R,J
+   9,R,K
+  32,D
+  10,L,J
+   7,L
+   2,L,J
+   9
+   1,L
+   2
+   1,L
+   3
+   9,R
+   1,R,J
+   7
+   1,L
+   2,L,J
+   5,L
+   1,L,J
+   8,L
+   1,L,J
+   5,L
+   1,L,D
+   3,L,J
+   5,L
+   9,L,J
+   1,L
+   1,R
+   1,R,K,G
+   1,R
+   1,L
+   3,R
+  22,R,J
+  12,R,K
+  16,R
+  13,R
+   5
+   1,R
+   1,R,D
+   7
+  27,L
+   9,L,J
+  16,J
+   1,R,J
+   1,J
+   1,R
+  15
+  25,R
+   6,L
+   3,L,J
+  11,L
+   5
+   7,R
+   4
+   2,R
+   2
+   1,D
+   1
+   1,L
+  30
+   1,J
+   2
+  12,L
+   1,L,J
+  14,L
+   4,L,D
+  19,L,J
+  12,K,G
+   2,J,G
+   1,R,K
+  40
+
+#lvl_heat-00-05 (0)
+  12,L,J,G
+   9,L
+   3
+
+#Drift Wait [heat-00-05 (0)]
+#Multiple of 3; waiting for as long as possible before the 1st part of this stun strat helps with drift wait, as pausing doesn't advance TimeActive.
+ 321
+#-----
+
+#Spinner Cycle [heat-00-05 (0)]
+   2
+#-----
+
+   1,R,J
+  21,R
+   2,R,J
+   5,R
+   3,L
+   4,L,J
+   7,R,J
+   9,R
+   1,R,J
+  14,R,D
+   1,R,J
+  17,R
+StunPause
+   1,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   3,R,J
+   5,R
+   2,R,J
+   5,R
+   1,R,J,G
+   1,R,K,G
+   9,R
+  17,R,J
+  11,K,G
+   1,L,K
+  25,R,J,G
+  12,L,K
+   1,R,J,G
+   2,J
+   7
+   6,G
+   1,U,G
+   1,G
+   1
+
+#Drift Wait [peace-24]
+#This drift wait is in the stun. The multiples thing isn't true, in this case. Instead, it's meant to be an odd total number of frames, not including stun frames.
+Repeat,8
+   5,G
+   1
+EndRepeat
+   3,G
+EndStunPause
+StunPause
+   1,G
+EndStunPause
+StunPause
+   1,G
+   1
+Repeat,9
+   5,G
+   1
+EndRepeat
+  11,G
+#-----
+
+   1,L,J
+   6,L,K
+EndStunPause
+   5,L,K
+   4,L
+   1,R
+   9,R,J
+
+#lvl_peace-24
+   1,R,J
+   2,R,D
+StunPause
+  19,R,D
+   1,R,J
+  12,J
+   3,K,G
+EndStunPause
+  12,K
+  10,J,G
+   1,L,J
+   1,R,J
+   1,K,G
+   1,L,K
+  10,R,K
+   5,R
+   7,R,J
+   5,R
+  10,G
+   1,L,J
+  19,K
+   2,J
+  24,K
+  17,J
+   2,L
+   1,J
+  13,L,J
+
+#lvl_heat-00-05 (1)
+   3,L,J
+   7,K,G
+   1,L,K
+   1,K
+   1,L,K
+   1,R,K
+   1,L,K
+  13,L,J,G
+   1,K,G
+   3,L,K
+   5,K
+   1,L,K
+   1,R,K
+   1,L,K
+  13,L,J,G
+  12,K,G
+   2,J,G
+   1,R,J
+   1,J
+  11,R,K
+  16,R,K
+  36,R
+   5,R,D
+  15,R,U,X
+   4,R
+   1
+  25,R
+   1,R
+  15,R,X
+   4,R
+   1,R,J,G
+   5,R,K,G
+   7,R
+   3,R,J
+   7,R
+  40
+
+#lvl_heat-00-06 (0)
+   1,R
+   8,R,Z
+   1,R,J
+   8,R
+   9,R,J
+   8,R
+  18,R,J
+   5,R,U,Z
+  18,R
+
+#lvl_peace-25
+  14,R
+   5,R,Z
+  29,R
+  30,R,U,Z
+
+#lvl_heat-00-06 (1)
+   7,R
+   2,R,D
+
+#Spinner Cycle [peace-13]
+
+#+0f
+   1,R,J
+  14,R
+#---
+
+#+1f
+#    1,R,D,J
+#   15,R
+#---
+
+#+2f
+#    1,R,D,J
+#    1
+#   15,R
+#---
+
+#-----
+
+   1,R,J
+  14,R
+   1,R,J
+   4,R
+  40
+
+#lvl_heat-02
+  10,R
+   1,R,J
+  24,R
+   6,R,J
+  32,R,G
+  11,J,G
+   1,L,J
+  12,R,K,G
+   2,R
+   5
+   1,R
+   7
+   1,J
+   8
+   1,R
+   1
+   5,R
+   1,R,J
+
+#lvl_peace-13
+   3,R
+StunPause
+  17,R,D
+   2,L,D
+EndStunPause
+  13,L,D
+   1,D
+  51,G
+   1,D,G
+   1,G
+   3,U,G
+   1,L,J,G
+   1,L,K,G
+   9,J,G
+   3,R,J
+   1,K,G
+   1,R,K
+   1,L,K
+   2,R,J,G
+   6,R,K,G
+   7,R
+   1,R,D,J
+   3
+  11,R
+   1,R,D,J
+   3
+   8,R
+   1
+   1,R
+  40
+
+#lvl_peace-14
+   1,R
+   1,R,J
+  14,R
+   1,R,J
+  18,R
+   3,R,D
+   3,R
+   1,R,D
+   7,R
+   1,G
+  12,J,G
+   7
+  37,G
+
+#lvl_heat-03 (0)
+   1,R,J,G
+  18,R
+   1,R,J
+   2,R
+   6
+   5,D
+   6,L,J
+   4,L
+   3
+   1,L
+   2
+   2,L,D
+   1
+   1,R
+   1
+   1,R
+   1,R,D
+  33
+   3,L
+   1,L,J
+
+#lvl_peace-14b
+   1,L,J
+  11,L
+  16
+   3,D
+   1,L,D
+   3,D
+   1,R,J,G
+   4,R
+   3
+  60,G
+
+#lvl_heat-03 (1)
+   9,R,J,G
+  18,R
+  25,R,D
+
+#Spinner Cycle [heat-05]
+
+#+0f
+   1,R,J
+  26,R
+   1,R,D
+   1,R
+   1
+   1,R
+   1
+#---
+
+#+1f
+#    1,R,D,J
+#    1
+#   30,R
+#    1
+#---
+
+#+2f
+#    1,R,D,J
+#    5
+#   25,R
+#    1
+#    1,R
+#    1
+#---
+
+#-----
+
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+  11,R
+   1,R,J
+   1,R
+  40
+
+#lvl_heat-04
+  13,R
+   1,R,J
+  11,R
+   4
+   1,L,J
+   5,L
+   1,R
+   6
+   2,R
+   1,R
+   1,R,D
+   1,R
+   1
+   1,G
+   2
+   2,G
+   3
+   1,R
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+  19,R
+   5,R,D
+   2,R,D
+
+#lvl_peace-15
+   7,R,D
+   3,D
+   2,R
+   1,G
+   9,J,G
+   1,L,J
+   2,R,J
+  19,R
+   3,R,D
+  10,G
+  10,J,G
+   2,L,J
+   7,R,K,G
+  12,L,K
+   1,L,J,G
+   2,R,J
+   2,L,J
+   1,K,G
+   5,L,K
+   1,L
+   1,L
+   1,R
+   9,R,J
+   1,R,K,G
+   1,R,J,G
+   9,R
+   1,R,J
+   6,R
+  40
+
+#lvl_peace-16
+   8,R
+   1,R,J
+   7,R
+   5,R
+   5,R
+  14,R,Z
+  10,R,J
+   5,R
+   2,R,J
+   9,R
+   3,R,D
+   9,L,D
+
+#lvl_heat-05
+   5,L,D
+   1,R,D
+   2,D
+StunPause
+  33,D
+   5,L,D
+   1,R,D
+EndStunPause
+  54,R,D
+  40
+
+#lvl_heat-06
+   1,S,N
+   1,D,J
+  69,O
+
+#Spinner Cycle [heat-06]
+   1
+#-----
+
+   1,L,J
+   7,J
+   1,K,G
+   1,R,K
+   1,L,J,G
+   3,J
+   1,R,J
+   2,J
+   5
+   1,N
+  34
+  36,D
+   1,X
+  19
+   3,R
+StunPause
+   2,R
+   1,R,J
+  33,R,D
+   6,R
+   1,R,D
+   1,R
+   1
+   2,R,J
+  11,R
+   1,L
+EndStunPause
+   6,L
+  10,L,D
+   3,L
+   1
+   1,L,D
+   1
+  23,R
+   4
+   1,J,G
+   7
+   1,G
+   1,R,J
+   3,L,J
+   5,R,J
+   1,R,K,G
+   3,R,J,G
+  10,R
+   8,R,D,J
+   1,R
+   9
+   1,L,G
+  22,G
+  21,R,G
+   2,G
+  52,R,G
+  28,R,D,G
+   6,R,G
+   1,R,J
+   7,R,K
+  14,R
+
+#lvl_peace-17
+  32,R,D
+   1,R,K
+  25,R,D
+  32,R,D,O
+  37,O
+
+#Spinner Cycle [heat-07]
+   2
+#-----
+
+  10,R,J
+  40
+
+#lvl_peace-18
+   2,R,J
+   5,R
+   6,R,J
+   3,R
+   1
+  16,U,X
+  13,R,J
+  26,R
+   3,R,D
+   1,R
+   1,G
+   1,J,G
+   1,L
+   1,R,K,G
+   7,K
+   1
+   6,R
+   1,R,J,G
+   3
+  17,R
+   5,R,J
+   5,R
+   3,R,J
+   5,R
+   1
+   1,R,J,G
+   1,R,K,G
+   9,R
+  24,R,J
+   3,R,K,G
+   1,R
+   1,R,J,G
+   2,R
+   1,R,J,G
+   3,L,J
+   3,R,J
+   2,J
+   1,L,J
+   1,R,J
+   1,J
+   1
+   6,R
+   9,R,J
+   5,R
+   9,R,J
+   3,R
+  15,R,X
+  14,R
+   6,R,D
+
+#lvl_heat-07
+   2,R,D
+  16,D
+   2,L,D
+   2,R,D
+   3,D
+   1,L,D
+   3,L
+   3
+   7,L,J
+   6,L
+StunPause
+  16,L
+   1,L,D
+   2
+   1,G
+   1,J,G
+   1,R
+   5,L,K,G
+   9,L
+   1,L,K,G
+   2,L
+   1
+   8,L
+  12,L,D,J
+   5,L
+   9,L,J
+  10,L
+SkipInput,3,1
+  13,L,U,Z
+EndStunPause
+   2,L,U,Z
+  14,L
+   2,J,G
+   1
+   1,R
+  14,L,K,G
+   1,L,J,G
+   1,L,K,G
+   9,L
+   3,L,J
+   7,L
+   1,L,J
+   1,L
+   2,L,J
+   9,L
+   1,G
+   1,J,G
+   2,R,J
+   4,L,K,G
+   4,L
+   2
+   7,L
+   1,L,J,G
+   7,L
+  12,L,D,J
+   5,L
+   7,L,J
+  13,L
+   2,L,D
+   1,L,K,G
+   1,L,J,G
+   9,L
+   1,L,J
+  14,L
+   1,L,J
+   2,L
+  40
+
+#lvl_ch3-heat-08
+  12,L
+   7,L,J
+   5,L
+   4,L,J
+   2,L
+   1,L,J
+   6,L
+   2
+   1,L
+   7,L,J
+   3,L
+   1,L,K,G
+   1,L,J,G
+   3
+   6,L
+   2,L,J
+   5,L
+   4,L,J
+   2,L
+   1,L,J
+   7,L
+   1
+   1,L
+   1
+   1,L
+   1
+   1,L,J
+   1,L,K,G
+   1,L,J,G
+   2
+   7,L
+
+#lvl_memory-01
+  10,L
+   1,L,J
+  21,L
+   1,L,J
+  16,L
+   2
+   1,L
+   1,L,D
+   1,L,J
+   1,L,K,G
+   1,L,J,G
+   7,L
+   1,L,J
+   3,L
+   1,L,J
+   1,L,K,G
+   7,L
+   2,L,J
+   1,L
+   1,L,K
+   6,L
+   1,L,J
+   4,L,K,G
+   3,L
+   1,L,J,G
+   2
+
+#lvl_cold-14
+   1
+   6,L
+   6,L,J
+   6,L
+   1
+  40
+
+#lvl_cold-00 (0)
+  17,L
+   1,L,J
+   1
+   1,L
+   1,L,J,G
+   5,L,K,G
+  18,L
+   4,L,D
+   1,L,J
+   1,L,K,G
+   1,L,J,G
+   5,L
+   2,L,J
+   5,L
+   9,L,D,J
+   5,L
+   1,L
+   1,L,J
+   2,L,J
+   1,L,K,G
+  11,L,J,G
+   7,L
+   7,L,K
+   3,R,K
+   2,L,K
+   4,J,G
+   4,L,J
+   1,K,G
+   9,L,K
+   1,R,K
+   1,L
+  10,J,G
+   2,R,J
+   1,L
+   1,J,G
+   3,R,J
+   1,L,J
+   1,K,G
+   1,R,K
+   2,L,K
+  11,L,J,G
+   1
+   5,K,G
+   1
+  14,L,Z
+   1,R,J
+   6,R
+  19,R,J
+
+#lvl_peace-19 (0)
+  11,R,J
+  22,R,U,X
+  11,R,J,G
+   1
+   1,R,K,G
+   9,K
+   1,L
+   1,R
+   2,J,G
+   4
+   2,R
+   1,L
+  12,L,K
+   8,J
+  23,U,X
+  29,L,J
+   7,U,X
+
+#lvl_cold-00 (1)
+   8,U,X
+  10,L
+  15,U,X
+  10,L
+   1,G
+  12,J,G
+  11,K,G
+   1,R,K
+   1,L,J,G
+   1,R,J
+  10,L,J
+  12,K,G
+   5,J,G
+   7,L
+  12,L,J
+   1,L,K,G
+   4,K
+   1,R,K
+   1,L,K
+   1,J,G
+   3,L
+   1
+   2
+   1,R
+  18,R,J
+  15,R,U,X
+  31,R
+
+#lvl_heat-09
+   1,S,N
+   1,D,J
+  69,O
+  14,L,Z
+  28,L,J
+
+#lvl_peace-19 (1)
+  14,L,J
+   2,L,K
+   1,L,J,G
+   1,J
+   3,L,J
+   2,L
+  14,L,J,G
+  10,K,G
+   1
+   1,R
+   2,R,J
+  16,U,X
+   2,R,J
+
+#lvl_cold-00 (2)
+  17,R,J
+   1,R,K,G
+   1,K
+   3,L,K
+   3,R,K
+   2,L,K
+   2,R,K
+   1,R,J,G
+   1,R,J
+   1,R
+   3
+   1
+   1,R
+   1,R
+   3,R,J
+   2,R
+   1,R,J,G
+   1,R,K,G
+   9,R
+   1,R,J
+   4,R
+   1,R,J,G
+   5,R
+  12,R,J,G
+   7,R
+   4,R,J
+   4,K,G
+   2,L,K
+  15,R,J,G
+   1,R,K,G
+   1,R,J,G
+   6,R
+   1,R,J
+   5,R
+   1,R
+   2,R
+   2,R,J
+   2,R
+   1,R,K,G
+   1,R,J,G
+   7,R
+   1,R,J
+   3,R
+  17,R,J
+   5,K,G
+   2,L,K
+   9,R,J,G
+   3,J
+   2,K,G
+   3,R,K
+   1,L,K
+   1,R,K
+  13,R,J,G
+   1,K,G
+   6,R,K
+
+   1,L,K
+   1,R,K
+   5,J,G
+   1,L,J
+   1,R,K,G
+  10,K
+   1,R,K
+   1,J,G
+   1,R,J
+   1,L,J
+   1,R,J
+  13,R,K,G
+   5,K
+   1,R
+   1
+
+#Spinner Cycle [cold-02]
+   0
+#-----
+
+   2,L,J
+   2,L
+   1,L,J
+  10,L,K
+  18,L
+   1,G
+   1,J,G
+   1,R,J
+   1,R
+   1,L,K,G
+   6,L,K
+   5
+   3,J
+   7,L,J
+   1,L,K,G
+   1,L,J,G
+   5,L
+   1,L,D,J
+   5,L
+  10,L,J
+   1,G
+   1,J,G
+   1,R,J
+  13
+   7,G
+   1,J,G
+   1,L
+   1,R
+   1,K,G
+   1,L
+   1,L,J,G
+   1,L,K,G
+   1,L
+   1
+   3,L
+   3,L,D,J
+   8,L,D
+   1,D
+   6,L,D
+   1,G
+   1,J,G
+   1,R
+   1,L,K,G
+   2,K
+   1,R,K
+   5
+   5,K
+   8,L,K
+   1,L,J,G
+   2,L,K,G
+   1,L
+   1,L,J
+   9,L
+  12,L,D,J
+   2,L
+   1,R,J,G
+   1,R,J
+   1,L,J
+   2,R,J
+   1,R
+   1,R
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+   9,R
+   1,R,J
+   6,R,K,G
+   7,R,J,G
+   1,K,G
+   1,R
+   1
+   1,R
+   2
+   1,R
+   1,L
+  25,L,J
+   4,L
+   1,L,K,G
+   1,L,J,G
+  13,L
+   1,L,J
+  14,L
+  40
+
+#lvl_cold-01
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+   2,L,J
+  30,L
+   3,L,D
+   2,D
+   1,G
+   1,J,G
+   2,R,J
+   1,L,K,G
+   8,K
+   3
+   5,L
+   2,L
+   1,L,J,G
+   1,L,K,G
+   1,L
+   2,L,D,J
+   4,L
+   1,L,K
+  28,L,J
+   1,G
+   6,K,G
+   1,R,K
+  14,L,J,G
+   1,L,K,G
+   1,L,J,G
+   3,L
+   2,L,D,J
+   4,R,J
+  12,R,K,G
+   8,R,J,G
+   1,J
+   1,L,J
+   1,L,K
+  10,L,J
+   1,L
+   1,G
+   1,R,J
+  10,R
+   1,K,G
+   1,L
+   1,R
+   2,J,G
+   5
+   1,L,J
+   2,L
+   1,L
+   1,L
+   1,L,K,G
+   1,L,J,G
+   2,L
+   6,L,D,J
+   1,L
+   2,L,J
+   1,L
+   1
+   1,L
+   1
+   2,L
+   1,L,J,G
+   7,L,K,G
+   5,L
+   2,L,J
+  12,L
+  14,L,D
+   3,R,D
+   4,L,D
+   1,L,J,G
+   1,L,K,G
+  13,L
+   1,L,J
+  14,L
+  40
+
+#lvl_cold-02
+   1,L,J
+  14,L
+   6,L,J
+   9,L
+   2,L,J
+  14,L
+   1
+   1,L,J,G
+   1,L,K,G
+   3,L
+StunPause
+   1,L
+SkipInput,3
+   4,L
+   7,L,J
+   5,L
+  58,L,J
+  10,K,G
+   1,R,K
+   1,L,K
+   1,J,G
+   1,R,J
+  26,L,J
+   1,L,K,G
+   5,L
+   1,L,J
+   2,L
+   1
+   9,L,D
+   3,R,D
+EndStunPause
+   9,R,D
+
+#Fix Spinner Cycle (slow :C)
+   1,S,N
+  10,O
+#---
+
+   1,L,D
+   6,R
+   2,L,J
+StunPause
+  53,L,J
+SkipInput,3,1
+  15,L,U,Z
+   9,L
+   4,R
+   1,J,G
+   7,R,J
+   1,L,J
+   1,R,J
+   1,K,G
+   1,L,K
+   8,R,K
+  11,R
+EndStunPause
+   2,R
+StunPause
+   5,R
+   1,J,G
+   2,L
+   1,R,K,G
+   1,L,K
+  17,R,K
+   2,J,G
+   2,L,J
+   1,R,K,G
+EndStunPause
+   1,L,K
+  17,R,K
+   5,J,G
+   1,L
+   1,R
+   1,K,G
+   1,L,K
+  26,R,K
+   1,J,G
+   1,R,J
+   1,L
+   1,L,K
+  32,L,J
+   1,L,K,G
+   7,L
+   1,L,J
+  14,L
+   1,L,J
+   6,L
+  40
+
+#lvl_cold-03
+  12
+
+#Drift Wait [cold-06 (0)]
+  66
+#-----
+
+#Spinner Cycle [cold-06 (0)]
+   0
+#-----
+
+   5,L
+   1,L,J
+  14,L
+  12,L,J
+  25,L
+   1,L,J
+   1,L
+   1
+  15,L
+   8,L,J
+  21,L
+   1,G
+   1,R,J
+   8,R
+  29,U
+   1,R,J
+   6,R
+   3,L
+   1,L
+  10,L
+   3,L,D
+   1,L,G
+   1
+   1,G
+   1,L,J,G
+   1,L,K,G
+   1,L,J,G
+   1,L,K,G
+   7,L
+   4,L,J
+  11,L
+   1,G
+   1,R,J
+   4,R,K
+   6,R
+   1,R,J
+  14,R
+  17,R,U
+  68,U
+   4,L,U
+   1,L
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,D,K
+   5,L
+  13,L,J
+   2,L,G
+   1,R,J
+  26,R,K
+  11,R
+  46,U
+  50
+   1,L
+   1
+   3
+  16,U
+  11
+   8,U
+  22,R,U
+   7,L,U
+   3,L
+   1,L,J
+  14,L
+  11,L,J
+   3,L
+   6,R
+   1,R,J
+  22,R
+   2
+   8,R,J,G
+   4
+   2,R,J,G
+   2
+   2,R,J,G
+   5,R
+  89,D
+   3,L
+  16,R,D
+   6,R,G
+   2,R,D,G
+  41,R,G
+  10,R,J,G
+   3
+   4,R,K,G
+   7,R
+   3,R,U
+   1,U
+   1,R,U
+   1,U
+  13,R,U
+  70,U
+   1,R
+   5,L
+   1,L,J
+   8,L
+   1,G
+   1,L,J,G
+   1,L,K,G
+   1,L,J,G
+   3,L,K,G
+   7,L
+   1,L,D,J
+   3,D,J
+  40
+
+#lvl_cold-04 (0)
+   5,J
+   1,R,K,G
+  18,L,K
+
+#lvl_peace-20
+   2,L,K
+   1,L
+   1,L,K
+  10,L
+  15,L,Z
+   3,D
+
+#lvl_cold-04 (1)
+  16,D
+  13,L,D
+   2,D
+   6
+   2,L,D
+   6,R,Z
+   1,L,J
+   6,L
+  27,L,J
+   9,L
+   1,G
+   9,K,G
+   1,R
+   1,R
+   1,L,J,G
+   6,J
+   1,J
+   2,L,J
+   5,L
+   1,L,K,G
+   7,L
+  13,L,D,J
+  15,U,X
+   4,R
+   1,R
+  15,U,X
+  15,L
+   1
+   1,L,J,G
+   1,R,J
+   2,R
+   1,L
+   1,L,K,G
+   1,L,J,G
+   1,L,K,G
+  13,L
+   1,L,J
+  20,L
+  40
+
+#lvl_cold-05
+   3,L
+   1,L,J
+   3,L
+   1,L,J,G
+   3,L,K,G
+   9,L
+   1,L,J
+   7,L
+   2,R
+  15,R,D
+   5,R
+   2,R,D
+   1,D
+   1,R,J
+   1,R,K,G
+  17,R,J,G
+   1,K,G
+   4,L,K
+   1,J,G
+   1,R,J
+   1,L,K,G
+   5,K
+   1,R,K
+   3,K
+   1,L,K
+   1,K
+   1,R
+   1,J,G
+   1,J
+   1,R,J
+   2,R
+   1
+   1
+   1,R
+   1,L
+   1
+   1,L,D
+   1,L,J
+   1,L,K,G
+   2,L,J,G
+  13,L
+  12,L,K
+   5,L
+   3,L,K
+   1,L
+   3,L,K
+  25,L
+  10,L,J,G
+   5,L
+  13,L,J
+  15,U,X
+   5,L
+  26,L,J
+   1,L
+   4,L,J
+   1,L,K,G
+   2,R,K
+   3,L,K
+   1,L,J,G
+   2,L,K,G
+   7,L
+   1,L,J
+  14,L
+   1,L,J
+   5,L
+  40
+
+#lvl_cold-06 (0)
+   9,L
+   1,L,J
+  14,L
+   1,L,J
+   4,L
+StunPause
+  10,L
+EndStunPause
+   1,L,J
+StunPause
+   5,L
+   8,R
+   1,L
+   1,L,D
+   3,R,D
+   1,K
+   1,J,G
+   3
+   1,R
+   2
+   1,R
+   1,L
+   5,L,D
+  27,L,D,J
+  20,L
+  23,R
+  11,J,G
+   1,L,J
+   1,L,K
+  16,L,J
+  11,L,K,G
+   9,L
+   1,L,J
+   7,L
+   6,R,D
+   5,R
+   1,D
+  23,L,J
+EndStunPause
+  24,L,J
+   1,K,G
+   1,R,K
+  10,L,K
+  12,L
+   1
+   2,G
+   1
+   6,G
+   1,U,G
+  34,L,G
+  26,L,U,G
+   9,J,G
+   2,L,K,G
+   1,K
+   3,R,K
+   7,L,K
+   1,L,J,G
+   3,J
+   2,L,J
+   2,L
+   5
+   9,L,J
+  10,L
+   1,L,J
+
+#lvl_cold-06 (1)
+  25,L,J
+   2,J
+   1,G
+   1,J,G
+   2,R,J
+   1,L,K,G
+   1,R,K
+   5,L,K
+   2,L
+   2
+   2,L
+   2,L,J
+   5,L
+   1,L,J,G
+  16,L
+   3,L,J
+   5,L
+  10,L,J
+  19,L
+   3,L
+   3,L
+   2,L
+  13,L,D
+   1,D
+   1,G
+   1
+   1,G
+  27,L,J,G
+   1,K
+   9,R,K
+   9,L,J
+   7,L
+  10,L,J
+  15,L,Z
+  25,L
+   1,L,J,G
+   1,L,K,G
+   9,L
+   1,L,J
+   3,L
+  23,L,J
+   2,K,G
+   4,R,K
+   1,L,K
+   4,J,G
+   1,R,J
+   1,K,G
+   4,L,K
+   1,J,G
+   4,R,J
+   1,K,G
+   1,L,K
+   1,R,K
+   1,J,G
+   1,L,J
+   1,L,K,G
+   1,L,J,G
+   1,K,G
+   3,L,K
+   1,R,K
+   1,L,K
+   1,J,G
+   6,R,J
+   1,L,J
+   1,K,G
+   3,R,K
+   1,J,G
+   4,L,J
+   2,K,G
+   1,R,K
+   1,L,K
+   8,J,G
+   7,R
+
+#Drift Wait [cold-07]
+#Multiple of 3
+  72
+#-----
+
+#Spinner Cycle [cold-07]
+   1
+#-----
+
+   8,J
+   1
+   1,J,G
+   1,L,J
+   1,R,J
+   1,K,G
+   1,L,K
+   1,L,J,G
+   1,L,K,G
+   1,L
+   1
+   7,L
+   3,L,J
+   2,L
+  40
+
+#lvl_cold-07
+   2
+StunPause
+   1
+   2,L,K
+   3,L
+   1,L,J,G
+   1,L,K,G
+   1,L
+   1
+   9,L
+  14,L,J
+SkipInput,3,1
+  12,L,U,X
+SkipInput,3
+   6,L,X
+   8,J,G
+   1,R,J
+   1,L
+  14,L,K,G
+  11,J,G
+   1,K,G
+   1,R,K
+   1,L
+  14,L,J,G
+   9,K,G
+SkipInput,3
+   5,K,G
+   1
+   8,J,G
+   1,L,J
+   1,J
+   1,R,J
+   1,R,K
+  21,R,J
+   2,J
+SkipInput,3,1
+  15,U,Z
+   1,L
+SkipInput,3,1
+  10,L,U,X
+EndStunPause
+StunPause
+   3,L
+SkipInput,3
+   9,L
+   1,J,G
+   1,R,J
+   1,R
+   5,L
+   7,L,J
+   9,L
+   2,D
+EndStunPause
+StunPause
+   1,J,G
+EndStunPause
+StunPause
+   3,L,J
+   5,J
+   1,L,J
+   1,R,J
+   1,L,J
+  13,L,K,G
+   7,J,G
+   2,R,J
+   4,L,K,G
+   1,R,K
+  13,L,K
+   1,J,G
+   2,R,J
+   3,L,K,G
+   1,R,K
+  14,L,K
+   2,R,J
+EndStunPause
+#Forgot to add a cycle wait here but I'm literally on the recording phase so whoops
+   5,R,J
+  21,R
+  23,U,X
+  17,U,C
+  17,U,X
+   9,L,J
+   8,L
+   3,L,J
+  24,L
+   4
+   1,L,K,G
+   2,K
+   1
+  11,J,G
+   1,R
+   1,R,K
+  35,R,J
+  14,R,D
+  37,L,D
+  38,R,D
+  17,L,D
+   1,D
+   1,L,D
+   1,D
+  31,L,D
+StunPause
+  22,L,D
+EndStunPause
+   1,L,D
+  22,L,J
+   8,U,Z
+  15,L,J
+   8,L
+   4,L,J
+   3,L
+   1,L,J
+   8,L
+  13,L,D
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+  40
+
+#lvl_cold-08
+
+#+0f
+#    1,L,J
+#   18,L
+#---
+
+#+1f
+#    1,L,D,J
+#    3,L
+#    1
+#   15,L
+#---
+
+#+2f
+   1,L,D,J
+   4
+   2,L
+   1
+  12,L
+   1
+#---
+
+#-----
+
+   1,L,J
+   1
+   4,L
+   1,L,J
+   1,L
+   1,L,J
+   7,L
+   1,L,J
+   1,L,K,G
+   2,L,J,G
+   1,J
+   2,L,J
+  19,L
+   2,L,D
+   1,D
+   8,L,D
+   6,D
+  14,L,D
+  15,L,D,X
+  17,L
+   1
+   8,L
+  11,L,D
+StunPause
+  14,L,D
+  11,D
+   1,R,D
+   1,D
+   1,R,D
+   1,D
+   7,L,D
+   7,D
+EndStunPause
+StunPause
+   1,D
+EndStunPause
+StunPause
+   4,D
+   1,L,D
+   1,D
+   6,L,D
+   4,L
+   2
+EndStunPause
+   1,R,J
+   4,R
+   1
+   8,J
+   8
+   5,R
+   2,L
+   1,L,D,J
+   4,R
+   5,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,R
+   1,L
+   1,L,J
+  12,R
+  17
+   1,R,J
+   1,R
+  14
+  36,J
+ 163
+  11,R
+  18,R,J
+   1,J
+  16,L,K
+  17,K
+  22
+   1,L
+   1,L,D
+   1
+  10,L
+   1,L,J
+   9,L
+   4
+   4,L
+  12,L,J
+  10,L
+   9,L,J
+   1,L
+   1,L,J,G
+   1,L,K,G
+   9,L
+   1,L,J
+  18,L
+   1,L,J
+   3,L
+  40
+
+#lvl_ch4-cold-09
+   2,L
+   1,L,J
+   6,L
+   1
+   1,L
+   1
+   5,L,J
+   1,L,K,G
+   1,L,J,G
+   9,L
+   1,L,D,J
+  23,L
+   1
+   2,L,J
+   5,L
+   4,L,J
+   1,L,K,G
+   1,L,J,G
+   9,L
+   1,L,D,J
+  16,L
+   1,L,J,G
+   1,L,K,G
+  18,L,D
+   1,D
+   1,D
+   1,L,J
+  25,L,D
+   1,L,J
+  18,L
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+   2,L,J
+   9,L
+   1,L,J
+   9,K,G
+  15,U,X
+   2
+   3,L
+  35,L,J
+  12,K,G
+   1,J,G
+   6,R,J
+  43
+
+#lvl_fall-000
+   1,R
+   1,L
+   1,J,G
+  11,R,J
+   1,R,K
+  11,R,J
+  16,U,X
+   6,R,J,G
+   7,R
+   9,R,U,X
+   1,R,J,G
+  23,D
+   1,J
+   1,R,J
+   1,J
+   1,R,J
+   1,J
+   1,K
+  11,J
+  14,U,X
+   4
+   1,L
+   1,L,K,G
+   7,L
+   2,L,J
+  11,U,X
+   1,J,G
+  12
+   8,R
+   2,R,J
+  15,U,X
+  14,L
+   4
+   7,D
+   2
+  12,J
+   4,L,K,G
+   1,J,G
+   9,R,J
+   9,L,K,G
+  14,U,X
+   6,L,J,G
+   7,L
+
+#Drift Wait [fall-01b]
+#Multiple of 3
+  51
+#-----
+
+#Spinner Cycle [fall-01b]
+   2
+#-----
+
+   6,J
+   7,L,J
+   1,L,K
+  11,J
+  11,K
+  12,R,J,G
+   3,R,K,G
+   3,L,K
+   1,R,K
+   1,L,K
+   1,R,K
+  43
+
+#lvl_fall-0000
+   1,J,G
+   1,L
+  10,L,K
+   1,L
+   1,L,J,G
+   1,L,K,G
+   1,L,K
+   1,K
+   3,L
+   1,L,K,G
+   1,L
+   1
+   7,L
+   1,L,J
+   7,L
+   1
+  11,L
+   1,L,K,G
+   6,L,J,G
+   5,L
+   1,L,J
+   2,L
+   1,L,J
+   6,L
+   3
+   3,L
+   1,L,J
+   3,L
+   1,L,J,G
+   2,L,K,G
+   1,K
+   3
+   1,L,J,G
+   1,L,K,G
+   9,L
+   3,L,J
+   1,L,K,G
+   5,L
+   1,L,J
+  14,L
+   4,L,J
+   1,L
+   3,L,K,G
+  12,L
+   1,L,J
+   3,L,K,G
+   5,L
+   1,L,J,G
+  11,L
+   2,L,J
+  40
+
+#lvl_fall-01a (0)
+  13,L,J
+   3,L,K,G
+   1,R,J
+  11,R,K
+  18,L,U,X
+  50,L
+
+#lvl_fall-01b
+   3
+   3,L
+StunPause
+   5,L,D
+   3,D
+   4,L,J
+   5,L
+   3,L,J
+   7,L
+   1,L,G
+   1,L,J,G
+  11,L,D
+   1,J
+   1,R,J
+   7,J
+   2,K,G
+EndStunPause
+   1,L,K
+  22,R,K
+   1,J,G
+   2,R,J
+   6,J
+
+#Spinner Cycle [fall-01a (1)]
+
+#+0f
+#    1,R,J
+#    1,L,J
+#    1,R,J
+#   13,R,K,G
+#    1,J,G
+#    2,R,J
+#    3,J
+#    1,L,J
+#---
+
+#+1f
+   1,R,J
+   1,L,J
+   1,R
+  13,R,K,G
+   1,J,G
+   2,R,J
+   2,J
+   2
+   1,L
+#---
+
+#+2f
+#    1,R,J
+#    1,L
+#    1,R
+#   10,R,K,G
+#    3,R
+#    1,J,G
+#    2,R,J
+#    3,J
+#    2
+#    1,L
+#---
+
+#-----
+
+   1,L,K
+   8,L,J
+
+#lvl_fall-01a (1)
+   3
+   3,L,J
+StunPause
+  25,L,J
+   1,K,G
+   1,R,K
+   1,L,J,G
+   1,L,K,G
+   1,L,J,G
+   7,L
+   1,L,D,J
+  14,L
+EndStunPause
+#Spinner Cycle [fall-03a]
+
+#+0f
+#   32,L,D
+#    1,L,J
+#    8,L
+#---
+
+#+1f
+#   30,L,D
+#    2,D
+#    1,L
+#    1,L,J
+#    8,L
+#---
+
+#+2f
+  26,L,D
+   4,D
+   2,L,D
+   2,L
+   1,L,J
+   8,L
+#---
+
+#-----
+
+  43
+
+#lvl_fall-03a
+   6,L
+   1,L,J
+   2,L
+StunPause
+  12,L
+   1,L,J
+  15,L
+  27,L,J
+  14,L
+   6,L,D
+   7,L,J
+
+#Spinner Cycle [fall-03b]
+#Note: Previous stun's last few lines included to allow for vertical position manip before the end of the stun. Still only off by a frame and 2 respectively overall.
+
+#+0f
+#    7,L
+#    2,L,J
+#   10,L
+#EndStunPause
+#   17,L,J
+#   19,L,U,X
+#    1,L,J,G
+#    2,J,G
+#    3
+#    3,R
+#    1
+#---
+
+#+1f
+#    8,L
+#    2,L,J
+#    9,L
+#EndStunPause
+#   12,L,J
+#    6,L
+#   19,L,U,X
+#    1,L,J,G
+#    2,J,G
+#    3
+#    3,R
+#    1
+#---
+
+#+2f
+   8,L
+   2,L,J
+   9,L
+EndStunPause
+  12,L,J
+   7,L
+  19,L,U,X
+   1,L,J,G
+   2,J,G
+   3
+   3,R
+   1
+#---
+
+#-----
+
+  18
+  21,R,D
+  12,L,D
+
+#lvl_fall-03b
+  38,L
+StunPause
+  14,L,D
+   3,L,J
+  37,L,D
+   1,L,J
+  18,L
+   7,L,J
+   8,L
+   1,L,J
+  12,L
+   1,L,J,G
+   1,L,K,G
+   1,L
+   1
+   6,L
+   1
+   9,L,J
+   1,L,K,G
+   2,L,J,G
+   2,L
+EndStunPause
+   9,L
+   1,L,J
+  14,L
+   1,L,J
+   4,L
+  40
+
+#lvl_fall-04a
+  10,L
+   1,L,J
+  14,L
+
+#Spinner Cycle [fall-04a]
+
+#+0f
+#   12,L,J
+#    6,L
+#    3,L,J
+#    6,L
+#   15,U,X
+#    9,R
+#    1
+#---
+
+#+1f
+#    1,L,D
+#    1,L,J
+#    2,J
+#    9,L,J
+#    7,L
+#    3,L,J
+#    5,L
+#   15,U,X
+#    8,R
+#    1
+#    1,R
+#---
+
+#+2f
+   1
+   1,L
+   8,L,D,J
+   1,J
+   3,L,J
+   7,L
+   3,L,J
+   1,L
+   3
+   1,L
+  15,U,X
+   8,R
+   1
+   1,R
+#---
+
+#-----
+
+   5,L
+StunPause
+  47,L
+   1,G
+  12,J
+   7
+   3,G
+   1,J,G
+   1,R,J
+   1,L,K,G
+   6,L,J,G
+   5,L,K,G
+   8,L
+   1,L,J
+   2,L
+   4,L,J
+EndStunPause
+   5,L,J
+   5,L
+   1,L,J
+   6,L
+   1
+   1,L,J,G
+   1,L,K,G
+   9,L
+   1,L,J
+   3,L
+
+#lvl_fall-04b
+  10,L
+  40
+
+#lvl_fall-05a
+   1,L
+   1,J
+  11,L,J
+   1,R,J
+   1,K,G
+   1,L,K
+   3,R,K
+   6,R,J,G
+   1,R,K,G
+   1,R,J,G
+  10,R
+   1,R,N
+  35
+
+#Spinner Cycle [fall-05a]
+   0
+#-----
+
+  29,L
+   1,X
+  19
+   3,R,J
+StunPause
+   3,R,J
+   6,J
+   1,K,G
+   1,L,K
+   1,R,K
+   1,J,G
+   1,L,J
+   1,L,K
+  12,L,J
+   5,L
+   4,L,J
+   2,L
+   1,L,J
+   3,L
+   1,L,J,G
+   1,L,K,G
+   2,L
+EndStunPause
+#no cycle wait between these 2 stuns, for now at least, sorry
+   5,L
+  11
+  22,L
+  15,L,U,Z
+  58,L
+   1,R,J
+   6,R
+   2
+   1,R
+ 100
+StunPause
+  37
+   5,L
+   1,L,J
+  13,L
+   2,R
+   1,R,J
+   1,K,G
+   2,R
+   1
+   1,R
+   2
+   1,L
+   4,L,D
+  26,L,J
+EndStunPause
+   5,L,J
+  87,L
+   1,K,G
+   1,R
+   1,L,J,G
+   3,L,K,G
+   1,L
+   1,L,J,G
+   1,L,K,G
+   9,L
+   1,L,J
+   5,L
+
+#lvl_fall-05b
+   9,L
+   1,L,J
+   6,L
+  40
+
+#lvl_fall-07
+   8,L
+   1,L,J
+  14,L
+   1,L,J
+  18,L
+   1,L,J
+   5,L
+  23,L,J
+   1,L,D,J
+   5,L,J
+  56,L,K
+   2,L,J,G
+   1,R,J
+   1,L,J
+   7,K,G
+   2,R
+   8,L,K,G
+   7,L
+   1,L,J,G
+   1,L,K,G
+  10,L
+   1,L,J
+  21,L
+   1,L,J
+  18,L
+   2,L,D
+  40
+
+#lvl_fall-17
+# Retry in this room so that madeline can interact the book even if the next frame madeline does not overlap with it (depth issue)
+   1,S,N
+   1,D,J
+  69,O
+
+#Spinner Cycle [fall-14]
+   0
+#-----
+
+   7,L,J
+   5,L
+   1,L,J
+   4,L
+   1,L,J
+   8,L
+   2,L,D
+   2,L
+   2,L,D
+   1,L
+   4,L,Z
+   1,L,J
+   4,L
+   1,L,J
+   2,L
+   1,L,J,G
+   4,L
+   1
+   3,L,J
+  10,L
+   1,L,N
+   1,L,J
+  61
+   1,J
+  42
+   1,D
+  40
+
+#lvl_fall-14
+   9,D
+  16,L,D
+   2,D
+   4,L,J
+   5,L
+StunPause
+   9,L,J
+  18,L
+   3,L,D
+   1,L,D,J
+   3,L
+  11,L
+  18,L,D,J
+   8,L,J
+  13,L,K
+EndStunPause
+  13,L,K
+   1,L,J,G
+   1,L,K,G
+   9,L
+   1,L,J
+   6,L
+  40
+
+#lvl_fall-15
+
+#Spinner Cycle [fall-15]
+
+#+0f
+#    9,L
+#   15,L,J
+#---
+
+#+1f
+#   10,L
+#    8,L,J
+#    1,J
+#    5,L,J
+#    1,J
+#---
+
+#+2f
+  11,L
+  14,L,J
+   1,J
+#---
+
+#-----
+
+   1,L,K
+   9,L,J
+  19,L,D
+   4,D
+StunPause
+  13,D
+   2,L,D
+   2,D
+EndStunPause
+   5,R,D
+   6,L,D
+   1,R,D
+   6,L,D
+StunPause
+   3,L,D
+   1,D
+   2,L,D
+   2,D
+EndStunPause
+   3,L,D
+  17,L
+   4
+   6,J,G
+   1,L,K,G
+  13,L
+   1,L,J
+  21,L,D
+   1,L,J
+   5,L
+   3,L,J
+   1,L
+   1,L,J
+   2,L
+   1,L,J,G
+  15,L
+  35,L,J
+   9,L
+  29,L,J
+   2,L,K,G
+   1,R,K
+   7,L
+Repeat,3
+   1,L,J
+  14,L
+EndRepeat
+   1,L,J
+   9,L
+  40
+
+#lvl_fall-09a
+   6
+
+#Drift Wait [fall-09a]
+#Multiple of 3
+2115
+#-----
+
+#Spinner Cycle [fall-09a]
+   0
+#-----
+
+   4,R
+   8
+   5,L
+   1,L,J
+  14,L
+   1,L,J
+   3,L
+StunPause
+  11,L
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+  12,L,J
+   9,L
+   1,L,J
+   8,L,D
+   7,D
+EndStunPause
+   3,D
+  23,L
+  15,U,Z
+   1,R,J,G
+
+#Lose a few frames here to help with the upcoming stun; kind of like a spinner cycle wait
+   9,R
+#    7
+#---
+
+   1,G
+   1,J,G
+   1,L,J
+   5,R
+   5,R,J
+  10,R
+Repeat, 5
+   1,G
+   1,J,G
+   1,L,J
+   3,R,J
+  17
+EndRepeat
+  20,G
+   1,J,G
+   1,L,J
+   1,R,J
+   8,R
+   1,K,G
+   1,L,K
+  11,R,K
+   1,R,J,G
+   1,R,K,G
+   9,R
+   1
+   1
+   1,R
+   1,R
+  10,L
+   2,L,J
+StunPause
+   1,L,J
+   2,L
+   3,L
+   4,L,J
+   8,L
+   1
+   1,L
+   1,L,J
+  12,L,K
+   5,L
+   5,L,J
+   2,L
+   1,L,J
+   7,L
+   1
+   2,J
+EndStunPause
+   4,J
+   5,L,J
+   2,L
+   1,L,J,G
+   4,R,J
+   7,L,J
+   7,L
+  12,L,J
+   7,K,G
+   1,R,K
+   1,L,K
+   4,J,G
+   1,R
+  12,L,K,G
+   3,L
+   3
+   1,L
+   5,R
+   2,L
+
+#Drift Wait [fall-10a]
+1185
+#-----
+
+#Spinner Cycle [fall-10a]
+   0
+#-----
+
+   2,L
+   1,D
+   2
+   4,L
+   1,L,D,J
+  14,L
+   4,L,J
+   1,L
+   1,L,J,G
+   1,L,K,G
+   9,L
+   1,L,J
+  21,L,D
+   1,L,J
+  21,L,D
+   1,L,J
+   8,L
+
+#lvl_fall-09b
+   6,L
+   1,L,J
+  18,L
+   1,L,J
+  14,L
+   1,L,J
+   4,L
+  40
+
+#lvl_fall-10a
+  10,L
+   3,L,D,J
+   6,L
+   2,L,J
+   1,L
+   1,L,J
+  10,L
+   1,L,J,G
+   1,L,K,G
+   9,L
+   1,L,J
+  14,L
+StunPause
+  22,L,J
+   4,J
+   4,K,G
+   2,L,K
+   5,L,J,G
+   9,L
+   1,L,J
+   7,L
+   2,L,D
+  25,L,D,J
+SkipInput,3,1
+  15,U,X
+  15,R
+  43,L,J
+   1,K,G
+   2,L,K
+   1,K
+   1,L,K
+   1,R,K
+   1,L,K
+  13,L,J,G
+   1,L,K,G
+   1,L,J,G
+  11,L
+  41,L,J
+   3,J
+EndStunPause
+  15,L,Z
+   2,R
+  17,R,J,G
+  10,K,G
+   1,L,K
+   1,L,J
+   6,L,K
+
+#lvl_fall-10b
+   5,L,K
+  11,R,J
+   6,K,G
+  40,K
+
+#lvl_fall-11a
+   1,L,K
+   1,R,J,G
+   2,R,K,G
+   1,R,J,G
+   1,R,K,G
+   1,R,J,G
+  11,R
+   1,R,N
+  35
+
+#Spinner Cycle [fall-11a]
+   1
+#-----
+
+  33,U
+   1,X
+  19
+   3,R,J
+StunPause
+   8,R,J
+   1,J
+   5,K,G
+   1,R,K
+   1,L,K
+   1,R,K
+  13,R,J,G
+EndStunPause
+   1,K,G
+   2,R,K
+   6,K
+   1,R,K
+   1,L,K
+   1,R,K
+  13,R,J,G
+  11,K,G
+   1,R,K
+   1,R,J,G
+
+#+0f
+  14,J,G
+  12,K,G
+   8,J,G
+   1,L
+#---
+
+#+1f
+#   13,J,G
+#    1
+#   11,K,G
+#    1
+#    7,J,G
+#    2
+#    1,L
+#---
+
+#+2f
+#   14,J,G
+#   12,K,G
+#    6,J,G
+#    4
+#    1,L
+#---
+
+#-----
+
+   1,L,K
+  12,L,J
+   2,L
+StunPause
+   3,L
+   4,L,J
+   1,L
+   1,L,J
+SkipInput,3,1
+  15,U,X
+  10,L
+   1,L,J
+   9,L
+   1,L,J
+   5,L
+  16,L,J
+SkipInput,3,1
+  15,U,X
+EndStunPause
+  10,L
+#No spinner cycle here either
+   1,G
+   1,J,G
+StunPause
+   2,J,G
+   1,R,J
+  12,L,K,G
+   7,L
+   1,L,J
+   7,L
+   7,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+  21,R,J
+   1,K,G
+   2,R,K
+   1,K
+   1,R,K
+   1,L,K
+   1,R,K
+  13,R,J,G
+   1,K,G
+   3,R,K
+   1,K
+   1,R,K
+   1,L,K
+   1,R,K
+  12,R,J,G
+EndStunPause
+   1,R,J
+   1,K,G
+   3,R,K
+   5,K
+   1,R,K
+   1,L,K
+   1,R,K
+  13,R,J,G
+   1,R,K,G
+  11,K,G
+  15,U,Z
+   1,R
+  14
+   9,J,G
+   1,R,J
+   1,L,J
+   1,R,J
+  13,R,K,G
+   1,J,G
+   3,R,J
+   5,J
+   1,R,J
+   1,L,J
+   1,R,J
+  13,R,K,G
+  11,J,G
+   1,L,J
+   1,L,K
+  11,L,J
+  11,R,K
+  12,L,J
+   9,K,G
+  43
+
+#lvl_fall-18
+   1
+   1,R
+   1,L,J,G
+   1,L,K,G
+   1,L,J,G
+   1,L,K,G
+   1,L,J,G
+   9,L
+   1,L,N
+  35
+
+#Drift Wait [fall-18] A
+2270
+#-----
+
+#Spinner Cycle [fall-18] A
+   1
+#-----
+
+ 150,U
+   1,X
+  19
+   1,R,J
+   9,R
+   1,R,J
+   8,R
+   2,R,J
+   5,R
+StunPause
+   2,R
+  11,R,D,J
+   1,K,G
+   2,L,K
+   1,R,J,G
+   1,L,J
+  17,R,J
+   1,R,K,G
+   1,R,J,G
+   1,R
+EndStunPause
+   4,R
+   8
+
+#Drift Wait [fall-18] B
+1931
+#-----
+
+#Spinner Cycle [fall-18] B
+   2
+#-----
+
+   6,D,J
+StunPause
+   5,D,J
+   1,R,J
+   5,K,G
+EndStunPause
+StunPause
+   1,K
+EndStunPause
+StunPause
+   2,K
+   1,R,K
+   1,L,K
+   1,R,K
+  13,R,J,G
+   1,K,G
+   3,R,K
+   5,K
+   1,R,K
+   1,L,K
+   1,R,K
+  13,R,J,G
+   1,K,G
+   3,R,K
+   3,K
+   1,R,K
+   1,L,K
+   1,R,K
+  13,R,J,G
+   1,K,G
+   4,L,K
+   1,L,J
+   1,L,K
+   1,L,J
+   1,L,K
+EndStunPause
+   5,L
+  10,L,J
+  32,L
+   1,J,G
+   1,R,J
+  23,L,J
+#Too lazy to do a wait here
+   1,G
+  11,J,G
+   1,L,J
+   9
+   1,L
+   1
+   2,R
+   1,L,J
+  12,L,K,G
+  10,L
+   3,J
+   5
+   5,L
+   1,R,J
+  12,R,K,G
+   8,R
+   1
+   1,R
+   3,J
+   4
+   6,R
+   1,L,J
+   1,L,K,G
+  13,L
+   1,D
+   1
+   1,D
+   1
+Repeat,2
+   1,D
+   1
+   1,D
+   1,L
+   1,D
+   1,L
+   1,D
+   1,L
+EndRepeat
+   1,L,J
+   5,L
+  22
+  12,R,G
+   6,U,G
+StunPause
+  44,U,G
+   2
+  11,J,G
+   1,L,J
+  15,J
+   2,G
+  12,K,G
+   1,J,G
+   1,R,J
+   1,L,K,G
+   2,R,K
+EndStunPause
+  24,K
+  11
+Repeat,20
+   5,J
+   5
+   1,J
+   1
+   1,J
+   1
+EndRepeat
+   4
+   2,R,J
+   4,R
+   7
+   1,R
+   2
+   1,L
+  12
+   2,R,J
+   3,R
+   3,L
+   1
+   2,L
+   1,J
+   2,L
+   1,L
+   3,L
+   8,U,G
+  12,R,J
+  11,R
+
+#Electricity Cycle [memory-02b]
+   1,R
+#-----
+
+  14,R,J
+  10,K,G
+   5,R,J,G
+   1,J
+   4,L,J
+  43
+
+#lvl_ch5-fall-12
+   1,J
+   7,L
+   1,L,J
+   1,L
+   1,L,J,G
+  21,L,K,G
+   9,L,J
+   1,L,K,G
+   1,L,J,G
+   7,J
+   5,L,J
+   3,L,K,G
+   1,K
+  11,L,K
+   7,J,G
+   1,L,J
+  18,L,U,X
+  15,U,C
+   9,L
+
+#lvl_memory-02b
+   8,L
+  31,G
+  11,U,X
+  15,L,J
+   8,L
+   6
+   2,L
+  35,G
+   4
+   2,J,G
+   1,R,J
+   1,R,K
+  28,R,J
+  36,G
+   1
+   2,L
+   2
+   1,R
+   1,R,J,G
+  37,R,K,G
+  45,G
+   4
+   5,J,G
+   6,R,J
+   1,L,J
+  13,L
+  57,G
+   4
+   2,J,G
+   1,R,J
+   1,R,K
+  12,R,J
+  13
+  14,G
+   6,J,G
+   1,L,J
+   1,R,J
+   1,K,G
+  13,L,K
+   1,R
+   3
+  15,L,U,X
+  20,R
+StunPause
+  12,R
+  83,G
+   8,J,G
+  13,K,G
+  18,L
+   9,R
+  41,L,D
+   2,L
+   1,L,J
+  14,L
+  15,L,J
+   4,K,G
+   1
+EndStunPause
+   6
+  26,G
+   6,J,G
+   1,R,J
+   1,L,J
+  22,R,K
+  10,J,G
+  11
+   1,L,J,G
+   7
+  14,G
+   6,J,G
+   1,R,J
+   1,L,J
+  22,R,K
+   1,R,J,G
+   1,J
+   1,L,J
+   1,R,J
+   3,K,G
+   1,L,K
+   1,R,K
+  10,J,G
+   1,L,J
+  40
+
+#lvl_memory-02c
+  11,L
+  12,J,G
+   2,K,G
+   7,R,K
+  10,R,X
+  26,L,J
+  23,U,X
+   3
+
+#lvl_memory-02
+   1,S
+   1,U
+   1,F,
+   1,U,J
+SaveAndQuitReenter
+  36
+
+#Electricity Cycle [memory-14 (0)]
+   1
+#-----
+
+   6,R
+  21,R,J
+   2,J
+   1,R,J
+   1,R,K,G
+   4,L,K
+   8,R,K
+   1,R,J,G
+   3,R,K,G
+   3,R
+   1,R,J,G
+  18,R,D
+   9,D
+   1,R,D
+  24,D
+   6,L,D
+  40
+
+#Normal inputs
+#   11,L
+#   12,J,G
+#    2,K,G
+#    7,R,K
+#   10,R,X
+#   10,L,J
+#    5,L
+#    6,L,J
+#    1,L
+#    2,L,J
+#    1,L
+#   15,U,Z
+#    3,L
+#   13
+
+#memory-2
+#    3
+#   11,D
+#    1
+#    1,R
+#    1
+#    1,R,D
+#   20,R,J
+#    1,R,K,G
+#    4,L,K
+#    8,R,K
+#    1,R,J,G
+#    2,R,K,G
+#    4,R
+#    1,R,J,G
+#    1,R
+#    1
+#   16,R
+#   34,D
+#    6,L,D
+#   40
+#-----
+
+#lvl_memory-03
+   7,L,D
+  20,L
+   1,G
+   1,J,G
+   1,R,J
+   6,L,K,G
+   5,L
+   1,L,K
+   3,L
+   1,J,G
+   2,R,J
+   6,L,K,G
+   1,L
+   1
+   7,L
+   1,L,J,G
+   2,L
+   1
+   4,L
+   1,L,J
+  17,L
+   1,G
+   1,J,G
+   1,R,J
+   5,L,J
+  16,L
+   2
+   1,K,G
+   1,R,K
+   3,L,J,G
+   5,L
+   1,L,J
+  13,L
+  22,L,D
+   7,D
+  40
+
+#lvl_memory-04
+  21,D
+   1,R,D
+   1,D
+   1,R,D
+   5,G
+  10
+  20,G
+   1
+   1,J,G
+   3,R,K,G
+   9,L
+   1
+   8,L
+   3,L,D
+  10,L,J,G
+  18,L
+   5,L,D
+   4,K
+  12,J,G
+  15,U,X
+  24,R,J
+  40
+
+#lvl_memory-05a
+  14,R
+  12,R,J,G
+   7,R,K,G
+   1,L,J
+  34,L,K
+  22,L,X
+
+#lvl_memory-05b
+   2,L
+  28,L,C
+  30,L,U,Z
+   4,R,J,G
+   6,L,J
+   2,R,J
+  12,R,K,G
+  12,R,J,G
+   6,R,K,G
+   1,K
+   1,L,J
+  40
+
+#lvl_memory-06a
+   3,R
+  10,J,G
+   6
+   1,R
+   1,G
+   1
+   1,G
+   1
+  14,R,G
+   1,L,J
+  36,L,K
+  15,L,U,X
+  18,L
+   1,L,J,G
+   1,L,K,G
+   1,K
+   4,L
+   1
+   1,L
+  16
+  13,D
+   1,L,D
+   1,L
+   1,L
+   1
+   1,L
+   9,U,X
+
+#lvl_memory-06b
+   2,U,X
+  19,L,J
+  15,L,Z
+   1,R
+   1,J,G
+   3,R,J
+  11,R,K,G
+  14,L,J
+  40
+
+#lvl_memory-07a
+  11,L
+  12,J,G
+  11,K,G
+   1
+   1,L,J,G
+   3,R,J
+   3,L,J
+   2,R,J
+   2,L,J
+   1
+   1,K,G
+   1,L,K
+   6,L
+   1,R
+   3
+   5,R,Z
+   1,L,J
+   5,L
+  32,L,J
+  15,U,X
+  14,L
+   1,G
+  11,J
+   1,R,J
+  14,L
+  11,K,G
+   1,R,K
+  12,L,K
+  16,K,G
+   8,K
+   4
+   1,G
+   2
+  28,G
+   2
+   1,J,G
+   1,K,G
+   1,L,J,G
+  27,R,J
+   1,J
+   1,R,J
+   1,J
+   8,G
+  10,J,G
+   1,L,J
+   2,R,J
+  11,K,G
+   1,L,K
+   1,R,K
+  10,J,G
+   1,L,J
+   1,R,J
+  11,K,G
+   1,L,K
+  28,L
+  13
+   6,D
+   1
+  69,R,G
+   8,L,J
+  14,R,K
+  40
+
+#lvl_memory-14 (0)
+   8,R
+   1,R,J,G
+   3,L,J
+   2,R,J
+   1,L,J
+   1,R,J
+   1,R,K,G
+   1,R,J,G
+   1,R,K,G
+  12,R
+   2,R,J
+   9,R
+   1,R,J
+  14,R
+   1,R,J,G
+   1,R,K,G
+  10,R
+   8,R,J
+  13,R
+  15,R,U,Z
+   4,L,J,G
+   6,R,J
+StunPause
+   4,R,J
+   1,L,J
+   1,K,G
+   1,R,K
+   9,K
+   1,L,K
+   1,J,G
+   1,R,J
+   1,L,J
+   1,J
+   1,K,G
+   1,R,K
+   9,K
+   1,L
+   1,J,G
+   1,K,G
+   1,L,J,G
+   5,R
+   6,R,J
+   3,R
+SkipInput,3,1
+  12,R,U,Z
+   1,L,J,G
+   1,R,J
+EndStunPause
+   1,R,J
+  40
+
+#lvl_memory-16a
+   1,R
+  72,O
+
+#Drift Wait [memory-14 (1)]
+4072
+#-----
+
+#Electricity Cycle  [memory-14 (1)]
+   0
+#-----
+
+   5,L
+   1,L,J
+   8,L
+  40
+
+#lvl_memory-14 (1)
+   6,L
+   8,L,J
+   6,L
+   2,L,J
+   1,L
+  11,L,D
+   1,L
+   2,L,D
+   1,D
+   1,L
+   1,D
+   1
+  14,L,Z
+   1,L,J
+   6,L
+   8,L,J
+   2,L
+  15,L,D,X
+   3,L
+   1,L,J,G
+   3
+   1,L
+StunPause
+   7,L
+   2,L,J
+   9,L
+   2,L,J
+   9,L
+   2,L,D
+  22,L,J,G
+   1,R,K
+   2,R,J
+   1,R,K
+EndStunPause
+  15,R,K
+  10,J,G
+   1,L,J
+   1,L,K
+  12,L,J
+  40
+
+#lvl_memory-08a (0)
+   8,L
+   1,L,J,G
+   4,R,J
+   5,L,J
+   3,L
+   1,L,K,G
+   1,L,J,G
+   9,L
+   1,L,J
+  25,L
+   1,L,N
+  35
+
+#Electricity Cycle [memory-08a (0)]
+   1
+#-----
+
+  86,L
+   1,X
+  19
+   5,R,Z
+StunPause
+   5,R,Z
+   1,L,J
+   3,L
+   1,L,J
+   3,L
+   8,L,J
+   4,J
+   3
+EndStunPause
+#No cycle wait for big electricity, as it moving complicates things and I don't know if it'll even be useful. Also because I don't feel like it
+   1,L
+   1,L,J,G
+   9,L
+   1,L,J
+  14,L
+   7,L,J
+  20,L
+  12,L,J
+   5,L
+  10,L,J
+   8,L
+   1,L,J,G
+   1,L,K,G
+  10,L
+   8,L,J
+   5,L
+   2,L,J
+   6,L
+   1,L,J,G
+   1,L,K,G
+   9,L
+   1,L,J
+   7,J
+   3,R
+#Electricity behind Madeline is unloaded here
+   8,R
+StunPause
+  10,R
+   1
+   1,R,J,G
+   1,R,K,G
+   9,R
+   1,R,J
+  23,R,D
+   7,R
+  27,R,J
+EndStunPause
+  20,R
+   1,J,G
+   6
+   1,L
+  12,L,J
+   5,L
+   9,L,J
+   9,L
+   1,L,J,G
+   1,L,K,G
+   9,L
+   8,L,J
+   5,L
+   4,L,J
+   5,L
+   1,L,J,G
+   1,L,K,G
+   9,L
+   1,L,J
+  23,L,D
+
+#Electricity Cycle [memory-08b]
+
+#+0f
+#    1,L,J
+#    9,L
+#   23,L,J
+#---
+
+#+1f
+#    1,L
+#    1,L,D,J
+#    1
+#    8,L
+#   23,L,J
+#---
+
+#+0f
+   2
+   1,L,J
+   9,L
+  23,L,J
+#---
+
+#-----
+
+  49,L,K
+StunPause
+  18,L
+  12,J,G
+  12,K,G
+   2,J,G
+   1,R,J
+   1,L,J
+  10,K,G
+   1,R,K
+  12,L,J,G
+   7,L
+   1,L,J
+  14,L
+   1,L,D,J
+  14,L
+   5,L,J
+   5,L
+   3,L,J
+SkipInput,3,1
+  15,L,U,Z
+   1,R,J,G
+   8,R,K,G
+   1,J,G
+   1,L,J
+   1,L,K
+  30,L,J
+EndStunPause
+   2,L
+StunPause
+  52,L
+EndStunPause
+   9,L
+
+#Moving Cycles Wait
+  78
+#-----
+
+   3,L,K
+   1,J,G
+   1,R,J
+   1,L,J
+   1,L,K,G
+   1,R,K
+  10,L,K
+   2,J,G
+   1,R,J
+   1,L,J
+   4,K,G
+   5,L,J,G
+   1,L,K,G
+   2,R,K
+   4,L,K
+   7,L
+   1,L,J
+  20,L
+  12,L,J
+   5,L
+   4,L,J
+   1,L
+   3,L,J
+  10,L
+   2
+   1,L,J,G
+   1,L,K,G
+   9,L
+   2,L,J
+   5,L
+   1,L,J
+  10,L
+  12,L,J
+   5,L
+  10,L,J
+  16,L
+   4,L,D
+   1,L,J,G
+   1,L,K,G
+   9,L
+   2,L,J
+   5,L
+   1,L,J
+   1,L
+   1,L,J
+   2,L
+   2,L,J
+   8,L
+   1,L,J,G
+   1,L,K,G
+   9,L
+   7,L,J
+  31,L
+  12,L,J
+   5,L
+   2,L,J
+   9,L
+  10
+   1,J
+   6
+   2,J
+   5
+   2,L
+  12,L,J
+   5,L
+  10,L,J
+   8,L
+   1,L,J,G
+   1,L,K,G
+   7,L
+   2,L,J
+   2,L
+  57,L,J
+   1,J
+   6,K,G
+  54,G
+   2,U,G
+   1,G
+   1,J,G
+   1,R,J
+  14,L,K,G
+   1,L,J,G
+   1,L,K,G
+   9,L
+   1,L,J
+  26,L,D
+   1,L,J
+  14,L
+   1,L,J
+  14,L
+   4,L,J
+   7,L
+   4,L,J
+  12,L
+   1,L,J
+   6,L
+   1,L,J
+   1,L,J,G
+   1,L,K,G
+  12,L
+   9,L,J
+   9,L
+   1,L,J
+   9,L
+   1,L,D
+   1,L
+   3,L,D
+   2,L,J
+   2,L
+   1,L,J,G
+   1,L,K,G
+  12,L
+   4,L,J
+   5,L
+   3,L,J
+   1,L
+   1,L,J
+   1,L
+   1,L,J
+   9,L
+   2
+   1,L
+   1,L,J
+   3,L
+   1,L,J,G
+   1,L,K,G
+   9,L
+   1,L,J
+  14,L
+   2,L,D,J
+   8,L
+   1,L,J
+   1,L
+   1,L,J
+   8,L
+   1,L,J,G
+   1,L,K,G
+   9,L
+#Note: An electricity cycle wait here would mess with the big electricity's 2nd stun
+   8,L,J
+  19,L
+  39,L,J
+  14,U,X
+   1,R
+   5
+StunPause
+   2
+   1,J,G
+   2,R,J
+   6,J
+   1,R,J
+   1,L,J
+   1,R,J
+  13,R,K,G
+Repeat,3
+   1,J,G
+   3,R,J
+   5,J
+   1,R,J
+   1,L,J
+   1,R,J
+  13,R,K,G
+EndRepeat
+  27,L,J
+  41,L
+EndStunPause
+  10,L
+StunPause
+  23,L
+SkipInput,3,1
+  15,L,X
+  17,L
+SkipInput,3,1
+  10,L,X
+SkipInput,3
+   5,L,X
+  46,L
+   1,J,G
+   2,L,J
+   6,J
+   1,L,J
+   1,R,J
+   1,L,J
+  13,L,K,G
+   1,J,G
+   3,L,J
+   5,J
+   1,L,J
+   1,R,J
+   1,L,J
+  13,L,K,G
+   4,L,J,G
+   6,L
+   1
+   4,R,J
+EndStunPause
+  11,R,K
+   2,K
+   7,L,J,G
+   3,K,G
+   1,R
+   8,L,J,G
+StunPause
+   6,L,J
+   1,L,K,G
+   1,L,J,G
+   9,L
+Repeat,5
+   1,L,J
+  14,L
+EndRepeat
+   5,L,J
+  24,L
+EndStunPause
+   1,L,D
+   1,D
+   1,L,J,G
+   1,L,K,G
+   9,L
+   1,L,J
+  23,L,D
+   9,L
+  12,L,D,J
+  23,L,D
+   1,R,D
+   3,R
+   1,R,J
+   1,K,G
+   6,R
+   1,L
+  12,L,J
+   9,L
+   2,L,J
+   9,L
+   1,L,J
+  17,L
+   3
+   4,L,Z
+   1,L,J
+   6,L
+  21,L,J
+
+#lvl_memory-08a (1)
+  24,L,J
+  12,L,K
+   7,J,G
+   1,L,J
+   1,J
+   1,L,J
+   1,R,J
+   1,L,J
+  13,L,K,G
+   1,J,G
+   2,L,J
+   4,J
+   1,L,J
+   1,J
+   1,L,J
+   1,R,J
+   1,L,J
+  13,L,K,G
+   1,J,G
+   2,L,J
+   4,J
+   1,L,J
+   1,J
+   1,L,J
+   1,R,J
+   1,L,J
+  13,L,K,G
+   1,J,G
+   2,L,J
+   4,J
+   1,L,J
+   1,J
+   1,L,J
+   1,R,J
+   1,L,J
+  13,L,K,G
+  40
+
+#lvl_memory-09a
+   3,L,J,G
+   9,J
+   9,K,G
+   3
+   1,J,G
+   1,R
+   1,R,K
+  14,R,J
+   3,J
+   1,R,K,G
+   1,R,J,G
+   8
+   1,R
+   1,R,N
+  35
+
+#Electricity Cycle [memory-09a]
+   0
+#-----
+
+  85,U
+   1,X
+  19
+   1,L,J
+   1,L
+StunPause
+   8,L,D
+  16,R,D
+   1,D
+   4,R,D
+  11,R,D,J
+   1,L,J
+   1,K,G
+   3,R,K
+   4,L,K
+   7,L,J,G
+   4,J
+   1,L,J
+   9,K,G
+   1,L,K
+   1,R,K
+   1,L,K
+  13,L,J,G
+   3,L,K,G
+   1,J,G
+   1,L
+   4
+   1,L
+   5,R
+   5,R,J
+EndStunPause
+   2,R,J
+   5,R
+   2,R,J
+   2,R
+
+#lvl_memory-09b
+   3,R
+  12,R,J
+   5,R
+   2,R
+   1
+   3,J
+   3
+   1,L
+   3
+   6,G
+   1,U,G
+   1,K,G
+  11,J,G
+   1,R,J
+   6,L,J
+   1,L,K,G
+   6,K
+   1
+   1,R
+   1
+   1,L
+   1,L,J,G
+   1,L,K,G
+   7,L
+  12,L,J
+   9,K,G
+   1,L,K
+   1,R,K
+   1,L,K
+  12,L,J,G
+   7,K,G
+   1,L,K
+   1,K
+   1,L,K
+   1,R,K
+   1,L,K
+  13,L,J,G
+  10,L,K,G
+   2
+  10,L,J,G
+   1,J
+   1,L,J
+   1
+   4,R,K
+  17,U,X
+  15,L,J
+   7,L
+  16
+  18
+   7,R
+  21,R,U,X
+   6
+  14,U,X
+  12
+  15,U,X
+   5,R
+  34,L
+  15,L,U,X
+  17,L
+   2
+  12,J,G
+   5,K,G
+   1,L,K
+   1,R,K
+   1,J
+  22,R,K
+   1,R,J,G
+   1,J
+   1,L,J
+   1,K
+  22,L,J
+  14,G
+   1,J,G
+   1,L,J
+   1,R,J
+   1,R,K
+  22,R,J
+   7,G
+
+#Electricity Cycle [memory-09b]
+   0,G
+#-----
+
+   3,J,G
+   1,R,J
+   1,L,J
+   1,L,K
+  20,L,J
+   2,J
+   9,R,K
+  10,R
+   3
+  15,R,X
+  16,R
+   6,R,D
+   2,R
+  28,R,J
+   1,G
+  12,R,J,G
+   7,R,K,G
+   5,R
+   3,R,J
+   2,R
+   1,R,J
+  10
+   1,R,J
+   1
+   1,J
+   2
+Repeat, 6
+   1,J
+  10
+   1,J
+   1
+   1,J
+   2
+EndRepeat
+Repeat, 6
+   1,L,J
+   1,L
+   9
+   1,J
+   1
+   1,J
+   2
+EndRepeat
+Repeat, 4
+   1,J
+  10
+   1,J
+   1
+   1,J
+   2
+EndRepeat
+Repeat, 3
+   1,R,J
+   1,R
+   9
+   1,J
+   1
+   1,J
+   2
+EndRepeat
+   1,J
+   1
+   9
+   1,J
+   1
+   1,J
+   2
+   1,L,J
+   1,L
+   9
+   1,J
+   1
+   1,J
+   2
+   1,J
+  10
+   1,J
+   1
+   1,J
+   2
+   1,R,J
+   1,R
+   9,R
+   1,J
+   1
+   1,J
+   2
+   1,R,J
+   1,R
+   1,L
+  13
+ 152,L,G
+   1,G
+   4,L,J,G
+   4,L
+StunPause
+   3,L
+   6
+  12,J
+   9
+Repeat,11
+   1,J
+  10
+   1,J
+   1
+   1,J
+   2
+EndRepeat
+   1,J
+  10
+   1,J
+   1
+EndStunPause
+StunPause
+   1,J
+EndStunPause
+StunPause
+   2
+Repeat,3
+   1,J
+  10
+   1,J
+   1
+   1,J
+   2
+EndRepeat
+   1,R,J
+   4,R
+   1,L
+  10
+   1,G
+  20,R,G
+  27,G
+   1,J,G
+   1,R,J
+   1,L,K,G
+   1,L,J,G
+   3,L,J
+   6,R,J
+   1,R,K,G
+   1,R,J,G
+  20,R,D
+SkipInput,3
+  13,R,D
+   1,R,J
+  28,R
+   1,R,J
+EndStunPause
+  32,R,J
+  41,G
+   4,J,G
+   1,R,J
+   1,J
+   2,L
+   1,R,J,G
+   2,L,J
+  20,R,J
+   3
+   1,G
+
+#Electrity Cycle [memory-10a (0)]
+   0,G
+#-----
+
+  12,K,G
+   2,J,G
+   1,K,G
+  11,L,K
+   6,L
+   2,L,J
+
+#lvl_memory-10a (0)
+   9,L,K
+  25,L,D
+  13,R,D
+  16,L,D
+   1,L
+   1,L,D
+   2,L
+   1,L,D
+   1,L
+   9,L,J
+  17,L,D
+   2,D
+   1,L,D
+   1,D
+   2,L,D
+  13,R,D
+   9,R
+StunPause
+  38,R
+   2,R,J,G
+   2,L,J
+   2,J
+   1,R,K,G
+   7,R
+   4,R,J
+   5,R
+   1,R,J
+  11,R
+   9,R,J
+   2,R
+EndStunPause
+   4,R
+   3,R,J
+   1,R
+
+#Drift Wait [memory-10b] A
+#Each repeat loop here is a multiple of 6. Final line can either be a 3f, or a 6f
+Repeat,318
+   5,G
+   1
+EndRepeat
+   3,G
+#-----
+
+#Electricity Unload/Cycle [memory-10b] A
+   2,G
+#-----
+
+   6,J,G
+   1,J
+
+#lvl_memory-10b
+   2,J
+   1,R,J
+   1,L,J
+   1,R,J
+  13,R,K,G
+   7,L,J
+  25,L,D
+StunPause
+  11,L,D
+  19,R,D
+EndStunPause
+  21,R
+  10,R,D
+   1,R
+  13,R,D
+
+#Electricity Unload/Cycle [memory-10b] B
+
+#+0f
+#   19,D
+#    4
+#---
+
+#+1f
+  12,D
+   1
+   1,D
+   7
+   1,L
+   1
+   1,R
+#---
+
+#+2f
+#    9,D
+#    1
+#    1,D
+#   14
+#---
+
+#-----
+
+   1,L,J
+   1,L,K
+  26,L
+   1,L,J,G
+   1,L,K,G
+   9,L
+  24,L,J
+   8,L
+  12,R
+   3
+  26,L,J
+  10,L
+   3,R,D
+   1,R
+   4,R,D
+   2,L,D
+   6,D
+  10,L
+  31
+  12,R
+   1,D,J
+   1,R,J
+   8,D
+StunPause
+  13,D
+   6,R,D
+  55,L,D
+  98,D
+   1,R,D
+EndStunPause
+#No wait here
+   1,D
+  38,R,D
+StunPause
+  12,R,J
+  62,R,D
+   2,D
+EndStunPause
+#...or here
+   5,D
+   1,L,J
+  14,L,D
+StunPause
+  13,L,D
+   9,D
+   1,R,D
+   1,D
+   2,L,D
+   2,D
+  21,R,D
+SkipInput,3
+   6,R,D
+   2,D
+   6,L,D
+   1,D
+  20,L,D
+   8,D
+EndStunPause
+   1,D
+Repeat,5
+   1,R,D
+   1,L,D
+EndRepeat
+   8,D
+   1,R,D
+
+#lvl_memory-10a (1)
+# limbo start
+  13,R,D,O
+   3,R
+   1,R,D
+   1
+   1,R,J
+   6,R
+   7,L
+   1,R
+   1,L
+   1,R,J
+   1,R,K
+# limbo end
+  36,O
+
+#Electricity Cycle [memory-11b] A
+   0
+#-----
+
+   1,R,J
+   9,R
+  40
+
+#lvl_memory-11a (0)
+   5,R
+   1,R,J
+  14,R
+   1,R,J
+  14,R
+   1,R,J
+   1
+  14,R
+   1,R,J,G
+   3,R,K,G
+  16,R
+   3,R
+   3
+   1
+  14,R
+   1,R
+   1
+   1,R
+   1,R,J
+   1,L,K,G
+   3,R
+   4
+   4,R
+   1,R,J
+   1,L
+   1,K,G
+   1,L,J,G
+   4,R,J
+
+#lvl_memory-11b
+   2,R,J
+   5,R
+   5,J
+#big one
+StunPause
+   1,J
+   1
+   2,J
+   2
+   3,R
+   1
+   1,G
+   1,J,G
+   1,R,J
+   1,L,J
+   1,R,J
+  13,R,K,G
+   2,R,J,G
+   1,L,J
+   2,L
+   4
+   3,R
+   9,R
+   1,R
+  15,R,D
+SkipInput,3
+  16,R,D
+   2,R
+   1,R,D
+SkipInput,3,1
+   4,R,Z
+   1,R,J
+   6,R
+  48,R,J
+  34,G
+   4
+   3,J,G
+   1,L,J
+   1,R,K,G
+  11,K
+   3
+   6,R
+   1,R,J,G
+   1,R,K,G
+  44,R,D
+   1,R,J
+  14,R
+  45,R,J
+SkipInput,3,1
+  14,R,Z
+   1,R,J
+   6,R
+  52,R,J
+   1,K,G
+   1,L,K
+   5,R,J,G
+EndStunPause
+   3,R,J
+   7,R
+  15,G
+   7,J,G
+   1,L,J
+  14,L,K
+
+#Electricity Cycle [memory-11b] B
+
+#+0f
+   2
+   1,L
+   5,J,G
+   1,R,J
+   1,K
+  12,R,J
+  18,R
+   6,R,D
+   2,R,D
+   1,D
+   2
+#---
+
+#+1f
+#    4
+#    1,L
+#    2,J,G
+#    2
+#    1,R
+#    1,K
+#   12,R,J
+#   18,R
+#    6,R,D
+#    2,R,D
+#    2
+#    1,D
+#---
+
+#+2f
+#    4
+#    1,L
+#    1,J,G
+#    4
+#    1,R
+#    1,K
+#   12,R,J
+#   18,R
+#    4,R,D
+#    1,R
+#    3,R,D
+#    2,D
+#    1
+#---
+
+#-----
+
+   9,R,Z
+   1,R,J
+   6,R
+   4,R,J
+   8,R
+  16,R,D,X
+StunPause
+   1,R,J,G
+   3
+  13,R
+  34,R,J
+EndStunPause
+  18,R,J
+  60,R,U,X
+  11,J,G
+   1
+   4,K,G
+   1
+   1,J,G
+   1
+  10,K,G
+   1
+   1,L
+  14,R,J,G
+   1,R,K,G
+   1,R,J,G
+  10,R
+   4
+   1,R,J
+   5,R
+  32,R,J
+   1,K,G
+  13,J,G
+   1,L,J
+  14,R,K,G
+   2,R,J,G
+   5,R
+  10,R,J
+   3,R
+   1,R,K
+   5,R
+  31,R,J
+   1
+  11,J,G
+   1,L,J
+  14,R,K,G
+   2,R,J,G
+   5,R
+   8,R,J
+   1,R
+   3,L
+
+#Moving Electricity Cycle
+   1,J,G
+   9,L,J
+   1,J
+   1,R,J
+   7,L,K,G
+  10,L
+   1
+  32,G
+   1,J,G
+   8,R
+   1,R,J
+   4,R
+#    1,L,K,G
+#    7,K
+#    1,R,J
+#   11,R,K
+#    1,R
+#-----
+
+  13,R,Z
+   1,R,J
+   6,R
+  10,R,J
+  18,R,D,X
+   1,R,J,G
+   4
+   7,R
+  10,R,J
+  17,R,D,X
+  10,R,J
+   5,R
+  18,R,D,X
+   5,R,J
+   6,R
+  12,R,D,X
+StunPause
+   3,R,D,X
+   1,R,D
+   2,R
+   1,R,D,J
+   1,J
+   1,R,J
+  21,R,J
+SkipInput,3,1
+  15,R,U,Z
+  14,R
+EndStunPause
+   2,R,J,G
+   2,L,J
+   2,R,J
+  10,R
+  11
+  14,R
+   1,R,J
+   1,L,K,G
+   1,J,G
+   1,K,G
+   1,L,J,G
+   4,R,J
+   1,R
+
+#lvl_memory-11a (1)
+   4,R
+   2,R,J
+   2,R
+   1
+   8,R
+   1
+   5,R,J
+   1,R
+   1,R,K,G
+   6,R
+  40
+
+#lvl_ch6-memory-12
+Read,Glyph-Mindash,lvl_ch6-memory-12,Time
+
+#Time
+ChapterTime: 27:03.126(95478)
+  32,R
+
+#113x Dashes
